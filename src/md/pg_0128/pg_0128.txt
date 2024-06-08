@@ -1,44 +1,15 @@
+<page id=93>
+time-warping) allows us to produce many versions of such a phrase with different internal time proportions and perhaps, spectral emphases, just as we might produce variants in the Hpitch domain, of a melodic phrase. Also, time-warping of a continuous sound can create a kind of forced continuation (see Chapter 5) in the spectral domain if applied to a complexly spectrally evolving sound. Similarly, undulating continuation properties will become slow glides with quite different musical implications to their undulating sources and we can alter these implications through time-warping. (Sound example 11.29).
 
-time-warping) allows us to produce many versions of such a phrase with different internal time
-proportions and perhaps, spectral emphases, just as we might produce variants in the Hpitch domain, of
-a melodic phrase. Also, time-warping of a continuous sound can create a kind of forced continuation
-(see Chapter 5) in the spectral domain if applied to a complexly spectrally evolving sound. Similarly,
-undulating continuation properties will become slow glides with quite different musical implications to
-their undulating sources and we can alter these implications through time-warping. (Sound example
-11.29).
-The time-warping of rhythmically pulsed events provides us with an entirely new area for musical
-exploration. It is already possible to work with multiple fixed time-pulses (e.g. mutually synchronised
-click-tracks in different tempi, as in Vox 3) or with time-pulses mutually varying in a linear manner (as
-in the "phasing" pieces of Steve Reich, which generate new melodic, rhythmic or spectral percepts
-through finely controlled delay) but we might also produce mutual interaction between rhythmic streams
-which are themselves accelerating of decelerating, from time to time forcing the streams to
-pulse-synchronise in the same (possibly changing) tempo and in the same (or a displaced)
-pulse-grouping unit (bars coincide or not). (Sound example 11.30).
-This device is used in Vox 5 where three copies of an ululating voice are slightly time-varied in different
-ways and made to move differently in space. They begin in synchronisation, in a single spatial location,
-and reconverge to a similar state at the section end by appropriate inversions of the speed variations
-(see Diagram 3). Hence speed divergence and resynchronisation become elements in the emergence
-and merging of aural streams; or "counterstreaming", the time-fluid cousin of counterpoint. Note,
-however, that the sound constituents of two time-varying counter streams do not have to be the same,
-or even similar. (Sound example 11.31).
-In fact, if the stream constituents are identical, are synchronised at some point and have slightly
-different time-stretch parameters, their interaction produces portamenti rising to or falling from the
-point of synchronisation (see Chapter 2 on Pitch Creation). (Sound example 11.32). In the previous
-case (Sound example 11.31) these precise-delay pitch-artefacts were avoided by carefully fading two
-of the three streams just before such artefacts would appear.
-The interaction of time-varying pulse-streams bears the same relation to fixed-tempo polyrhythm as
-controlling pitch-glide textures does to Hpitch field pitch organisation.
-Time-stretching may lead to spectral fission (see Chapter 3), e.g. Spectral time-stretching of noisy
-sounds by large amounts may produce sounds with gliding inharmonic spectra (Sound example 11.11)
-- or to constructive distortion e.g. waveset time-stretching produces pitches bead streams (Sound
-Examples 11. 7 & 11.8) and spectral time-stretching reveals window-stepping in spectrally traced
-sounds (Sound Example 11.16). In both cases a long time-stretched goal sound may not be
-perceptually relatable to the source and will require mediating sounds (e.g. less time-stretched
-versions of the source using the same technique) to establish a musical connection.
-Throughout this section we have talked only of time stretching but the same arguments may be applied,
-in reverse, to time contraction. In particular, phrase structure may be compressed into grain-stream (a
-comprehensible spoken sentence can become a rapid-fire, spectrally irregular sequence of grains) and
-continuation compressed into the indivisible qualitative percept of grain. Once again, if a perceptual
-connection between source and goal is required (to build musical structure), mediating sound types may
-be necessary.
-93
+The time-warping of rhythmically pulsed events provides us with an entirely new area for musical exploration. It is already possible to work with multiple fixed time-pulses (e.g. mutually synchronised click-tracks in different tempi, as in Vox 3) or with time-pulses mutually varying in a linear manner (as in the "phasing" pieces of Steve Reich, which generate new melodic, rhythmic or spectral percepts through finely controlled delay) but we might also produce mutual interaction between rhythmic streams which are themselves accelerating of decelerating, from time to time forcing the streams to pulse-synchronise in the same (possibly changing) tempo and in the same (or a displaced) pulse-grouping unit (bars coincide or not). (Sound example 11.30).
+
+This device is used in Vox 5 where three copies of an ululating voice are slightly time-varied in different ways and made to move differently in space. They begin in synchronisation, in a single spatial location, and reconverge to a similar state at the section end by appropriate inversions of the speed variations (see Diagram 3). Hence speed divergence and resynchronisation become elements in the emergence and merging of aural streams; or "counterstreaming", the time-fluid cousin of counterpoint. Note, however, that the sound constituents of two time-varying counter streams do not have to be the same, or even similar. (Sound example 11.31).
+
+In fact, if the stream constituents are identical, are synchronised at some point and have slightly different time-stretch parameters, their interaction produces portamenti rising to or falling from the point of synchronisation (see Chapter 2 on Pitch Creation). (Sound example 11.32). In the previous case (Sound example 11.31) these precise-delay pitch-artefacts were avoided by carefully fading two of the three streams just before such artefacts would appear.
+
+The interaction of time-varying pulse-streams bears the same relation to fixed-tempo polyrhythm as controlling pitch-glide textures does to Hpitch field pitch organisation.
+
+Time-stretching may lead to spectral fission (see Chapter 3), e.g. Spectral time-stretching of noisy sounds by large amounts may produce sounds with gliding inharmonic spectra (Sound example 11.11) - or to constructive distortion e.g. waveset time-stretching produces pitches bead streams (Sound Examples 11. 7 & 11.8) and spectral time-stretching reveals window-stepping in spectrally traced sounds (Sound Example 11.16). In both cases a long time-stretched goal sound may not be perceptually relatable to the source and will require mediating sounds (e.g. less time-stretched versions of the source using the same technique) to establish a musical connection.
+
+Throughout this section we have talked only of time stretching but the same arguments may be applied, in reverse, to time contraction. In particular, phrase structure may be compressed into grain-stream (a comprehensible spoken sentence can become a rapid-fire, spectrally irregular sequence of grains) and continuation compressed into the indivisible qualitative percept of grain. Once again, if a perceptual connection between source and goal is required (to build musical structure), mediating sound types may be necessary.
+</page>

@@ -1,41 +1,19 @@
+<page id=124>
+Except for x2 time-stretching, when working on musically interesting sound sources, waveset repetition is more useful as a special sound transformation procedure. Successive applications of such x2 stretching does not significantly reduce the bead-streaming effect in long time dilations.
 
-Except for x2 time-stretching, when working on musically interesting sound sources, waveset
-repetition is more useful as a special sound transformation procedure. Successive applications of such
-x2 stretching does not significantly reduce the bead-streaming effect in long time dilations.
 SPECTRAL TIME-STRETCHING
-A sustained sound with stable spectrum and no distinctive onset characteristics may be analysed to
-produce a (windowed) frequency-domain representation. We can then resynthesize the sound, using
-each window to generate a longer duration (phase vocoder). The resultant sound appears longer but
-retains its pitch and spectral characteristics. We may notice an extension of the initial rise time and
-final decay time but in this case these may well not be perceptually crucial. Of all the techniques so far
-discussed, this is by far the best for pure time-stretching and works well up to about x8 time
-stretching. (Sound example 11.9).
-Beyond this,however, it too becomes less satisfactory as a pure time-stretching procedure. The
-original window size for the analysis is chosen to be in the time-domain so brief that the human ear
-perceives the small change from window to window (in fact a "step") as a smooth continuous transition.
-Once we do too long a resynthesis from individual windows, e.g. a x64 time-stretch, the spectrum of
-each window is sustained long enough for us to become aware of the joins. The continuity of the
-original source is not reconstructed.
-One way around this limitation is to stretch the source x8, synthesize the result, reanalyse and
-time-stretch by x8 once again. However, a more satisfactory approach is to interpolate between the
-existing windows to create new windows intermediate in channel-frequency and channel-loudness
-values between the original windows but spaced at the original window time-interval. (spectral
-time-stretching). The procedure ensures a perceptually continuous result even at x64 time stretch.
-(Sound example 11.10).
-However, even in this case, spectral transformations may arise. In particular, a sound with a rapidly
-changing spectrum, originally perceived as noise, will be sufficiently slowed for us to hear out the
-spectral motion involved. In general we will hear a resulting sound with a gliding inharmonic
-("metallic") spectrum in place of our source noise, at very great time- stretching factors. (Sound
-example 11.11).
-Using time-variable spectral time-stretching (spectral time-warping), we can use this effect to
-produce spectrally diverse variants of a source, zooming in to a maximal time-stretch at a particular
-point in a source, will produce a particular inharmonic artefact in the goal sound. Zooming in to a
-different point in the source will produce a different inharmonic artefact in the new goal sound. We can
-thus produce a collection of related musical events deriving from the same source (provided enough of
-the resulting signals are elsewhere similar to each other). (Sound example 11.12).
-The ultimate extension of this process is spectral freezing, where the frequencies or loudnesses of the
-spectral components in a particular window are retained through the ensuing windows. This
-compositional tool is discussed in Chapter 3.
-If we have a sound with marked (grain time-frame) onset characteristics, e.g. an attack-dispersion
-sound (piano, bell, pizz), even our interpolated spectral time-stretch over a long stretch, will radically
-89
+
+A sustained sound with stable spectrum and no distinctive onset characteristics may be analysed to produce a (windowed) frequency-domain representation. We can then resynthesize the sound, using each window to generate a longer duration (phase vocoder). The resultant sound appears longer but retains its pitch and spectral characteristics. We may notice an extension of the initial rise time and final decay time but in this case these may well not be perceptually crucial. Of all the techniques so far discussed, this is by far the best for pure time-stretching and works well up to about x8 time stretching. (Sound example 11.9).
+
+Beyond this,however, it too becomes less satisfactory as a pure time-stretching procedure. The original window size for the analysis is chosen to be in the time-domain so brief that the human ear perceives the small change from window to window (in fact a "step") as a smooth continuous transition.  Once we do too long a resynthesis from individual windows, e.g. a x64 time-stretch, the spectrum of each window is sustained long enough for us to become aware of the joins. The continuity of the original source is not reconstructed.
+
+One way around this limitation is to stretch the source x8, synthesize the result, reanalyse and time-stretch by x8 once again. However, a more satisfactory approach is to interpolate between the existing windows to create new windows intermediate in channel-frequency and channel-loudness values between the original windows but spaced at the original window time-interval. (spectral time-stretching). The procedure ensures a perceptually continuous result even at x64 time stretch.  (Sound example 11.10).
+
+However, even in this case, spectral transformations may arise. In particular, a sound with a rapidly changing spectrum, originally perceived as noise, will be sufficiently slowed for us to hear out the spectral motion involved. In general we will hear a resulting sound with a gliding inharmonic ("metallic") spectrum in place of our source noise, at very great time- stretching factors. (Sound example 11.11).
+
+Using time-variable spectral time-stretching (spectral time-warping), we can use this effect to produce spectrally diverse variants of a source, zooming in to a maximal time-stretch at a particular point in a source, will produce a particular inharmonic artefact in the goal sound. Zooming in to a different point in the source will produce a different inharmonic artefact in the new goal sound. We can thus produce a collection of related musical events deriving from the same source (provided enough of the resulting signals are elsewhere similar to each other). (Sound example 11.12).
+
+The ultimate extension of this process is spectral freezing, where the frequencies or loudnesses of the spectral components in a particular window are retained through the ensuing windows. This compositional tool is discussed in Chapter 3.
+
+If we have a sound with marked (grain time-frame) onset characteristics, e.g. an attack-dispersion sound (piano, bell, pizz), even our interpolated spectral time-stretch over a long stretch, will radically
+</page>

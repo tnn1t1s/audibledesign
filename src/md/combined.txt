@@ -1,0 +1,863 @@
+<page id=112>
+APPENDIX 1
+
+(Page numbers refer to the diagrammatic Appendix 2).
+
+ACCELERANDO
+
+An increase in the speed at which musical events succeed one another.
+
+ACCUMULATION
+
+Sound which 'gathers momentum' (increases in loudness and spectral content) as it proceeds.
+
+ALL-PASS FILTER ... 9
+
+AMPLITUDE
+
+A scientific measure of the strength of a sound-signal. This normally reveals itself in perception as the loudness of the sound, but amplitude and loudness and not equivalent. In particular, the sensitivity of the human ear varies from one frequency range to another, hence Amplitude and perceived loudness are not identical. However, in this book, the term Loudness is used, instead of Amplitude, in the text, wherever this does not cause any confusion. Diagrams however usually refer to Amplitude.
+
+ANALYSIS
+
+In this book analysis almost always refers to Fourier Analysis, the process of converting the waveform (time-domain representation) of a sound into its spectrum (frequency-domain representation).  Analysis of musical scores is the process of determining the essential structural features of a composition from its notated representation in a score. This notion might be generalised to include any process attempting to uncover the underlying structure of a piece of music.
+
+ARTICULATION
+
+The (conscious) changing/moving of a property of a sound, usually in a way bound by conventions (of language, musical practice etc) but often not appearing as such in any associated notation system.
+
+ATTACK
+
+The onset portion of a sound where it achieves its initial maximum loudness.
+</page>
+
+B *****
+BAND PASS FILTER
+7
+BAND REJECT FILTER
+7
+BAR
+A grouping of musical duration-units. The bar-length is measured in some basic musical unit (e.g.
+crotchets, quavers) for which a speed (tempo) is given (e.g. 120 crotchets per minutes). In most
+musics, bar length is regular for long stretches of time, and bar length is one determinant of perceived
+rhythm.
+BRASSAGE
+44-45
+A procedure which chops a sound into a number of segments and then resplices these together tail to
+head. In the simplest case sounds are selected in order, from the source, and respliced back together in
+order. However there are many possible variations on the procedure. Brassage may be used for
+changing the duration of a sound, for evolving montage based on a sound-source, and for many other
+musical applications. See also GRANULAR RECONSTRUCTION
+BREAKPOINT TABLE
+A table which associates the value of some time-varying quantity (e.g. pitch, loudness, spectral stretch
+etc.) and the time at which that value is reached. e.g.
+(time) (value)
+0.0
+2.7
+1.3
+2.2
+1.7
+2.1
+This table allows us to describe the time-varying - trajectory of the quantity, and a musical program may
+read the data in the table, interpolating between the given values where necessary, to determine what
+to do at a particular time in the source-sound.
+113
+CADENCE
+A recognised device in a musical language which signals the end of a musical phrase, section or piece.
+CAUSALITY
+The way in which the sound was apparently initiated. NOT the actual cause of the sound. Was the
+source apparently struck, rubbed, shaken, spun etc. ??
+CHANGE RINGING
+A form of bell-ringing in which the order in which the bells are sounded is permuted in specific ways.
+CHANNEL
+Channel is most often used in this book to refer to an analysis channel. We derive the spectrum
+(frequency domain representation) of a sound from its waveform (time-domain representation) by a
+process of analysis. In doing the analysis we must decide how accurate we would like to be. We may
+search for a partial in each block of 100 cycles per second (i.e. between 50 and 150, 150 and 250, 250
+and 350 etc) or, more discriminatingly, in each block of 10 cycles per second (i.e. between 5 and 15, 15
+and 25, 25 and 30 etc.). These search blocks are the channels of the analysis. Channels should not be
+confused with WINDOWS.
+Channel is also used to refer to the right hand and left hand parts of a stereo sound (which can be
+viewed as two separate streams of digital information).
+CHORD
+A set of pitches initiated and sounding at the same time. Usually a set of pitches within a known
+reference set (e.g. the European tempered scale).
+CHORUSING
+45
+A process of making a single musical source (e.g. a voice) sound like a group of similar sources all
+making the same sound (e.g. a chorus of singers singing the same pitch).
+CHROMATIC SCALE
+The european scale consisting of all the semitone divisions of the octave.
+COMB-FILTER TRANSPOSITION
+65
+A quick method of achieving octave-upward transposition of a sound, where its pitch is known.
+COMB-FILTERING
+64
+114
+COMPRESSION
+60
+Reducing the loudness of a sound by greater amounts where the sound itself becomes louder.
+CONSTRUCTED CONTINUATION
+The extension of a sound by some compositional process (e.g. brassage, zigzagging).
+CONSTRUCTIVE DISTORTION
+A process which generates musically interesting artefacts from the intrinsic properties of the waveform
+or the (time-varying) spectrum of a sound.
+CONTINUATION
+Where sounds are longer than grains, we hear how the sound qualities evolve in time, (their
+morphology). These sounds have continuation.
+CONTOUR
+The shape of some property of a sound at one moment in time. In particular, the shape of the spectrum.
+This is often referred to as Spectral Envelope. However, Envelope is also used to describe the
+time-changing evolution of a property (especially Loudness). To avoid any confusion, this book
+reserves Trajectory for such time-changing properties, and Contour for the instantaneous shape of a
+property. The names of computer instruments may however use the term 'Envelope'.
+The spectral contour describes the overall loudness contour of the spectrum at a single moment in time.
+But note that the spectral contour may itself evolve (change) through time.
+CORRUGATION
+60
+CROTCHET = 120
+An indication of the speed at which musical events succeed one another. Here the duration unit,
+crotchet, occurs 120 times every second. This speed is known as the Tempo.
+CSOUND
+A general purpose computer language which allows a composer to describe a sound-generating
+procedure (synthesis method) and ways to control it, in almost any degree of detail, and to define a
+sequence of events (a score) using the sounds generated, and which then generates the sound events
+thus defined. CSound is the most recent development of a series of such general purpose synthesis
+engines, and the one in most common use at the time of writing (Autumn, 1994).
+CUTTING
+40
+115
+D
+DELAY
+64
+DENSITY
+Describes the way in which a range is filled. Applies particularly to time ranges. A high-density texture
+has a great many events in a short time. Temporal density is a primary property of
+TEXTURE-STREAMS. The concept of density can also be applied to pitch-ranges.
+DESTRUCTIVE DISTORTION
+An irreversible transformation of the waveform of a sound, changing its spectral quality (the brightness,
+noisiness etc), rather than the pitch or duration. Distortion also implies the degradation of the sound
+(and irreversibility means that the original sound cannot be restored from the distorted version).
+Destructive distortion which preserves zero-crossing points can be musically useful. See
+WAVESETS.
+DIPHONE SYNTHESIS
+The reconstruction of speech (usually) by synthesising the transitions between significant phonemes
+(roughly speaking, vowels & consonants) rather than the phonemes themselves.
+DRONE
+A pitched or multipitched sustained sound which persists for a long time.
+DUCKING
+62
+Means of ensuring the prominence of a lead 'voice' in a mix.
+DURATION
+The length of time a sound persists. Not to be confused with event-onset-separation-dration which is
+the time between the start of successive sound events.
+DYNAMIC INTERPOLATION
+The process whereby a sound gradually changes into a different (kind of) sound during the course of a
+single sonic event.
+116
+***** E
+ECHO
+64
+EDITING
+The processes of cutting sounds into shorter segments or/and splicing together sounds or segments of
+sounds.
+ENVELOPE
+The loudness trajectory of a sound (the way the loudness varies through time) is often referred to as
+the envelope of the sound. Computer instruments which manipulate this loudness trajectory are usually
+called 'Envelope something'. Envelope is also used in the literature to refer to the time-changing
+variation of any property (we use the term trajectory) and even to the instantaneous shape of the
+spectrum (we use the term contour).
+ENVELOPE CONTRACTION
+60
+ENVELOPE FOLLOWING
+58
+ENVELOPE INVERSION
+60
+ENVELOPE SMOOTHING
+60
+ENVELOPE SUBSTITUTION
+59,61
+ENVELOPE TRANSFORMATION
+60
+Musical transformations of the loudness trajectory of a sound.
+ENVELOPING
+59
+EXPANDING
+60
+117
+***** F *****
+F5
+The pitch 'F' in the European scale, in the 5th octave.
+FAST FOURIER TRANSFORM
+A very efficient computer algorithm for performing the Fourier Transform.
+FF
+Fortissimo = very loud.
+FIBONACCI SERIES
+Series of numbers in which each term is given by the sum of the previous two terms. The sequence
+begins with 1,1 and is hence..
+1, 1, 2, 3, 5, 8, 13, 21, 34, 55 etc
+The ratio between successive terms
+1/1, 1/2, 2/3, 3/5, 5/8, 8/13, 24/21, 21/34, 34/55 etc.
+approaches closer and closer to the Golden Section as one goes up the series.
+FIELD
+A set of values defined for some property. e.g. the pitches of the scale of G minor define a Field. Any
+pitch of the tempered scale lies either in that field or outside it. Any pitch within the pitch continuum lies
+close (in some perceptually defined sense) to that Field or not.
+FILTER
+7-8
+An instrument which changes the loudness of the spectral components of a sound (even reducing some
+to zero).
+FILTER BANK
+7
+FLUTTER-TONGUING
+A way of articulating a granular sound on breath controlled instruments (woodwind or brass) by
+making a rolled 'r' in the mouth while producing a pitch on the instrument.
+FORMANT
+10
+118
+FORMANT PRESERVING SPECTRAL MANIPULATION
+17
+FOURIER ANALYSIS
+2
+The representation of the waveform of a sound as a set of simpler (sinusoidal) waveforms. The new
+representation is known as the spectrum of the sound.
+FOURIER TRANSFORM
+A mathematical procedure which allows us to represent any arbitrary waveform as a sum of elementary
+sinusoidal waveforms. It is used in Fourier Analysis. See also INVERSE FOURIER TRANSFORM.
+FREQUENCY
+3,4
+A steady sound has a definite repeating shape, a waveform, and this waveform a definite length, which
+takes a certain time to pass the listener. The number of waveforms that pass in each second (the
+number of cycles per second) is known as the frequency of the wave. The frequency of the wave helps to
+determine the pitch we hear.
+FREQUENCY DOMAIN REPRESENTATION
+3
+G *****
+GATING
+60
+GOLDEN SECTION
+If a straight line AB is cut at a point P such that..
+AP/AB = PB/AP
+this ratio is desribed as the Golden Section, & is approximately equal to 0.618
+A
+P
+B
+119
+GRAIN
+Sound having a duration which is long enough for spectral properties to be perceived but not long
+enough for time-fluctuation of properties to be perceived.
+GRAIN-STREAM
+A sound consisting of a rapid sequence of similar onsets.
+GRAIN TIME-FRAME
+The typical duration of a grain.
+GRANULAR PROCESSES
+56-57
+Musical processes which preserve the grains within a grain- stream.
+GRANULAR RECONSTRUCTION
+73
+A procedure which chops a sound into a number of segments and then redistributes these in a texture of
+definable density. The process differs from BRASSAGE in that the segments need not be rejoined tail
+to head. Granular Reconstruction of output density I is brassage.
+GRANULAR REORDERING
+57
+GRANULAR REVERSAL
+56
+GRANULAR SYNTHESIS
+A process, almost identical to granular reconstruction, in which very brief sound elements are generated
+with particular (time-varying) properties and a particular (time-varying) density, to create a new
+sound.
+GRANULAR TIME SHRINKING BY GRAIN DELETION
+56
+GRANULAR TIME SHRINKING BY GRAIN SEPARATION
+56
+GRANULAR TIME STRETCHING BY GRAIN DUPLICATION
+56
+GRANULAR TIME STRETCHING BY GRAIN SEPARATION
+56
+GRANULAR TIME WARPING
+Granular time-stretching or time-shrinking, which itself varies in time.
+120
+H
+HARMONIC
+In traditional European practice, harmonic means pertaining to harmony and relates particularly to tonal
+music. In sound composition, harmonic refers to the property of a spectrum where all the partials are
+multiples of some (audible) fundamental frequency. These partials are then known as harmonics, the
+spectrum is said to be harmonic and the sound has a single definite pitch. (See also INHARMONIC).
+These two usages are incompatible, so in the text we use HArmonic to refer to the traditional usage,
+and harmonic to refer to the sound-compositional usage.
+HARMONIC FIELD
+A reference frame of pitches. This might be thought of as a chord. All pitches in a texture controlled by a
+HArmonic Field will fall on one or other of the pitches of the chord.
+HARMONICITY
+The property of having a harmonic spectrum.
+HARMONICS
+4
+The partials of a sound of definite pitch are (usually) exact multiples of some (audible) frequency known
+as the fundamental. In this case the partials are known as the harmonics of the sound.
+HARMONISER
+38
+Application of brassage with tape-speed transposition to change the pitch of a sound without altering
+its duration. Generic name of commercially available hardware units which do both this and a number of
+other grain time-frame brassage procedures (e.g. duration change without pitch-change).
+HARMONY
+In European music, the rules governing the sounding-together of pitches, and the sequencing of chords.
+HOMOPHONIC
+Music in which there are several parts (instruments or voices) but all parts sound simultaneously
+(though not necessarily with the same pitch) at each musical event.
+HPITCH
+Pitch in a sense which refers to a HArmonic Field or to European notions of Harmony. In contrast to
+pitch as a property of a spectrum.
+121
+***** I *****
+INBETWEENING
+46
+INDIAN RAG SYSTEM
+The system of scales and associated figures and ornaments at the base of Classical Indian music theory
+and practice.
+INHARMONIC
+A spectrum which is not harmonic, but which is not noise, is said to be inharmonic. Inharmonic spectra
+may be bell-like (suggesting several pitches) or drum-like (being focused in some sense but lacking
+definitive pitch).
+INTERPOLATION
+The process of moving gradually between two defined states. See SPECTRAL INTERPOLATION.
+INVERSE FOURIER TRANSFORM
+A mathematical procedure which allows us to convert an arbitrary spectrum (frequency-domain
+representation of a sound) into the corresponding waveform (time-domain representation of the
+sound). See also, FOURIER TRANSFORM.
+INVERSE KARPLUS STRONG
+See SOUND PLUCKING.
+ITERATION
+42
+***** J *****
+JITTER
+Tiny random fluctuations in apparently perceptually stable properties of a sound, such as pitch or
+loudness.
+122
+*****K *****
+KARPLUS STRONG
+An efficient algorithm for generating plucked-string sounds.
+KEY
+A piece of european music using the tempered scale (except where it is intentionally atonal) can usually
+be related to a scale beginning on a particular pitch, around which the melodic patterns and chord
+progressions of the piece are organised. The pitch which begins the scale defines the Key of the piece.
+KLANGFARBENMELODIE
+Musical line where successive pitches are played by different (groups of) instruments. Literally,
+tone-colour melody.
+L *****
+LIMITING
+60
+LINEAR PREDICTIVE CODING
+12
+LOOPING
+42
+LOUDNESS
+Technically speaking, loudness is a property which is related to perception, and is measured in a way
+which takes into account the varying sensitivity of the ear over different frequency ranges. In this sense
+it differs from the Amplitude of the signal, which is a scientific measure of the strength of a sound. In
+this book, the term loudness is used in the text, wherever this will not cause any confusion. Diagrams
+usually refer to Amplitude.
+LPC
+12
+123
+*****M *****
+MAJOR
+Most european music uses one of two scale patterns, known as the major scale and the minor scale
+(the latter having a number of variants).
+META-INSTRUMENT
+An instrument which provides control instructions for another instrument. E.g. the mixing of sounds is
+controlled by a mixing score (which may be a graphic representation of sounds and their entry times, or
+a written list in a computer file). A meta-instrument might write or modify the mixing instructions
+according to criteria supplied by the composer, or in response to other data.
+MF
+mezzo forte = moderately loud.
+MIDI
+Acronym for Musical Instrument Digital Interface. This is a communication protocol for messages sent
+between different digital musical instruments and computers. MIDI stores information on which key is
+pressed or released, how forcefully (or quickly) it is pressed, and on certain kinds of control information
+provided by controllers on digital instruments (e.g. pitch-glide, tremolo etc), together with more
+instrument specific data (which synthesis patch is being used). MIDI does NOT record the sound itself.
+MINOR
+Most european music uses one of two scale patterns, known as the major scale and the minor scale.
+The minor scale has two important variants, the melodic and the harmonic minor.
+MIX-SHUFFLING
+47
+MIXING
+46
+MIXING SCORE
+A set of instructions detailing what will happen when a number of sounds are MIXED together. This
+might be a text file or a graphic display on a computer, but could equally well be a set of instructions for
+moving faders on a mixing desk in a studio. A typical mixing score would contain information about
+which sounds were to be used, at what time each would start, how loud each would be, and at what
+spatial position each should be placed.
+MONO
+Sound emanating from a single source (e.g. a single loudspeaker) or a single channel of digital
+information. As opposed to stereo.
+124
+MORPHOLOGY
+The way in which the properties of a sound vary with time.
+MOTIF
+Small element of musical structure, usually consisting of a sequence of a few pitches (in notated music),
+and out of which larger structural units (e.g. phrases) are built.
+MULTI-DIMENSIONAL SPACE
+A line defines a one-dimensional space, a sheet of paper or the surface (only) of a sphere a
+two-dimensional space, and the world we live in is a three-dimensional space. We may generalise the
+notion of a space to any group of independent parameters. e.g. pitch and duration may be thought of as
+defining a two-dimensional space, and this is the space that we draw in when we notate a traditional
+musical score. Spaces may be of any number of dimensions (i.e. not necessarily ones that we can
+visualise in our own spatial experience) from the four dimensions of Einstein's space-time, to the
+infinite number of dimensions in Hilbert space.
+MULTI-SOURCE BRASSAGE
+45
+NOISE
+Sound having no perceptible pitch(es) and in which energy is distributed densely and randomly over the
+spectrum and/or in a way which varies randomly with time. Typical examples might be the consonants
+'s' or 'sh'. Other sounds (especially those recorded directly from the natural environment) may contain
+elements of unwanted noise which we may wish to eliminate by noise reduction.
+NOISE REDUCTION
+Process of eliminating or reducing unwanted noise in a sound source.
+NOTCH FILTER
+7
+125
+OCTAVE
+A sound whose pitch is an octave higher than a second sound, usually has twice the frequency of that
+second sound. Two pitches separated by an octave, in european music, are regarded in some sense as
+the 'same' pitch, or as belonging to the same 'pitch-class'.
+OCTAVE-STACKING
+48
+ONSET SYNCHRONISATION
+48
+PARAMETER
+Any property of a sound or a sequence of sounds which can be musically organised, Parameter often
+also implies the measurability of that property.
+PARTIAL
+3
+The sinusoidal elements which define the spectrum of a sound.
+PARTIAL TRACKING
+21
+PERMUTATION
+Specific rearrangement of the elements, or the properties of the elements (e.g. loudness), of a sequence
+of musical events.
+PHASE
+9
+PHASE INVERSION
+(9)
+The sound waveform may be replaced by the same form but 'upside-down' (i.e. the new wave rises
+where the other falls and vice versa). The same-effect is achieved with a sinusoidal waveform by
+restarting the wave from the first point at which it recrosses the zero-line (known as a phase-shift by
+180 degrees, or by PI radians). Superimposing the original sound on its phase-inverted version causes
+the sounds to cancel one another.
+126
+PHASE VOCODER
+11
+Instrument producing a moment-by-moment analysis of a sound waveform to reveal its time-evolving
+spectrum. A windowed Fast Fourier Transform.
+PHASING
+9
+PHONEME
+A fundamental sound unit of a language, Crudely speaking we may think of vowels and consonants (as
+heard, rather than as written) but the true definition is more subtle.
+PHRASE
+Element of musical structure consisting of a sequence of sound events and, in traditional practice,
+usually lasting for a few bars.
+PHYSICALITY
+The physical nature of the apparent source of the sound. NOT the physical nature of the real source. Is
+the apparent source hard or soft, rigid or flexible, granular of of-a-piece etc.
+PITCH
+4
+A property of instrumental and vocal sounds organised in most traditional musical practices. Pitch
+arises from a regular arrangement of partials in the spectrum. All partials are multiples of some
+fundamental frequency which is audible (and which may or may not be present in the spectrum), and in
+this case they are known as the harmonics of the sound. In the simplest case (the sine wave) there is
+only the fundamental present. Humans hear pitch between approximately 16 cycles per second and 4000
+cycles per second. Below 16 cps, the sound breaks up into a grain-stream. Above 4000 cycles we may
+still be aware of tessitura (relative pitch-range) but assigning specific pitch becomes more problematic.
+PITCH-GLIDE
+See PORTAMENTO.
+PITCH-TRACKING
+70,71
+Finding and recording the (time-varying) pitch of a sound.
+PITCH-TRACKING BY AUTO-CORRELATION
+70
+PITCH-TRACKING BY PARTIAL ANALYSIS
+71
+PITCH-TRANSFER
+Imposing (time-varying) pitch of a sound on a different sound.
+127
+PORTAMENTO
+Sliding of pitch. Often incorrectly referred to as glissando, but there is an important distinction. On a
+fretted or keyed instrument like a piano, we may slide fingers from a high pitch to a low pitch, but the
+keys allow us to access only the pitches of the scale, and we hear a rapid descending scale passage: a
+glissando. On a trombone or violin, a similar motion with the slide, or the finger along the string, causes
+pitch to fall through the continuum, without picking out intervening scale pitches: a portamento.
+PROCESS-FOCUSSED TRANSFORMATION
+Some musical processes will so radically alter a source sound that the perceived goal-sound is more
+dependent on the process of transformation than on the source itself. The same process applied to two
+very different sources will produce very similar goal-sounds. The perceived result of the procedure
+is
+governed more by the artefacts of the process of transformation, rather than by the particular nature of
+the source-sounds employed.
+Q
+8
+The steepness with which a filter cuts out unwanted frequencies.
+QUANTISATION
+Forcing the timing of events on to a time grid of a specific size. E.g. we may set a grid at 0.01 seconds.
+Any event must then fall at some multiple of 0.01 seconds. ALternatively we may set a grid at some
+division of the metrical unit e.g. a grid of demi-semi-quavers. All events must then fall on some
+multiple of demi-semiquaver divisions of the beat. The actual time quantisation will then also be
+determined by the tempo (the number of crotchets per second). The quantisation grid provides a time
+reference-frame. On keyed or fretted instruments, pitch is similarly quantised.
+QUARTER TONE
+A very small division of the musical scale. Half a semitone (the smallest interval accessible on a
+standard European keyboard instrument, like a piano).
+128
+R
+RANDOM-CUTTING
+41
+REFERENCE FRAME
+A set of values which provide a reference set against which other values can be measured. e.g. the
+chromatic scale as a reference set for european harmony, the set of vowels in standard english as a
+reference set for classifying regional accents etc.
+RESONANCE
+If an object is vibrated it will produce a sound. Due to its particular weight, size and shape there will be
+certain frequencies at which it will vibrate 'naturally'. If supplied with frequency-unspecific energy it
+will tend to vibrate at these natural resonant frequencies. A flute tube with a certain combination of
+closed holes has specific resonant frequencies which produce the pitches for that fingering. A hall or
+building will reinforce certain frequencies in a voice, orchestra etc which fall on its natural resonant
+frequencies.
+RETROGRADE
+The performance of a sequence of sound events in the reverse order. A-B-C-D-E becomes
+E-D-C-B-A. Note that the sound-events themselves are not reversed.
+REVERBERATION
+64
+RITARDANDO
+A decrease in the speed at which musical events succeed one another.
+SAMPLER
+A piece of hardware, or a software package on a computer, which that digitally records any sound and
+allows it to be manipulated (e.g. pitch-change by 'tape-speed' variation with the specific transposition
+information sent from a MIDI keyboard). The sounds recorded on a sampler are often referred to in the
+commercial literature as 'samples'. These should not be confused with the individual numbers used to
+record the shape of the waveform itself, which are properly known as samples. (See SAMPLING).
+SAMPLING
+1
+Sound is digitally recorded by sampling the value of the (electrical analogue of the) sound wave, at
+regular time- intervals. These time intervals must be very short if high frequencies in the sound are to
+be resolved. (e.g. between 22000 and 48000 samples per second). At a sampling rate of 48000 samples
+per second, the highest resolvable frequency is 24000 cycles per second.
+129
+SCORE
+The notation of a piece of music from which a performance of the work is recreated.
+SEMITONE
+The smallest interval between consecutive pitches on a modern European keyboard or fretted
+instrument. Musical scales are defined as some pattern of tones (equal to two semitones) and
+semitones, HArmonic minor scales also containing a three semitone step.
+SEQUENCE GENERATION
+1
+SEQUENCES
+Groups of consecutive sounds having distinctly different spectral properties. e.g. speech, or melodic
+phrases on keyed instruments (the spectra of whose elements differ by perceptually significant pitch
+steps).
+SERIAL COMPOSITION
+Style of twentieth century European musical composition in which the 12 pitches of the chromatic scale
+are arranged in a specific order, and this sequence (and certain well-specified transformations of it) are
+used as the basis for the organisation of pitches in a piece. The general idea of serialism was also
+extended to sequences of durations, of loudnesses etc. The even more general notion of permuting a
+given set of elements has been more widely used (e.g. systems music).
+SERIALISM
+See SERIAL COMPOSITION
+SHAWM
+A mediaeval wind instrument with a strong reedy sound.
+SHEPARD TONES
+72
+Sounds (or sequences of sounds) constructed so that they rise in tessitura while their pitch falls (or
+vice versa).
+SINE WAVE
+2,5
+The elementary oscillations in terms of which all other regular oscillations, vibrations or waveforms can
+be described. The oscillation of a simple (idealised) pendulum is described by a sine wave.
+SINUSOIDAL
+Having the shape of a sine-wave.
+130
+SOUND REVERSING
+43
+SOUND SHREDDING
+41
+SOUND-PLUCKING
+72
+A musical transformation which imposes a plucked-string-like attack on a sound.
+SOURCE-FOCUSSED TRANSFORMATION
+A musical transformation whose outcome depends strongly on the nature of the source sound. Defined
+in contrast to PROCESS-FOCUSSED TRANSFORMATION.
+SPECTRAL ARPEGGIATION
+24
+SPECTRAL BLURRING
+26
+SPECTRAL BRIGHTNESS
+A
+measure of where energy is focused in the spectrum. If some of upper partials are very loud, the
+sound will appear bright.
+SPECTRAL FOCUSING
+20
+SPECTRAL FORMANT TRANSFER
+see VOCODING.
+SPECTRAL FREEZING
+22
+SPECTRAL INTERLEAVING
+35
+SPECTRAL INTERPOLATION
+32-33
+SPECTRAL MANIPULATION
+18-35
+Musical processes that work directly on the (time-varying) spectrum of the sound.
+SPECTRAL MASKING
+34
+SPECTRAL SHAKING
+23
+SPECTRAL SHIFTING
+18
+SPECTRAL SPLITTING
+29
+SPECTRAL STRETCHING
+19
+131
+SPECTRAL TIME-SHRINKING
+30-31
+SPECTRAL TIME-STRETCHING
+30-31
+SPECTRAL TIME-WARPING
+30-31
+SPECTRAL TRACE-AND-BLUR
+27
+SPECTRAL TRACING
+25
+SPECTRAL UNDULATION
+28
+SPECTRUM
+2,3
+Representation of a sound in terms of the frequencies of its partials (those sinusoidal waves which can
+be summed to produce the actual waveform of the sound). The frequency- domain representation of the
+sound.
+SPLICING
+40
+The tail to head joining of two sounds. In the classical tape studio this would be achieved by joining the
+end of one sound tape to the beginning of another, using sticky tape.
+SQUARE WAVE
+5
+SRUTI
+The smallest unit into which the octave is divided in classical Indian music and from which the various
+rag scales can be derived. It is at least 6 times smaller than a semitone. This is more of a theoretical
+unit of measurement than a practically applied unit. In contrast, the Western semitone is built into the
+structure of its keyboard instruments.
+STATIC INTERPOLATION
+The process whereby a sound gradually changes into a different (kind of) sound during a series of
+repetitions of the sound, where each repeated unit is changed slightly away from the previous one and
+towards the goal sound.
+STEREO
+Sound emanating from two channels (e.g. two loudspeaker) or stored as two channels of digital
+information. As opposed to mono (from a single source). Sound information provided through two
+loudspeakers is able to convey information about the (apparent) positioning of sound sources in the
+intervening space between the loudspeakers, rather than suggesting merely a pair of sound sources.
+132
+STOCHASTIC PROCESSES
+A process in which the probabilities of proceeding from one state, or set of states, to another, is defined.
+The temporal evolution of the process is therefore governed by a kind of weighted randomness, which
+can be chosen to give anything from an entirely determined outcome, to an entirely unpredictable one.
+SYNTHESIS
+Process of generating a sound from digital data, or from the parameters supplied to an electrical
+oscillator. Originally synthetic sounds were recognisably such, but now it is possible, through a process
+of careful analysis and subtle transformation, to recreate a recorded sound in a changed form which
+however sound as convincingly 'natural' as the recording of the original sound.
+***** T *****
+TAPE-ACCELERATION
+36
+TAPE-SPEED VARIATION
+36
+TEMPERED TUNING
+The tuning of the scales used in European music., a system which became firmly established in the
+early eighteenth century. In tempered tuning the octave is divided into 12 exactly equal semitones. i.e.
+the ratio between the frequencies of any two pitches which are a semitone apart is exactly the same. In
+a harmonic spectrum, the frequencies of the partials are exact multiples of some fundamental frequency.
+The ratio of their frequencies form a pattern known as the harmonic series i.e.
+2/1 3/2 4/3 5/4 6/5 7/6
+and the frequency ratios between members of this series are known as 'pure' intervals. Some pure
+interval ratios are..
+octave..2/1
+4th
+4/3
+5th.....3/2
+7th
+7/4
+There is no common smaller interval from which all these 'pure' intervals can be constructed. Hence the
+striving to achieve some kinds of compromise tunings, of which the tempered scale is just one example.
+Apart from the octave, the tempered scale only approximates frequency ratios of the pure intervals. The
+7th has no close approximation in the tempered scale.
+TEMPO
+The rate at which musical events occur. In european music the relative duration of events are indicated
+by note values e.g. a crotchet is as long as two quavers. The speed of the whole will be indicated by a
+tempo marking e.g.
+crotchet = 120
+which means there are to be 120 crotchets in one minute.
+133
+TESSITURA
+Also known as register. In its simplest sense, the range of pitch in question. The tessitura of soprano
+voices is higher than that of Tenor voices. However, unpitched (e.g. noise) sounds may rise in tessitura
+while having no perceivable pitch, while SHEPARD TONES may rise in tessitura while falling in
+pitch(!). Hence tessitura also has something to do with where the main focus of energy lies in the
+spectrum (where the loudest groups of partials are to be found).
+TEXTURE
+Organisation of sound elements in terms of (temporal) density and field properties.
+TEXTURE CONTROL
+68-69
+TEXTURE GENERATION
+68-69
+TEXTURE OF GROUPS
+68
+Texture in which small sets of sound elements are considered as the organisable units of the texture,
+rather than individual sounds themselves. The sounds forming any particular group are, however,
+chosen arbitrarily from the available sound sources.
+TEXTURE OF MOTIFS
+69
+Texture in which specific small sets of sound elements, known as motifs, are considered as the
+organisable units of the texture, rather than individual sounds themselves. The sounds forming any
+particular motif are in some kind of predefined arrangement (e.g. some combination of sequence, time-
+placement, pitch-relationship, formant sequence, etc).
+TEXTURE OF ORNAMENTS
+69
+Texture in which specific small sets of sound elements, known as ornaments, are attached to the
+fundamental sound elements of the texture, and each of these may be organised as units of the texture.
+TEXTURE STREAM
+Dense and relatively disordered sequence of sound events in which specific ordering properties
+between individual elements cannot be perceived. Properties may be ordered in terms of Field and
+Density.
+THRESHOLD
+A value either not to be exceeded (or fallen below), or to be noted (in order to cause something else to
+happen) if it is thus exceeded.
+134
+TIMBRE
+A catch-all term for all those aspects of a sound not included in pitch and duration. Of no value to the
+sound composer!
+TIME STRETCHING
+See spectral time-stretching, granular time-stretching, waveset time-stretching, harmoniser,
+brassage.
+TIME-DOMAIN REPRESENTATION
+The waveform of a sound represented as the variation of air- - pressure with time.
+TIME-VARIABLE TIME-STRETCHING
+See time-warping.
+TIME-WARPING
+30
+Changing the duration of a sound in a way which itself varies with time.
+TONAL MUSIC
+Music organised around keys and the progression between different keys. In contrast, atonal music
+avoids indicating the dominance of any particular key or pitch.
+TONE
+The interval between the first two pitches of a major (or minor) scale in European music. European
+scales consist of patterns of tones and semitones (half a tone) and, in some cases 3-semitone steps.
+TRAJECTORY
+The variation of some property with time. e.g. loudness trajectory, pitch trajectory, formant trajectory.
+Loudness trajectory is often also known as 'envelope' and instruments which manipulate the loudness
+trajectory are here called 'Envelope something'.
+TREMOLO
+66
+Cyclical undulations of loudness between C. 4 and 20 cycles per second.
+TRANSPOSITION
+Changing the pitch of a sound, or sound sequence.
+TRIGGERING
+62
+Using the value of some time-varying property (usually the loudness) of a sound to cause something
+else to happen.
+135
+TRITONE
+The musical interval of 6 semitones. In the European tempered scale, a frequency ratio of the square
+root of 2, to 1.
+UNDULATION
+cyclical change in the value of a musical property, like the rising and falling of pitch in vibrato, or of
+loudness in tremolo.
+VIBRAPHONE
+A musical instrument consisting of pitched metal bars suspended over resonating tubes. When the bars
+are struck they produce a specific pitch. and the associated tube resonates at that pitch. A motor drives
+a small rotary blade inside the tube, adding slight vibrato-tremolo to the resonated sound.
+VIBRATO
+66
+Cyclical undulations of pitch between c. 4 and 20 cycles per second.
+VOCODING
+34
+*****W *****
+WAVELENGTH
+3,4
+WAVESET
+50
+WAVESET DISTORTION
+52
+Generally refers to any process which irreversibly alters the wavesets in a sound e.g. waveset
+inversion, omission, reversal, shaking, shuffling, substitution, averaging and harmonic distortion.
+Specifically used to refer to power-distortion i.e. raising each sample value of the sound to a power
+(e.g. squaring, cubing, taking the square root).
+136
+WAVESET ENVELOPING
+53
+WAVESET HARMONIC DISTORTION
+52
+WAVESET INTERLEAVING
+54
+WAVESET INVERSION
+51
+WAVESET OMISSION
+51
+WAVESET REVERSAL
+5I
+WAVESET SHAKING
+51
+WAVESET SHUFFLING
+51
+WAVESET SUBSTITUTION
+52
+WAVESET TIMESTRETCHING
+55
+WAVESET TRANSFER
+54
+WAVESET TRANSPOSITION
+51
+WEDGEING
+69
+WHITE-OUT
+A musical process in which a texture becomes so dense that all spectral detail is lost, producing a noise
+band.
+WINDOW
+In sound analysis (conversion from waveform to spectrum, to spectral envelope or to time-varying
+filter-coefficients : see LPC) a window is a very brief slice of time (a few milliseconds) in which we
+make a spectral analysis, before passing to the next window to make our next analysis. We hence
+discover how the spectrum changes in time. Not to be confused with analysis CHANNEL.
+WINDOWED FFT
+A Fast Fourier Transform that is performed over a brief slice of time (a window), then performed over
+and over again at successive windows throughout the entire duration of the sound. The Phase Vocoder
+is a windowed FFT.
+137
+ZERO-CROSSING
+The waveform of a sound continually rises above the centre line and then falls below it. The point where
+it crosses the centre line is a zero-crossing.
+ZERO-CUTTING
+40
+ZIGZAGGING
+43
+138
+BRIEF BIBLIOGRAPHY
+DIE REIHE
+Journal published by serial composers associated with the Darmstadt Summerschool in the 1960s
+GESANG DER JUNGLINGE
+Electroacoustic work by Karlheinz Stockhausen, using boy's voice and electronics. Recording available.
+GRUPPEN
+Large scale work for 3 orchestras surrounding the audience, by Karlheinz Stockhausen. Recording
+available.
+ON SONIC ART
+Book on the aesthetics and ideas suggested by the technological revolution in music making, by Trevor
+Wishart. First published privately in 1985. Recently republished by Gordon & Breach.
+PITHOPRAKTA
+Work by lannis Xenakis for orchestra, exploiting masses of portamenti and using statistical formulae to
+control textures.
+RED BIRD
+45 minute electro-acoustic work by Trevor Wishart (1973-77). Recording available.
+VOX 3
+Work for 4 amplified voices by Trevor Wishart, from 1987, in which the voices sing in polyrhythms,
+coordinated by the use of independent but computer-synchronised click-tracks. Recording available.
+VOX 5
+Electro-acoustic work by Trevor Wishart, from 1986, in which a human voice is transformed into the
+sounds of many other recognisable sounds. Recordings available.
+139

@@ -1,41 +1,19 @@
+<page id=108>
+mathematics and the continuum of our sonic experience (so-called "floating point" arithmetic is a rational approximation of operations on real, in the mathematical sense, numbers).
 
-mathematics and the continuum of our sonic experience (so-called "floating point" arithmetic is a
-rational approximation of operations on real, in the mathematical sense, numbers).
-It must also be said that, in dealing with the continuum mathematically on the computer, we both learn
-the necessity of numerical approximation and come up against the limits of human perceptual acuity
-which itself sets limits to the accuracy required for our calculations. The world of "pure" ratios in
-the
-sense of tuning systems, or temporal proportions, is seen for the idealisation that it is. We come
-face-to-face with the Real, the reality of human experience, and the realities of rational calculation.
-Nevertheless, what before lay only within the intuitive control of physical action (which varies spatially
-and temporally over the continuum) in performance practice, is now recordable, repeatable, analysable,
-recalculable in a way not previously available to us.
+It must also be said that, in dealing with the continuum mathematically on the computer, we both learn the necessity of numerical approximation and come up against the limits of human perceptual acuity which itself sets limits to the accuracy required for our calculations. The world of "pure" ratios in the sense of tuning systems, or temporal proportions, is seen for the idealisation that it is. We come face-to-face with the Real, the reality of human experience, and the realities of rational calculation.
+
+Nevertheless, what before lay only within the intuitive control of physical action (which varies spatially and temporally over the continuum) in performance practice, is now recordable, repeatable, analysable, recalculable in a way not previously available to us.
+
+
 SEQUENTIAL AND MORPHIC FORM
-An important question is, then, to what extent can we distinguish and appreciate articulations of the
-continuum. Appreciation of musical performance, and subtle comprehension of the "innuendo" of spoken
-language, suggest we have a refined, if not well described, ability in this sphere.
-We will describe shapes articulated in the continuum as morphic forms in contrast with forms created
-by juxtaposing fixed values, which are sequential forms. Almost all Western Art Music as it appears in
-the notation is concerned with articulating sequential forms.
-The invention of the orchestral crescendo by the Mannheim School of Symphonists seemed a major
-advance at the time. The crescendo is an example of the most elementary morphic form, a linear motion
-from one state (in this case, of loudness) to another. In a world of stable loudness fields (not taking
-into account the subtleties of loudness articulation in the performance practice) this was a startling
-development. But traditional notation gives no means to add detail to this simple state-interpolation.
-(More recent notational developments include stepped crescendi: see Diagram 1.)
-Similarly, tempo variation, as expressed through traditional notation, cannot be given any subtlety of
-articulation. It is either happening at a "normal" rate (accel), slowly, (poco a poco accel) or rapidly
-(molto accel). Internal articulation of the rate of speed change is not describable (though some
-twentieth century composers, like Stockhausen, have attempted to extend notational practice to do this,
-in works for solo performer). Performance practice may involve the subtle or involved use of "rubato"
-(performance "feel") related tempo variation. It is interesting to note how "rubato" interpretation,
-associated with musical romanticism, is generally frowned upon in serious music circles. From a
-notation-focused perspective, it clearly does not adhere to the notated time information. But the fact is,
-we cannot notate this kind of subtle tempo fluctuation. Does this mean therefore it must be abandoned
-as an element in musical construction?
-The subtle articulation of pitch, continuation and spectral formant properties can be observed in the
-vocal music practice of many non-European musical traditions, as well as within jazz and in popular
-musics. Musics handed down, at least partly, by aural tradition, can carry the morphic form information
-from one generation of performers to another. It does not get hived off into a separate domain of
-"performance practice" separated from stable-property notatables and subsequently devalued.
-108
+An important question is, then, to what extent can we distinguish and appreciate articulations of the continuum. Appreciation of musical performance, and subtle comprehension of the "innuendo" of spoken language, suggest we have a refined, if not well described, ability in this sphere.
+
+We will describe shapes articulated in the continuum as morphic forms in contrast with forms created by juxtaposing fixed values, which are sequential forms. Almost all Western Art Music as it appears in the notation is concerned with articulating sequential forms.
+
+The invention of the orchestral crescendo by the Mannheim School of Symphonists seemed a major advance at the time. The crescendo is an example of the most elementary morphic form, a linear motion from one state (in this case, of loudness) to another. In a world of stable loudness fields (not taking into account the subtleties of loudness articulation in the performance practice) this was a startling development. But traditional notation gives no means to add detail to this simple state-interpolation.  (More recent notational developments include stepped crescendi: see Diagram 1.)
+
+Similarly, tempo variation, as expressed through traditional notation, cannot be given any subtlety of articulation. It is either happening at a "normal" rate (accel), slowly, (poco a poco accel) or rapidly (molto accel). Internal articulation of the rate of speed change is not describable (though some twentieth century composers, like Stockhausen, have attempted to extend notational practice to do this, in works for solo performer). Performance practice may involve the subtle or involved use of "rubato" (performance "feel") related tempo variation. It is interesting to note how "rubato" interpretation, associated with musical romanticism, is generally frowned upon in serious music circles. From a notation-focused perspective, it clearly does not adhere to the notated time information. But the fact is, we cannot notate this kind of subtle tempo fluctuation. Does this mean therefore it must be abandoned as an element in musical construction?
+
+The subtle articulation of pitch, continuation and spectral formant properties can be observed in the vocal music practice of many non-European musical traditions, as well as within jazz and in popular musics. Musics handed down, at least partly, by aural tradition, can carry the morphic form information from one generation of performers to another. It does not get hived off into a separate domain of "performance practice" separated from stable-property notatables and subsequently devalued.
+</page>

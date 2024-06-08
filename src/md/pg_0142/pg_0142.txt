@@ -1,39 +1,15 @@
+<page id=104>
+create scales of perception between definable points without parameterising our experience beforehand.  From a mathematical viewpoint, in a multi-dimensional space, we do not need to create scales along any preferred axes of the space; we can create a stepped line in any direction.
 
-create scales of perception between definable points without parameterising our experience beforehand.
-From a mathematical viewpoint, in a multi-dimensional space, we do not need to create scales along
-any preferred axes of the space; we can create a stepped line in any direction.
-We may then explore this multi-dimensional space establishing relationships between sounds
-(holistically or through different property sets) which are both perceptible and musically potent in some
-sense.
-Given this multi-dimensional space, we can generalise the notion of "modulation" (in the tonal sense).
-We are already aware that reorchestrating Hpitched music can fundamentally change its affective
-character. Music transferred from vibraphones to shawms, for example, or within instrumental practice,
-a change in "expression" in the production of the sound stream (e.g. bowing attack, and/or vibrato
-continuation on violins).
-The distinction made between "structure" and "expression" is in fact an arbitrary, ideological divide. All
-the changes to the sounds can be traced to structural properties of the sounds and the control of those
-structural properties. The distinction structure/expression arises from the arbitrary divide created by
-the limitation of notation. Features of sound we have, in the past, been able to notate with some
-exactitude (Hpitch, duration) are opened up to "rational" control (or at least rationalised explication) by
-composers and commentators. Those which remain invisible or vague in the notation are out of reach of
-this rationalisable control. They do, of course, remain under the intuitive control of the performer (see
-Chapter 1) but this type of control comes to have a lower ontological status in the semantics of music
-philosophy.
-Sound recording and computer control destroy the basis for this dualistic view. The multi-dimensional
-complexity of the sound world is opened up to compositional control. In this new space of possibilities,
-reason (or rationalisation), must come to terms with intuition. With precise sound-compositional
-control of the multi-dimensional space, we can move from what were (or appeared to be)
-all-or-nothing shifts in sound-type to a subtly articulated and possibly progressively time-varying
-"playing" of the sound space. Moreover, we do not have to treat each parameter as a separate entity.
-We may group properties into related sets, or link the way one property varies with the variation of
-another (e.g. vibrato speed with depth) - and we may vary these linkages.
-We are already familiar with such subtle articulations of a multi-dimensional sound space within our
-everyday experience. Consider the many affective ways to deliver a text, even where we specify no
-significant change in tempo or rhythm. The range of human intent, physiological, health or age
-characteristics, pre-existing physical or emotional condition (breathlessness, hysteria etc.), textual
-meaning (irony, accusation, information, questioning etc) which can be conveyed by multi-dimensional
-articulation of the sound space, is something we take for granted in everyday social interactions and in
-theatre contexts.
-With precise sound-compositional control of this multi-dimensional situation for any desired sound, we
-can sec that there is a significant and subtly articulable space awaiting musical exploration.
-104
+We may then explore this multi-dimensional space establishing relationships between sounds (holistically or through different property sets) which are both perceptible and musically potent in some sense.
+
+Given this multi-dimensional space, we can generalise the notion of "modulation" (in the tonal sense).  We are already aware that reorchestrating Hpitched music can fundamentally change its affective character. Music transferred from vibraphones to shawms, for example, or within instrumental practice, a change in "expression" in the production of the sound stream (e.g. bowing attack, and/or vibrato continuation on violins).
+
+The distinction made between "structure" and "expression" is in fact an arbitrary, ideological divide. All the changes to the sounds can be traced to structural properties of the sounds and the control of those structural properties. The distinction structure/expression arises from the arbitrary divide created by the limitation of notation. Features of sound we have, in the past, been able to notate with some exactitude (Hpitch, duration) are opened up to "rational" control (or at least rationalised explication) by composers and commentators. Those which remain invisible or vague in the notation are out of reach of this rationalisable control. They do, of course, remain under the intuitive control of the performer (see Chapter 1) but this type of control comes to have a lower ontological status in the semantics of music philosophy.
+
+Sound recording and computer control destroy the basis for this dualistic view. The multi-dimensional complexity of the sound world is opened up to compositional control. In this new space of possibilities, reason (or rationalisation), must come to terms with intuition. With precise sound-compositional control of the multi-dimensional space, we can move from what were (or appeared to be) all-or-nothing shifts in sound-type to a subtly articulated and possibly progressively time-varying "playing" of the sound space. Moreover, we do not have to treat each parameter as a separate entity.  We may group properties into related sets, or link the way one property varies with the variation of another (e.g. vibrato speed with depth) - and we may vary these linkages.
+
+We are already familiar with such subtle articulations of a multi-dimensional sound space within our everyday experience. Consider the many affective ways to deliver a text, even where we specify no significant change in tempo or rhythm. The range of human intent, physiological, health or age characteristics, pre-existing physical or emotional condition (breathlessness, hysteria etc.), textual meaning (irony, accusation, information, questioning etc) which can be conveyed by multi-dimensional articulation of the sound space, is something we take for granted in everyday social interactions and in theatre contexts.
+
+With precise sound-compositional control of this multi-dimensional situation for any desired sound, we can sec that there is a significant and subtly articulable space awaiting musical exploration.
+</page>

@@ -1,43 +1,17 @@
+<page id=102>
+There are a number of refinements to the interpolation process. We may interpolate amplitude data and frequency data separately (at different times and/or over different timescales) and we may interpolate in a linear or non-linear fashion, and we must choose these parameters in a way which is appropriate to the particular pair of sounds with which we are working. (see Appendix p33).
 
-There are a number of refinements to the interpolation process. We may interpolate amplitude data and
-frequency data separately (at different times and/or over different timescales) and we may interpolate in
-a linear or non-linear fashion, and we must choose these parameters in a way which is appropriate to
-the particular pair of sounds with which we are working. (see Appendix p33).
-There are also perceptual problems in creating truly seamless interpolation between two recognisable
-sources. First of all, source recognition takes time and we need enough time for both source and goal to
-be recognised, as well as for the interpolation itself to take place. It is also important for the two
-sources to be perceptually similar (e.g. same pitch, similarly noisy), if the seamless transition is to be
-achieved without intervening artefacts which either suggest a third and unrelated physicality/causality
-in the sound, or even reveal the mechanics of the process of composition itself.
-A more difficult problem is created by categoric switching in perception, e.g. in the transformation
-voice->bees, we tend to perceive - "a voice - a voice? - a voice??? - no, it's bees!" - there is a
-sudden switch as we recognise the goal percept. It may be necessary, to achieve a truly seamless
-transition, to create perceptual 'false trails' which distract the ear's attention sufficiently at the point of
-maximum uncertainty for the transition to be accepted. In the voice->bees transition in Vox 5, a very
-high-register, low-level part of the spectrum undergoes a slide at the 'moment of maximal doubt' in a
-way which is not consciously registered but seems sufficient to undermine the sudden categoric
-switching which had not been overcome by other means.
-This type of spectral process can also be used for static interpolation, creating a set of sounds
-spectrally intermediate between source and goal. If we also allow progressive time-stretching (so that
-duration of source sound and goal sound can be matched through interpolation) and we place no
-aesthetic restrictions (such as the goal of 'seamlessness' in the examples above) on the intervening
-sound-types, it should be possible to produce a set of spectral intermediates between any two sounds
-- with one word of caution! Equal small changes in spectral parameters, need not lead to equal small
-perceptual changes. In fact a slight deviation in spectral form (e.g. harmonicity) may have a dramatic
-perceptual result.
-Achieving a successful interpolation is about creating convincing, small perceptual changes in the
-resulting sounds - not about the internal mathematical logic that produces them. To achieve an
-approximately linear sense of interpolation along a set of sounds may require a highly non-linear
-sequence of processing parameter values. The proof of the mathematics is in the listening.
+There are also perceptual problems in creating truly seamless interpolation between two recognisable sources. First of all, source recognition takes time and we need enough time for both source and goal to be recognised, as well as for the interpolation itself to take place. It is also important for the two sources to be perceptually similar (e.g. same pitch, similarly noisy), if the seamless transition is to be achieved without intervening artefacts which either suggest a third and unrelated physicality/causality in the sound, or even reveal the mechanics of the process of composition itself.
+
+A more difficult problem is created by categoric switching in perception, e.g. in the transformation voice->bees, we tend to perceive - "a voice - a voice? - a voice??? - no, it's bees!" - there is a sudden switch as we recognise the goal percept. It may be necessary, to achieve a truly seamless transition, to create perceptual 'false trails' which distract the ear's attention sufficiently at the point of maximum uncertainty for the transition to be accepted. In the voice->bees transition in Vox 5, a very high-register, low-level part of the spectrum undergoes a slide at the 'moment of maximal doubt' in a way which is not consciously registered but seems sufficient to undermine the sudden categoric switching which had not been overcome by other means.
+
+This type of spectral process can also be used for static interpolation, creating a set of sounds spectrally intermediate between source and goal. If we also allow progressive time-stretching (so that duration of source sound and goal sound can be matched through interpolation) and we place no aesthetic restrictions (such as the goal of 'seamlessness' in the examples above) on the intervening sound-types, it should be possible to produce a set of spectral intermediates between any two sounds - with one word of caution! Equal small changes in spectral parameters, need not lead to equal small perceptual changes. In fact a slight deviation in spectral form (e.g. harmonicity) may have a dramatic perceptual result.
+
+Achieving a successful interpolation is about creating convincing, small perceptual changes in the resulting sounds - not about the internal mathematical logic that produces them. To achieve an approximately linear sense of interpolation along a set of sounds may require a highly non-linear sequence of processing parameter values. The proof of the mathematics is in the listening.
+
 SPATIAL CONSIDERATIONS
-Spatial perception may also be an important factor in creating convincing static or dynamic interpolation.
-In the crudest sense, imposed reverberation can help to fuse a sound-percept by giving an impression
-of 'spatial integrity' (this sound was apparently produced at a single place in a given space). More
-profoundly, spatial streaming will tend to separate a fused image; in a sequence or texture-stream, if
-one set of elements moves left and the other right, we experience aural stream dissociation.
-A movement from mono to true stereo can, however, be used to enhance, or 'dramatise' the process of
-dynamic spectral interpolation. In Vox 5 most of the voice->other interpolations start with a voice in
-mono at front centre stage and interpolate to a stereo image (crowd, bees etc) which itself often moves
-off over the listeners heads. Spatialisation and spatial motion hence reinforce the dynamism of the
-transition.
-102
+
+Spatial perception may also be an important factor in creating convincing static or dynamic interpolation.  In the crudest sense, imposed reverberation can help to fuse a sound-percept by giving an impression of 'spatial integrity' (this sound was apparently produced at a single place in a given space). More profoundly, spatial streaming will tend to separate a fused image; in a sequence or texture-stream, if one set of elements moves left and the other right, we experience aural stream dissociation.
+
+A movement from mono to true stereo can, however, be used to enhance, or 'dramatise' the process of dynamic spectral interpolation. In Vox 5 most of the voice->other interpolations start with a voice in mono at front centre stage and interpolate to a stereo image (crowd, bees etc) which itself often moves off over the listeners heads. Spatialisation and spatial motion hence reinforce the dynamism of the transition.
+</page>

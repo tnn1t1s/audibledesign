@@ -1,37 +1,21 @@
-
+<page id=96>
 CHAPTER 12
+
 INTERPOLATION
+
 WHAT IS INTERPOLATION ?
-Any perceptually effective compositional process applied to a sound will produce a different sound.
-However, if the process is sufficiently radical (extreme spectral stretching, or time warping or filtering
-or randomisation of perceptual elements etc) we will produce a sound which we recognise as being of a
-different type. I will try to define this more clearly below.
-For the moment, we also note that we can, by using a similar compositional process, create a whole set
-of sounds, whose properties are intermediate between those of the source and those of the goal. We
-will describe this mediation by progressive steps as static interpolation.
-Alternatively, provided our sound is sufficiently long, we may gradually apply a compositional process
-changing the value of various parameters through time, e.g. we may gradually spectrally stretch the
-harmonic spectrum of an instrumental tone until we reach, through a continuous process, a complex and
-inharmonic sound. Or we may gradually add vibrato to a relatively short term, pitch-stable sound (e.g.
-dense traffic) so that it eventually involves such extreme and rapid swings of pitch that the original
-percept is swallowed up by the process. In these cases we have a process of dynamic interpolation
-taking place through the application of a continuously time-varying process.
-Clearly, we can apply this kind of reasoning to all compositional intervention and all compositional
-processes might be described as so many sophisticated variants of interpolation. However, in this
-chapter we will deal largely with compositional processes which interpolate between two (or more)
-pre-existing sounds. And, in a similar way, we will discuss both static and dynamic interpolation
-between these sounds.
-It is important to understand that in this case we wish to achieve some sense of perceptual fusion
-between the two original percepts - a mere superimposition of one over the other is not acceptable as
-an interpolation. This is discussed more fully below.
+
+Any perceptually effective compositional process applied to a sound will produce a different sound.  However, if the process is sufficiently radical (extreme spectral stretching, or time warping or filtering or randomisation of perceptual elements etc) we will produce a sound which we recognise as being of a different type. I will try to define this more clearly below.
+
+For the moment, we also note that we can, by using a similar compositional process, create a whole set of sounds, whose properties are intermediate between those of the source and those of the goal. We will describe this mediation by progressive steps as static interpolation.
+
+Alternatively, provided our sound is sufficiently long, we may gradually apply a compositional process changing the value of various parameters through time, e.g. we may gradually spectrally stretch the harmonic spectrum of an instrumental tone until we reach, through a continuous process, a complex and inharmonic sound. Or we may gradually add vibrato to a relatively short term, pitch-stable sound (e.g.  dense traffic) so that it eventually involves such extreme and rapid swings of pitch that the original percept is swallowed up by the process. In these cases we have a process of dynamic interpolation taking place through the application of a continuously time-varying process.
+
+Clearly, we can apply this kind of reasoning to all compositional intervention and all compositional processes might be described as so many sophisticated variants of interpolation. However, in this chapter we will deal largely with compositional processes which interpolate between two (or more) pre-existing sounds. And, in a similar way, we will discuss both static and dynamic interpolation between these sounds.
+
+It is important to understand that in this case we wish to achieve some sense of perceptual fusion between the two original percepts - a mere superimposition of one over the other is not acceptable as an interpolation. This is discussed more fully below.
+
 IS RECOGNITION IMPORTANT ?
-A significant factor to define, when discussing the idea of interpolation, is the recognition of source and
-goal sounds in the process. What distinguishes interpolation from mere variation is our feeling that we
-have moved away from one type of sound and arrived at a different type. This percept is most readily
-understood when the source and goal sounds are recognisable in some referential sense. The source is
-a trumpet, the goal is a violin: the source is the sea, the goal is a voice: the source is spoken English,
-the goal is spoken French: or even the source is a singing voice, the goal is clearly not a voice.
-Interpolation may pass directly from one recognition (voice) to another (bees) or it may seek out an
-ambiguous ground in which two recognition concepts conflict or cooperate within the same experience
-(the talking sea).
-96
+
+A significant factor to define, when discussing the idea of interpolation, is the recognition of source and goal sounds in the process. What distinguishes interpolation from mere variation is our feeling that we have moved away from one type of sound and arrived at a different type. This percept is most readily understood when the source and goal sounds are recognisable in some referential sense. The source is a trumpet, the goal is a violin: the source is the sea, the goal is a voice: the source is spoken English, the goal is spoken French: or even the source is a singing voice, the goal is clearly not a voice.  Interpolation may pass directly from one recognition (voice) to another (bees) or it may seek out an ambiguous ground in which two recognition concepts conflict or cooperate within the same experience (the talking sea).
+</page>

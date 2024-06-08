@@ -1,41 +1,17 @@
+<page id=106>
+In this context, interpolation provides the sense of logical passage from one sonic area to another (as opposed to mere juxtaposition) which we also feel during tonal modulation.
 
-In this context, interpolation provides the sense of logical passage from one sonic area to another (as
-opposed to mere juxtaposition) which we also feel during tonal modulation.
-We can also pick out other features of this sequence which help bind it together: the falling pitch shapes
-(and their rising inversion), the decelerating (and related accelerating) rhythmic patterns. What is
-significant is that many different dimensions of sound organisation can provide structural reference
-points. We no longer have the traditional hierarchy: Hpitch, duration, others.
-In Sound example 13.2 we begin with a sequence whose structure is rhythmically grounded (we hear
-varied repetitions of a rhythmic cell whose original material was vocal in origin: this fact is more
-apparent in the context of the whole piece than in the context of the example here) into which a
-resonant pitched event is interjected. As the sequence proceeds the units are given spectral pitch
-through successive filterbank filtering with increasing Q, and the structural focus partly passes over to
-the pitch domain. Once the 'fireworks' enter, the rhythmic patterning is lost in a dense texture, but the
-pitch-focus remains in the HArmonic field of this texture. In the foreground the 'fireworks' are linked
-by a new device, the falling portamento shape whose origin we hear when the spectrally time-stretched
-voice peers through the texture.
-In Sound example 13.3 we begin with a vocal texture increasing in density, which begins to rise in
-tessitura. As it does so the texture white's out to produce a noise band which is subsequently
-filterbank filtered to produce a multi-pitched inharmonic sound. The rising tessitura of the texture is
-first perceived as a secondary property (an articulation). But it soon becomes the binding structural
-feature of the ensuing section, as both noise bands and inharmonic sounds glide up and down.
-It is the very multi-dimensionality of the sonic continuum which in some sense forces us to call upon
-different perceptual foci as binding elements at different times. 1 am not suggesting that one
-consciously composes in this way but that an intuitive sense of formal cohesion over an unhierarchised
-set of sonic properties may be important in sound composition.
+We can also pick out other features of this sequence which help bind it together: the falling pitch shapes (and their rising inversion), the decelerating (and related accelerating) rhythmic patterns. What is significant is that many different dimensions of sound organisation can provide structural reference points. We no longer have the traditional hierarchy: Hpitch, duration, others.
+
+In Sound example 13.2 we begin with a sequence whose structure is rhythmically grounded (we hear varied repetitions of a rhythmic cell whose original material was vocal in origin: this fact is more apparent in the context of the whole piece than in the context of the example here) into which a resonant pitched event is interjected. As the sequence proceeds the units are given spectral pitch through successive filterbank filtering with increasing Q, and the structural focus partly passes over to the pitch domain. Once the 'fireworks' enter, the rhythmic patterning is lost in a dense texture, but the pitch-focus remains in the HArmonic field of this texture. In the foreground the 'fireworks' are linked by a new device, the falling portamento shape whose origin we hear when the spectrally time-stretched voice peers through the texture.
+
+In Sound example 13.3 we begin with a vocal texture increasing in density, which begins to rise in tessitura. As it does so the texture white's out to produce a noise band which is subsequently filterbank filtered to produce a multi-pitched inharmonic sound. The rising tessitura of the texture is first perceived as a secondary property (an articulation). But it soon becomes the binding structural feature of the ensuing section, as both noise bands and inharmonic sounds glide up and down.
+
+It is the very multi-dimensionality of the sonic continuum which in some sense forces us to call upon different perceptual foci as binding elements at different times. 1 am not suggesting that one consciously composes in this way but that an intuitive sense of formal cohesion over an unhierarchised set of sonic properties may be important in sound composition.
+
 FROM THE RATIONAL TO THE REAL
-As 1 have argued elsewhere (On Sonic Art), the two dimensional grid of staves and barlines of the
-musical score reinforces a culturally received conception of the musical universe as lying on a grid, or
-lattice, of discreet values, particularly of Hpitch and of duration (but also instrument type). Notation
-hence deals with the "rational" in the mathematical sense of the term, i.e. that which can be counted, or
-that which can be expressed in terms of ratio: finite sets of Hpitches and the associated intervals,
-event-durations as multiples or divisions of a regular unit (e.g. a crotchet). The grid hides from us the
-reality of the musical continuum from which it is carved. But just as the integers and the rational
-numbers (fractions) are only special cases lying along the underlying continuum of the real numbers, so
-Hpitch sets and countable rhythmic units are special cases of an underlying continuum of frequency and
-duration values matched by the continua of formant types, spectral forms etc. etc.
-Rationality, however, is in the ear of the beholder. For musicians accustomed to working in the
-Western tempered scale, there is nothing more simply rational than the intervallic division of the octave
-in terms of the logarithm of frequency by which we have come to measure pitch-interval. All
-semi-tones are equal and the fifth is simply 7 steps up a 12 step scale. Musicians from other cultures,
-106
+
+As I have argued elsewhere (On Sonic Art), the two dimensional grid of staves and barlines of the musical score reinforces a culturally received conception of the musical universe as lying on a grid, or lattice, of discreet values, particularly of Hpitch and of duration (but also instrument type). Notation hence deals with the "rational" in the mathematical sense of the term, i.e. that which can be counted, or that which can be expressed in terms of ratio: finite sets of Hpitches and the associated intervals, event-durations as multiples or divisions of a regular unit (e.g. a crotchet). The grid hides from us the reality of the musical continuum from which it is carved. But just as the integers and the rational numbers (fractions) are only special cases lying along the underlying continuum of the real numbers, so Hpitch sets and countable rhythmic units are special cases of an underlying continuum of frequency and duration values matched by the continua of formant types, spectral forms etc. etc.
+
+Rationality, however, is in the ear of the beholder. For musicians accustomed to working in the Western tempered scale, there is nothing more simply rational than the intervallic division of the octave in terms of the logarithm of frequency by which we have come to measure pitch-interval. All semi-tones are equal and the fifth is simply 7 steps up a 12 step scale. Musicians from other cultures,
+</page>

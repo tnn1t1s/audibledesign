@@ -1,41 +1,17 @@
+<page id=90>
+alter the sound percept by making the indivisible qualitative character of the onset become a time-varying percept (see Chapter 1). (Sound example 11.13).
 
-alter the sound percept by making the indivisible qualitative character of the onset become a
-time-varying percept (see Chapter 1). (Sound example 11.13).
-If we wish to preserve the characteristics of the source sound, we must retain the onset characteristics
-by not time-stretching the onset. This we can achieve by time-variable spectral time-stretching
-(spectral time-warping), making the time-stretch equal to 1.0 (i.e. no stretch) over the first few
-milliseconds of the source and thence increasing as rapidly as we wish to any large value we desire.
-(Sound example 11.14).
-Alternatively, we can use spectral time-stretching to heighten the internal spectral variation of the
-source. Time-stretching the onset of the signal, but not the continuation, will alter the sound percept
-radically (altering the causality) but retain a perceptual connection between source and goal through the
-stability of the continuation. Clearly, the longer the continuation, the stronger the sense of relatedness.
-Clearly also, there are many combinations of onset transformation and continuation transformation.
-(Sound example 11.15).
-In a very long spectral time-stretch of a sound's continuation, where the sound is spectrally varying,
-we can reveal these changes by stripping away partials from the time-stretched sound until only the
-most prominent (say) twenty remain (spectral tracing : see Appendix p25 and Chapter 3). As the
-spectrum varies in time, partials will enter and leave this honoured set and we will hear out the new
-entries as 'revealed melodies', a type of constructive distortion. If the time-stretch is itself not
-time-varying, these revealed melodies will be regularly pulsed at the time-separation of the original
-window duration multiplied by the time-stretch factor. Spectral time-warping will create a fluid
-(accel-rit) tempo of entries and will accelerate into the time continuum where the time-stretch factor
-reduces towards 1.0 (no stretch). (Sound example 11.16).
+If we wish to preserve the characteristics of the source sound, we must retain the onset characteristics by not time-stretching the onset. This we can achieve by time-variable spectral time-stretching (spectral time-warping), making the time-stretch equal to 1.0 (i.e. no stretch) over the first few milliseconds of the source and thence increasing as rapidly as we wish to any large value we desire.  (Sound example 11.14).
+
+Alternatively, we can use spectral time-stretching to heighten the internal spectral variation of the source. Time-stretching the onset of the signal, but not the continuation, will alter the sound percept radically (altering the causality) but retain a perceptual connection between source and goal through the stability of the continuation. Clearly, the longer the continuation, the stronger the sense of relatedness.  Clearly also, there are many combinations of onset transformation and continuation transformation.  (Sound example 11.15).
+
+In a very long spectral time-stretch of a sound's continuation, where the sound is spectrally varying, we can reveal these changes by stripping away partials from the time-stretched sound until only the most prominent (say) twenty remain (spectral tracing : see Appendix p25 and Chapter 3). As the spectrum varies in time, partials will enter and leave this honoured set and we will hear out the new entries as 'revealed melodies', a type of constructive distortion. If the time-stretch is itself not time-varying, these revealed melodies will be regularly pulsed at the time-separation of the original window duration multiplied by the time-stretch factor. Spectral time-warping will create a fluid (accel-rit) tempo of entries and will accelerate into the time continuum where the time-stretch factor reduces towards 1.0 (no stretch). (Sound example 11.16).
+
 GRANULAR TIME-STRETCHING
-The time-stretching of grain-streams is problematic. As we have seen, if we time-stretch the onset
-of a sound we risk completely altering its perceived character. We overcame this problem by
-time-variably time-stretching (time-warping) a sound in such a way that the onset was not stretched.
-However, grain-streams are in effect a sequence of onsets. We cannot in this case, therefore, preserve
-only the beginning of the sound. Ideally we would need to use an envelope-follower to uncover the
-loudness trajectory of the sound and thus locate all the onsets, and then apply a time-warping process
-that left the sound unaltered during every onset moment. This is feasible but awkward to achieve
-successfully.
-It is therefore useful to be able to time-vary a grain-stream by separating the grains and repositioning
-them in time, causing the sequence of grains to accelerate, ritardando, randomly scatter etc. (granular
-time-warping by grain separation). (Sound example 11.17).
-With even moderately large granular time-stretching of this sort, the stream character of a
-grain-stream breaks down in our perception - we hear only isolated staccato events, the elements of
-potential musical phrases. Conversely, time-shrinking of a sequence of isolated events, by reducing
-separation time, can reach a point where the sounds become a grain-stream, or sequence-stream,
-rather than musical "points" in their own right. (Sound example 11.18).
-90
+
+The time-stretching of grain-streams is problematic. As we have seen, if we time-stretch the onset of a sound we risk completely altering its perceived character. We overcame this problem by time-variably time-stretching (time-warping) a sound in such a way that the onset was not stretched.  However, grain-streams are in effect a sequence of onsets. We cannot in this case, therefore, preserve only the beginning of the sound. Ideally we would need to use an envelope-follower to uncover the loudness trajectory of the sound and thus locate all the onsets, and then apply a time-warping process that left the sound unaltered during every onset moment. This is feasible but awkward to achieve successfully.
+
+It is therefore useful to be able to time-vary a grain-stream by separating the grains and repositioning them in time, causing the sequence of grains to accelerate, ritardando, randomly scatter etc. (granular time-warping by grain separation). (Sound example 11.17).
+
+With even moderately large granular time-stretching of this sort, the stream character of a grain-stream breaks down in our perception - we hear only isolated staccato events, the elements of potential musical phrases. Conversely, time-shrinking of a sequence of isolated events, by reducing separation time, can reach a point where the sounds become a grain-stream, or sequence-stream, rather than musical "points" in their own right. (Sound example 11.18).
+</page>

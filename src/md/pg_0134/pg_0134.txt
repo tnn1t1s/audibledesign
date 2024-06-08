@@ -1,39 +1,15 @@
+<page id=98>
+The third approach focuses upon the process of change itself. In Vox 5 the transformation voice->bees aims to achieve clear recognition of both source and goal, and a seamless transition from one to the other without any intervening artefacts which might suggest some other physicality/causality, or even betray the technical process involved. (Sound example 12.2).
 
-The third approach focuses upon the process of change itself. In Vox 5 the transformation voice->bees
-aims to achieve clear recognition of both source and goal, and a seamless transition from one to the
-other without any intervening artefacts which might suggest some other physicality/causality, or even
-betray the technical process involved. (Sound example 12.2).
-Moreover the dynamism of the change is a crucial parameter; in the voice->bees example, the voice
-almost melts slowly into the bee swarm; other transformations in Vox 5 are quicker and more forceful,
-suggesting a generative energy in the vocal source, spitting or throwing out the goal sounds - and this
-dynamism is enhanced by spatialisation in the sense of spatial motion, or the emergence of stereo
-images from a mono source. Here, the technical problems are those of seamlessness in the spectral
-transition and achieving the right dynamism, especially as interpolation recognition often requires a
-relatively long time-frame in order to work smoothly. Musical context can play a vital role here.
+Moreover the dynamism of the change is a crucial parameter; in the voice->bees example, the voice almost melts slowly into the bee swarm; other transformations in Vox 5 are quicker and more forceful, suggesting a generative energy in the vocal source, spitting or throwing out the goal sounds - and this dynamism is enhanced by spatialisation in the sense of spatial motion, or the emergence of stereo images from a mono source. Here, the technical problems are those of seamlessness in the spectral transition and achieving the right dynamism, especially as interpolation recognition often requires a relatively long time-frame in order to work smoothly. Musical context can play a vital role here.
+
 INBETWEENING
-The most obvious way to achieve some kind of interpolation between two sounds would seem to be to
-mix them in appropriate (relative loudness) proportions. However, as we know from our everyday
-experience this almost never creates perceptual fusion of the two sources. Our brain manages to
-unscramble the many sound impinging on our ears at any time and to sort them into separate sources.
-We hear mix, not fusion. This is due partly to the ear's sensitivity to onset synchronicity (or the lack of
-it) and partly to the parallelism of micro-fluctuations of the components in any one source, at the same
-time being different from that in other sources.
-Successful interpolation by mixing can only be achieved if we can defeat either, or both, of these. In
-sounds with continuation, the very precise (to the sample) synchronisation of attack (onset
-synchronisation) can achieve an instantaneous fusion of the aural image which is however immediately
-contradicted by the continuation of the sounds in question. (Sound example 12.3).
-To achieve a completely convincing sound intermediate between two others, we must work with sounds
-whose continuations are (almost) identical, or with grain time-frame sounds (which have no
-continuation). In the latter case in particular, we can achieve good intermediate percepts simply by
-mixing, but not necessarily. The ideal case is one in which the source sound is transformed into the goal
-sound by a distortion process that retains the duration and general shape of the source down to the
-level of the wavecycle or waveset (see destructive distortion in Chapter 3). Superimpositions of these
-two sounds in various proportions will create convincing intermediate states (inbetweening : Appendix
-p46). (Sound example 12.4).
-Where the sounds have continuation, this process may be unsatisfactory. Consider, for example, the
-goal and source sounds of the sequence "Ko->u" to "Bell" from Vox 5. (Sound example 12.5).
-If we began with the goal and source of this sequence and merely mixed them in various proportions, we
-would not achieve a satisfactory set of intermediate sounds. The process of spectral stretching,
-successively applied, has gradually separated the spectral components (and hence altered the spectral
-structure) to a point where they will not simply fuse together again by mixing.
-98
+
+The most obvious way to achieve some kind of interpolation between two sounds would seem to be to mix them in appropriate (relative loudness) proportions. However, as we know from our everyday experience this almost never creates perceptual fusion of the two sources. Our brain manages to unscramble the many sound impinging on our ears at any time and to sort them into separate sources.  We hear mix, not fusion. This is due partly to the ear's sensitivity to onset synchronicity (or the lack of it) and partly to the parallelism of micro-fluctuations of the components in any one source, at the same time being different from that in other sources.
+
+Successful interpolation by mixing can only be achieved if we can defeat either, or both, of these. In sounds with continuation, the very precise (to the sample) synchronisation of attack (onset synchronisation) can achieve an instantaneous fusion of the aural image which is however immediately contradicted by the continuation of the sounds in question. (Sound example 12.3).
+
+To achieve a completely convincing sound intermediate between two others, we must work with sounds whose continuations are (almost) identical, or with grain time-frame sounds (which have no continuation). In the latter case in particular, we can achieve good intermediate percepts simply by mixing, but not necessarily. The ideal case is one in which the source sound is transformed into the goal sound by a distortion process that retains the duration and general shape of the source down to the level of the wavecycle or waveset (see destructive distortion in Chapter 3). Superimpositions of these two sounds in various proportions will create convincing intermediate states (inbetweening : Appendix p46). (Sound example 12.4).
+
+Where the sounds have continuation, this process may be unsatisfactory. Consider, for example, the goal and source sounds of the sequence "Ko->u" to "Bell" from Vox 5. (Sound example 12.5).  If we began with the goal and source of this sequence and merely mixed them in various proportions, we would not achieve a satisfactory set of intermediate sounds. The process of spectral stretching, successively applied, has gradually separated the spectral components (and hence altered the spectral structure) to a point where they will not simply fuse together again by mixing.
+</page>

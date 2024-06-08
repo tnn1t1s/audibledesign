@@ -1,40 +1,23 @@
+<page id = 109>
+With computer control and the possibility of analytic understanding, we can imagine an extension of morphic control to larger and larger time-frames and to many levels and dimensions of musical experience. However, because of the existence of the text/performance separation in Western Art Music and the textual fixation of analysis and evaluation, it is difficult for music analytic thought to take on board morphic form. Such a vast literature of musical analysis exists, grounded in sequential properties. By contrast, there has been no means to notate, let alone describe and analyse, morphic form.
 
-With computer control and the possibility of analytic understanding, we can imagine an extension of
-morphic control to larger and larger time-frames and to many levels and dimensions of musical
-experience. However, because of the existence of the text/performance separation in Western Art
-Music and the textual fixation of analysis and evaluation, it is difficult for music analytic thought to take
-on board morphic form. Such a vast literature of musical analysis exists, grounded in sequential
-properties. By contrast, there has been no means to notate, let alone describe and analyse, morphic
-form.
-The combined powers of the computer to record sound and to perform numerical analysis of the data to
-any required degree of precision immediately removes any technical difficulty here. For those willing to
-deal with precise numerical representations of sonic reality, a whole new field of study opens up. To
-those fixated by musical texts, however, this area will remain a closed book.
-From a perceptual perspective, even in the most elementary case, a motion from state A to state B, we
-are able to distinguish articulations of the motion. For example, a pitch-portamento which rises
-steeply before slowly settling on the goal pitch, can be differentiated from a linear portamento and from
-one which leaves its initial pitch slowly before accelerating towards the goal. These different motion
-types can be observed to have different perceptual qualities even within very short time-frames.
-(Sound example 13.4).
-Once we begin to combine morphic form over a number of parameters, we may observe the emergence
-of elementary morphic categories. Simple examples would be....
-1. The descrescendoing rising portamento which accelerates away from a Hpitch, a "leading-from" or
-dispersal morpheme.
-2. A rising portamento which slows as it approaches the final Hpitch and from which gradually emerges
-a widening vibrato (also making the percept louder) - a common gesture in Western popular music
-- a "leading to", or morphic anacrusis.
-3. A sense of morphic stability achieved on a sustained tone (with jitter) with or without a fairly stable
-vibrato depth and rate, as compared to,
-4. Morphic instability occasioned if the vibrato on the same note begins to vary arbitrarily in speed and
-depth over a noticeable range.
+The combined powers of the computer to record sound and to perform numerical analysis of the data to any required degree of precision immediately removes any technical difficulty here. For those willing to deal with precise numerical representations of sonic reality, a whole new field of study opens up. To those fixated by musical texts, however, this area will remain a closed book.
+
+From a perceptual perspective, even in the most elementary case, a motion from state A to state B, we are able to distinguish articulations of the motion. For example, a pitch-portamento which rises steeply before slowly settling on the goal pitch, can be differentiated from a linear portamento and from one which leaves its initial pitch slowly before accelerating towards the goal. These different motion types can be observed to have different perceptual qualities even within very short time-frames.  (Sound example 13.4).
+
+Once we begin to combine morphic form over a number of parameters, we may observe the emergence of elementary morphic categories. Simple examples would be....
+
+1. The descrescendoing rising portamento which accelerates away from a Hpitch, a "leading-from" or dispersal morpheme.
+
+2. A rising portamento which slows as it approaches the final Hpitch and from which gradually emerges a widening vibrato (also making the percept louder) - a common gesture in Western popular music - a "leading to", or morphic anacrusis.
+
+3. A sense of morphic stability achieved on a sustained tone (with jitter) with or without a fairly stable vibrato depth and rate, as compared to,
+
+4. Morphic instability occasioned if the vibrato on the same note begins to vary arbitrarily in speed and depth over a noticeable range.
+
 (Sound example 13.5)
-Such formal groupings can be transferred to other parameters (loudness variation, change of cyclic
-loudness variation (tremolo rate), formant motion, harmonicity shift, density fluctuation etc. etc.). In
-other cases, simultaneous morphic development of parameters may lead in contradictory directions. A
-tone whose vibrato-rate gradually slows but whose vibrato depth simultaneously widens ceases to be
-perceived as a tone event and becomes a pitch-glide structure. We have a simple example of morphic
-modulation, taking us from (perhaps) Hpitch field percepts to pitch-glide field percepts.
-As morphic forming is developed over larger time-domains, new musical formal structures may
-develop. In particular, different musical streams, undergoing internal morphic change, may interact with
-one another. We have the possibility of counterstreaming, the morphic flow equivalent of counterpoint
-109
+
+Such formal groupings can be transferred to other parameters (loudness variation, change of cyclic loudness variation (tremolo rate), formant motion, harmonicity shift, density fluctuation etc. etc.). In other cases, simultaneous morphic development of parameters may lead in contradictory directions. A tone whose vibrato-rate gradually slows but whose vibrato depth simultaneously widens ceases to be perceived as a tone event and becomes a pitch-glide structure. We have a simple example of morphic modulation, taking us from (perhaps) Hpitch field percepts to pitch-glide field percepts.
+
+As morphic forming is developed over larger time-domains, new musical formal structures may develop. In particular, different musical streams, undergoing internal morphic change, may interact with one another. We have the possibility of counterstreaming, the morphic flow equivalent of counterpoint
+</page>

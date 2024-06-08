@@ -1,40 +1,21 @@
-
+<page id=103>
 CHAPTER 13
+
 NEW APPROACHES TO FORM
+
 BEYOND SOUND-OBJECTS
-There is still the danger of regarding sound-composition as a means to provide self-contained objects
-which are thenceforward to be controlled by an external architecture of Hpitch and rhythm along
-traditional lines. In particular, MIDI technology (1994) makes this option so easy and other approaches
-so roundabout that it is easy to give up at this stage and revert to purely traditional concepts for
-building large-scale form.
-Furthermore, I do not wish to decry traditional approaches to musical form-building. On the contrary a
-broad knowledge of ideas about melodic construction and evolution, rhythmic organisation, HArmonic
-control, large-scale musical forms in general, etc, etc, from many different cultures (both "serious" and
-"popular") and historical periods, should underpin compositional choice. However, a compositional
-practice confined to this, in the late Twentieth Century, will inevitably be limited. I would particularly
-stress a detailed appreciation of singing styles and styles of declamation from around the world's
-cultures as a way to appreciate subtleties of sonic architecture and chemistry which are often missing or
-excluded from Western art music practice. Similarly, a study of the World's languages reveals the
-great range of sound materials that enter into everyday human sonic articulation somewhere on the
-planet.
-The aim of this chapter is to suggest extensions to traditional ways of thinking. Extensions which are
-grounded in sound-composition itself. These may be used to complement or to replace traditional
-approaches depending on the sound context and the aesthetic aims of the composer.
+
+There is still the danger of regarding sound-composition as a means to provide self-contained objects which are thenceforward to be controlled by an external architecture of Hpitch and rhythm along traditional lines. In particular, MIDI technology (1994) makes this option so easy and other approaches so roundabout that it is easy to give up at this stage and revert to purely traditional concepts for building large-scale form.
+
+Furthermore, I do not wish to decry traditional approaches to musical form-building. On the contrary a broad knowledge of ideas about melodic construction and evolution, rhythmic organisation, HArmonic control, large-scale musical forms in general, etc, etc, from many different cultures (both "serious" and "popular") and historical periods, should underpin compositional choice. However, a compositional practice confined to this, in the late Twentieth Century, will inevitably be limited. I would particularly stress a detailed appreciation of singing styles and styles of declamation from around the world's cultures as a way to appreciate subtleties of sonic architecture and chemistry which are often missing or excluded from Western art music practice. Similarly, a study of the World's languages reveals the great range of sound materials that enter into everyday human sonic articulation somewhere on the planet.
+
+The aim of this chapter is to suggest extensions to traditional ways of thinking. Extensions which are grounded in sound-composition itself. These may be used to complement or to replace traditional approaches depending on the sound context and the aesthetic aims of the composer.
+
 MULTIDIMENSIONALITY
-Given the priorities of notated Western Art Music, and the fact that these priorities are constructed into
-the instrument technology (from the tempered keyboard, or keyed flute, to the MIDI protocol) it is easy
-to view music as a two dimensional (Hpitch/duration) structure, "coloured-in" by sound. The very
-two-dimensionality of the musical page reinforces the notion that only two significant parameters can
-be precisely controlled - using horizontal staves and vertical bars. Sound composition involves
-rejecting this simplistic hierarchisation.
-Sounds may be organised into multi-dimensional relation sets in terms of their Hpitch and Hpitch-field,
-or their pitch and pitch-band, their vowel set, harmonicity type. onset density,
-vibrato-acceleration-type etc. etc. with each of these treated as distinct perceptible orderable
-parameters. Not all listable parameters are perceptually separable in every case, e.g. vibrato
-acceleration type may be imperceptible when onset-density is very high. But in all definable sonic
-situations we have many sound parameters at our disposal.
-We may also organise sounds in terms of their overall holistic qualities. This approach is appropriate
-both for grain time-frame events where separable classes of properties may not be distinguishable and
-for sound sets created by progressive interpolation between quite different sounds (e.g. "ko->u" to
-"Bell": listen to Sound example 12.5). This latter sound interpolation illustrates the fact that we can
-103
+
+Given the priorities of notated Western Art Music, and the fact that these priorities are constructed into the instrument technology (from the tempered keyboard, or keyed flute, to the MIDI protocol) it is easy to view music as a two dimensional (Hpitch/duration) structure, "coloured-in" by sound. The very two-dimensionality of the musical page reinforces the notion that only two significant parameters can be precisely controlled - using horizontal staves and vertical bars. Sound composition involves rejecting this simplistic hierarchisation.
+
+Sounds may be organised into multi-dimensional relation sets in terms of their Hpitch and Hpitch-field, or their pitch and pitch-band, their vowel set, harmonicity type. onset density, vibrato-acceleration-type etc. etc. with each of these treated as distinct perceptible orderable parameters. Not all listable parameters are perceptually separable in every case, e.g. vibrato acceleration type may be imperceptible when onset-density is very high. But in all definable sonic situations we have many sound parameters at our disposal.
+
+We may also organise sounds in terms of their overall holistic qualities. This approach is appropriate both for grain time-frame events where separable classes of properties may not be distinguishable and for sound sets created by progressive interpolation between quite different sounds (e.g. "ko->u" to "Bell": listen to Sound example 12.5). This latter sound interpolation illustrates the fact that we can
+</page>

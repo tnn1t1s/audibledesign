@@ -1,45 +1,12 @@
+<page id=92>
+Considering single grain time-frame sounds, the internal structure of the grain, perceived as in indivisible whole, a quality of the event, when time-stretched becomes a clearly time-varying property, a feature of the sound continuations We may in this way uncover changing pitch, changing spectral type, changing formant placement, changing loudness undulations in any of these, or specific granularity of sequencing of events within the original grain. In many cases there may be no apparent perceptual connection between the quality of the grain and the revealed morphology of a much time-stretched version of that grain. It will need to be established through the structural mediation of sounds made by time-stretching the grain by much less. In fact, perceptual connectedness will be found to follow an exponential curve as we move away from the grain dimensions i.e. initially very tiny spectral time-stretches will produce very significant perceptual relations, but as we proceed, much larger time-stretching will present less and less surprising perceptual information. (Sound example 11.24).
 
-Considering single grain time-frame sounds, the internal structure of the grain, perceived as in
-indivisible whole, a quality of the event, when time-stretched becomes a clearly time-varying property,
-a feature of the sound continuations We may in this way uncover changing pitch, changing spectral
-type, changing formant placement, changing loudness undulations in any of these, or specific granularity
-of sequencing of events within the original grain. In many cases there may be no apparent perceptual
-connection between the quality of the grain and the revealed morphology of a much time-stretched
-version of that grain. It will need to be established through the structural mediation of sounds made
-by
-time-stretching the grain by much less. In fact, perceptual connectedness will be found to follow an
-exponential curve as we move away from the grain dimensions i.e. initially very tiny spectral
-time-stretches will produce very significant perceptual relations, but as we proceed, much larger
-time-stretching will present less and less surprising perceptual information. (Sound example 11.24).
-If we wish to preserve the onset characteristics of a grain time-frame sound, we must use
-time-variable spectral time-stretching (spectral time-warping) (see above) or simply, perhaps, use
-the original grain as a superimposed onset for time-stretched versions of itself. (Sound example
-11.25).
-Conversely, a sound with continuation will usually have distinctive onset characteristics of grain
-dimensions. When we time-stretch such a sound we may choose to preserve the time-frame of the
-onset, hence preserving a key perceptual feature of the source, or we may time-stretch the onset too,
-producing, with large time-stretches, a dramatic change in the percept. Once again, some kind of
-mediation (through sounds with less time-stretched onsets) may be necessary to establish the
-perceptual link between source and goal sound, though the continuation of the two sounds may provide
-sufficient perceptual linkage between them. (Sound example 11.26).
-As we have seen, grain-streams (and sequences) may be time-extended by granular time-stretching
-by grain duplication, by granular time-stretching by grain separation or by spectral time-stretching,
-which latter qualitatively transforms the grain (sequence) elements. These each have quite different
-musical implications. In particular, granular time-stretching by grain separation (in which the grains
-themselves are preserved while the intervening time-gaps are manipulated) will give us a clear percept
-of rhythmic variation (ritardando, accelerando, randomisation etc) as the internal pulse of the
-grain-stream (sequence) changes. In contrast, spectral time-stretching (or brassage/harmoniser type
-time-stretching) applied to continuous sounds is more akin to looking at time itself through a
-magnifying glass - the sound gets longer without any sense of the rhythmic slowing down of a pulse.
-When applied to a grain-stream these will usually create both a sense of rhythmic change and this
-sense of temporal extension. (Diagram 2). (Sound example 11.27).
-Granular time-stretching by grain separation of a grain-stream will lead, ultimately, to a "slow"
-sequence of individual staccato events which may be re-sequenced in terms of onset-time (rhythm)
-pitch, or various spectral properties, or any combination of these. Spectral time-stretching or
-harmoniser time-stretching of a grain-stream, if it stretches the grain constituents by a large amount,
-will reveal spectral qualities and evolving shapes (morphologies) within the grain (or sequence)
-elements having their own musical implications. (Sound example 11.28).
-The continuation of a sound, itself spectrally time stretched over a number of seconds (especially in
-complexly evolving sounds) may provide enough musical information for us to treat the extended sound
-as a phrase in its own right. As we have heard, time-variable spectral time-stretching (spectral
-92
+If we wish to preserve the onset characteristics of a grain time-frame sound, we must use time-variable spectral time-stretching (spectral time-warping) (see above) or simply, perhaps, use the original grain as a superimposed onset for time-stretched versions of itself. (Sound example 11.25).
+
+Conversely, a sound with continuation will usually have distinctive onset characteristics of grain dimensions. When we time-stretch such a sound we may choose to preserve the time-frame of the onset, hence preserving a key perceptual feature of the source, or we may time-stretch the onset too, producing, with large time-stretches, a dramatic change in the percept. Once again, some kind of mediation (through sounds with less time-stretched onsets) may be necessary to establish the perceptual link between source and goal sound, though the continuation of the two sounds may provide sufficient perceptual linkage between them. (Sound example 11.26).
+
+As we have seen, grain-streams (and sequences) may be time-extended by granular time-stretching by grain duplication, by granular time-stretching by grain separation or by spectral time-stretching, which latter qualitatively transforms the grain (sequence) elements. These each have quite different musical implications. In particular, granular time-stretching by grain separation (in which the grains themselves are preserved while the intervening time-gaps are manipulated) will give us a clear percept of rhythmic variation (ritardando, accelerando, randomisation etc) as the internal pulse of the grain-stream (sequence) changes. In contrast, spectral time-stretching (or brassage/harmoniser type time-stretching) applied to continuous sounds is more akin to looking at time itself through a magnifying glass - the sound gets longer without any sense of the rhythmic slowing down of a pulse.  When applied to a grain-stream these will usually create both a sense of rhythmic change and this sense of temporal extension. (Diagram 2). (Sound example 11.27).
+
+Granular time-stretching by grain separation of a grain-stream will lead, ultimately, to a "slow" sequence of individual staccato events which may be re-sequenced in terms of onset-time (rhythm) pitch, or various spectral properties, or any combination of these. Spectral time-stretching or harmoniser time-stretching of a grain-stream, if it stretches the grain constituents by a large amount, will reveal spectral qualities and evolving shapes (morphologies) within the grain (or sequence) elements having their own musical implications. (Sound example 11.28).
+
+The continuation of a sound, itself spectrally time stretched over a number of seconds (especially in complexly evolving sounds) may provide enough musical information for us to treat the extended sound as a phrase in its own right. As we have heard, time-variable spectral time-stretching (spectral </page>

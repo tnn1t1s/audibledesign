@@ -1,24 +1,2 @@
-
 DIAGRAM 1
-amp
-Use fine-grained envelope following
-and detailed spectral analysis
-to extract sequential features of
-time
-the sound.
-amb wavecyde
-Deduce pitch of feature.
-time
-Use pitch to help define
-pitch-synchronous
-brassage segments
-of feature.
-amp
 DIAGRAM 2
-time
-amp
-time
-amp
-Effect of granular time-stretching.
-time
-Effect of spectral time-stretching.

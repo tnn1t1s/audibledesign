@@ -1,43 +1,15 @@
-
+<page id=94>
 TIME-STRETCHING OF TEXTURE-STREAMS
-We have left the discussion of texture-streams until the last because it introduces further
-multi-dimensionality into our discussion of time-stretching. We have already encountered a two
-dimensional situation with grain-streams. A grain-stream may be granular time-stretched by grain
-separation, or by grain duplication. The first process reduces the pulse-rate (or density) of the
-grain-stream, the latter does not. With texture-streams the situation is even more complex.
-We may distinguish three distinct approaches to time-stretching a texture-stream. In the first we
-treat the texture-stream as an indivisible whole and time-stretch it. We may do this by spectral
-time-stretching, thereby stretching all the texture constituents, and hence very quickly producing a
-radical spectral transformation of the percept. All the perceptible time-varying field properties of the
-texture-stream will thereby be time-stretched e.g. loudness trajectory, pitch-band width change etc.
-The revelation of the inner structure of grains may even alter the field percepts (e.g. noise elements
-becoming inharmonic sounds, or Hpitches appearing as gliding pitches) of the source sound. (Sound
-example 11.33).
-Waveset time-stretching will produce surprising and unpredictable artefacts when applied to texture
-streams as the zero crossing analysis will confuse the contribution of various distinct grains to the
-overall signal. With a stereo texture, waveset duplication may be applied to each channel
-independently, producing arbitrary phase shifts between the channels, as well as the aforementioned
-artefacts. (Sound example 11.34).
-Brassage techniques with above-grainsize segments, using regular segment size and zero
-search-range (see Appendix p44) will quickly destroy the unpatterned quality of the texture-stream,
-as brassage repetitions introduce a "spurious" order into the goal sound. Brassage will work better at
-preserving the inherent qualities of the texture-stream if we use a large enough segment size to
-capture the disorder of the texture-stream and a large enough range to avoid obvious repetition of
-materials. However, too large a range will begin to destroy any time-varying order in the field
-characteristics of the stream (e.g. directed change of the Hpitch field, loudness trajectory etc). (Sound
-example 11.35).
-Assuming we have fine control of the texture generation process we could, in fact, separate out some of
-these field properties e.g. time-stretching a dynamically flat version of the texture, then reimposing the
-original loudness trajectory in exactly the same time-frame as in the source texture-stream. We will
-discuss this parameter separation further, below. (Sound example 11.36).
-The second approach to time-stretching a texture-stream would be granular time-stretching by grain
-separation, as with grain-streams and sequences. However, because of the mutual overlaying of
-grains (or larger constituents) in a texture-stream, there is usually no simple way we can achieve this.
-It can only be done, in general, by returning to the texture generation process and altering the
-event-onset density parameters. To achieve an integrated time-stretch of this sort, any time-varying
-field properties (Hpitch field change, loudness trajectory, formant change etc.) would need to be
-similarly time-stretched in the generating instructions. We could, however, choose not to alter these
-features of the stream. In this way, we may create a goal sound which appears less event-onset dense
-than the source sound but not perceptually time-stretched in any meaningful sense, (Sound example
-11.37).
-94
+
+We have left the discussion of texture-streams until the last because it introduces further multi-dimensionality into our discussion of time-stretching. We have already encountered a two dimensional situation with grain-streams. A grain-stream may be granular time-stretched by grain separation, or by grain duplication. The first process reduces the pulse-rate (or density) of the grain-stream, the latter does not. With texture-streams the situation is even more complex.
+
+We may distinguish three distinct approaches to time-stretching a texture-stream. In the first we treat the texture-stream as an indivisible whole and time-stretch it. We may do this by spectral time-stretching, thereby stretching all the texture constituents, and hence very quickly producing a radical spectral transformation of the percept. All the perceptible time-varying field properties of the texture-stream will thereby be time-stretched e.g. loudness trajectory, pitch-band width change etc.  The revelation of the inner structure of grains may even alter the field percepts (e.g. noise elements becoming inharmonic sounds, or Hpitches appearing as gliding pitches) of the source sound. (Sound example 11.33).
+
+Waveset time-stretching will produce surprising and unpredictable artefacts when applied to texture streams as the zero crossing analysis will confuse the contribution of various distinct grains to the overall signal. With a stereo texture, waveset duplication may be applied to each channel independently, producing arbitrary phase shifts between the channels, as well as the aforementioned artefacts. (Sound example 11.34).
+
+Brassage techniques with above-grainsize segments, using regular segment size and zero search-range (see Appendix p44) will quickly destroy the unpatterned quality of the texture-stream, as brassage repetitions introduce a "spurious" order into the goal sound. Brassage will work better at preserving the inherent qualities of the texture-stream if we use a large enough segment size to capture the disorder of the texture-stream and a large enough range to avoid obvious repetition of materials. However, too large a range will begin to destroy any time-varying order in the field characteristics of the stream (e.g. directed change of the Hpitch field, loudness trajectory etc). (Sound example 11.35).
+
+Assuming we have fine control of the texture generation process we could, in fact, separate out some of these field properties e.g. time-stretching a dynamically flat version of the texture, then reimposing the original loudness trajectory in exactly the same time-frame as in the source texture-stream. We will discuss this parameter separation further, below. (Sound example 11.36).
+
+The second approach to time-stretching a texture-stream would be granular time-stretching by grain separation, as with grain-streams and sequences. However, because of the mutual overlaying of grains (or larger constituents) in a texture-stream, there is usually no simple way we can achieve this.  It can only be done, in general, by returning to the texture generation process and altering the event-onset density parameters. To achieve an integrated time-stretch of this sort, any time-varying field properties (Hpitch field change, loudness trajectory, formant change etc.) would need to be similarly time-stretched in the generating instructions. We could, however, choose not to alter these features of the stream. In this way, we may create a goal sound which appears less event-onset dense than the source sound but not perceptually time-stretched in any meaningful sense, (Sound example 11.37).
+</page>

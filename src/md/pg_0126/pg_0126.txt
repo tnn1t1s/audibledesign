@@ -1,42 +1,17 @@
+<page id=91>
+We may also extend grain-streams by duplicating elements, (granular time-stretching by grain duplication) e.g. respace the original units at twice the initial separation and repeat each grain halfway in time between the new grains. This is a grain dimension analogue of waveset repetition and suffers from the same drawbacks. If the grain elements are changing in character, grain repetition will be perceptually obvious and the more repetitions of each grain, the more perceptually prominent it will be.  (It might be obviated by a very narrow range pitch-scattering of the grains to destroy the sense of patterning introduced by the grain repetition) Note that in this way we can time-stretch the grain-stream by integral multiples of the original duration (and by selected choice of grains to repeat, by any rational fraction), without thereby altering the (average) pulse-rate (density) of the stream.  (Sound example 11.19).
 
-We may also extend grain-streams by duplicating elements, (granular time-stretching by grain
-duplication) e.g. respace the original units at twice the initial separation and repeat each grain halfway
-in time between the new grains. This is a grain dimension analogue of waveset repetition and suffers
-from the same drawbacks. If the grain elements are changing in character, grain repetition will be
-perceptually obvious and the more repetitions of each grain, the more perceptually prominent it will be.
-(It might be obviated by a very narrow range pitch-scattering of the grains to destroy the sense of
-patterning introduced by the grain repetition) Note that in this way we can time-stretch the
-grain-stream by integral multiples of the original duration (and by selected choice of grains to repeat,
-by any rational fraction), without thereby altering the (average) pulse-rate (density) of the stream.
-(Sound example 11.19).
 TIME-SHRINKING
-All the above processes may be applied to time-contraction, with noticeably different results.
-Tape-speed variation time-contraction has already been discussed. Spectral time-shrinking can
-smoothly contract any sound, or part of a sound. It can be used to contract a sound with continuation
-into an indivisible grain, though, in this process data will be irretrievably lost, i.e. if the grain is now
-time-dilated once more, the resulting sound will be considerably less time-variably spectrally detailed
-than the original. The process of successive contraction and expansion will give similar results to the
-process of spectral blurring (see Chapter 3). (Sound example 11.20).
-If grain-streams or sequences are spectrally time-shrunk, the individual elements will shrink, become
-less spectrally detailed and more click-like as their durations approach the lower grain time-frame
-boundary. (Sound example 11.21). Granular time-shrinking by grain separation involves the
-repositioning of grains by reducing intervening silence (where possible), or overlaying or splicing
-together the existing grains. These latter processes will tend to blur grains together. The process hence
-tends towards tremolo-like loudness trajectory and eventually to a continuous percept, from which the
-original grain is not recoverable. (A new grain might be created by enveloping.) (Sound example
-11.22).
-Granular time-shrinking by grain deletion is not prone to this blurring effect, but it is easy to destroy
-the continuity of the grain-stream percept if grains are deleted from that stream.
-In waveset time-shrinking waveset duplication is replaced by waveset omission. This process also
-loses granular or sequential detail as the sound contracts, though in a different way to grain separation
-contraction. We may choose to omit wavesets in a sequentially regular manner (e.g. every fourth
-waveset) in which case the sound becomes increasingly fuzzy, quieter, less detailed. Or, we may
-choose to omit the least significant (lowest amplitude) wavesets. In this case the sound retains its
-original loudness and loudness trajectory, but also loses sequential detail. The first process tends
-towards silence, the latter eventually reduces any sound to a continuation-less but loud point sound.
-(Sound example 11.23).
+
+All the above processes may be applied to time-contraction, with noticeably different results.  Tape-speed variation time-contraction has already been discussed. Spectral time-shrinking can smoothly contract any sound, or part of a sound. It can be used to contract a sound with continuation into an indivisible grain, though, in this process data will be irretrievably lost, i.e. if the grain is now time-dilated once more, the resulting sound will be considerably less time-variably spectrally detailed than the original. The process of successive contraction and expansion will give similar results to the process of spectral blurring (see Chapter 3). (Sound example 11.20).
+
+If grain-streams or sequences are spectrally time-shrunk, the individual elements will shrink, become less spectrally detailed and more click-like as their durations approach the lower grain time-frame boundary. (Sound example 11.21). Granular time-shrinking by grain separation involves the repositioning of grains by reducing intervening silence (where possible), or overlaying or splicing together the existing grains. These latter processes will tend to blur grains together. The process hence tends towards tremolo-like loudness trajectory and eventually to a continuous percept, from which the original grain is not recoverable. (A new grain might be created by enveloping.) (Sound example 11.22).
+
+Granular time-shrinking by grain deletion is not prone to this blurring effect, but it is easy to destroy the continuity of the grain-stream percept if grains are deleted from that stream.
+
+In waveset time-shrinking waveset duplication is replaced by waveset omission. This process also loses granular or sequential detail as the sound contracts, though in a different way to grain separation contraction. We may choose to omit wavesets in a sequentially regular manner (e.g. every fourth waveset) in which case the sound becomes increasingly fuzzy, quieter, less detailed. Or, we may choose to omit the least significant (lowest amplitude) wavesets. In this case the sound retains its original loudness and loudness trajectory, but also loses sequential detail. The first process tends towards silence, the latter eventually reduces any sound to a continuation-less but loud point sound.  (Sound example 11.23).
+
 THE CONSEQUENCES OF TIME-WARPING : TIME-FRAMES
-As we have discovered time-warping is not a single, simple process. The musical implications of
-applying particular processes to particular sounds must be considered on their own merits. There are,
-however, a number of general perceptual considerations to be borne in mind.
-91
+
+As we have discovered time-warping is not a single, simple process. The musical implications of applying particular processes to particular sounds must be considered on their own merits. There are, however, a number of general perceptual considerations to be borne in mind.
+</page>
