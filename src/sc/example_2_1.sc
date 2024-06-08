@@ -1,3 +1,9 @@
+/*
+Experiment 2.0 - explore spatial audio phenomena by stacking even harmonics on one side
+and odd harmonics on the other side of the stereo field; this highlights how our auditory
+system can integrate and perceive these separated sounds as a cohesive auditory experience.
+*/
+
 SynthDef(\harmonicVoice, {
         |out = 0, freq = 311.3, gate = 1|
         var sound, evenHarmonics, oddHarmonics, evenPan, oddPan;
