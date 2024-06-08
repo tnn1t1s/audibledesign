@@ -1,0 +1,40 @@
+
+The difficulties here might be compared with those in the process of in-betweening in animation. Here
+the directing artist draws key frames for the film, and assistants (or computers) do the various
+in-between drawings such that, when all are combined frame-by-frame on the film, realistic movement
+will be created. In-betweening may not be as skilful an occupation as originating the key frames but it
+is by no means elementary. Simple point-to-point linear interpolation will, in general, not work.
+INTERLEAVING AND TEXTURAL SUBSTITUTION
+A different approach to this problem of static interpolation is to, in some sense, interleave the data from
+our two sounds. One way to do this is to interleave analysis windows obtained from the spectral
+analysis of two sounds.
+When we produce a spectral analysis of a time-varying sound, we divide the sound into tiny
+time-slices, or windows, and analyse the spectrum in each window (using e.g. the fast fourier
+transform, see Appendix pp2-3, and Chapter 1) in order to follow the temporal evolution of the
+spectrum. This procedure is the basis of the phase vocoder (see Appendix).
+Having produced such an analysis of our two different sounds we may interleave alternate windows
+from each sound, preserving the original time-frame, or simply interleave windows as they are, creating
+a goal sound as long as the sum of the original sounds' lengths (see Appendix). This procedure can
+result in a kind of closely welded 'mix', if not exactly a fusion of aural percept. We may also choose to
+interleave pairs (or larger groups) of windows. With a sufficiently large grouping of windows, this will,
+of course, produce a rapid regular oscillation between the two source sounds. (Sound example 12.6).
+A similar percept can, however, be more easily achieved through brassage where we also have control
+over the segment size and are not therefore tied to regular oscillations. Two or more sources can be
+brassaged together (multi-source brassage) with control of segment size, search range, pitch shift,
+spatialisation of segments etc, just as in single source brassage. This approach perhaps works best in
+producing a process-focussed transformation (see Chapter 1) (e.g. granulated or pitch-spread) in
+which the two (or more) sources 'peer through' the distorting grill of the process simultaneously. The
+process's artefact grill disguises the lack of true fusion of the sources - both are an integral part of the
+resulting 'mince'. (Sound example 12.7).
+We can go one step further and attempt to integrate the wave-cycles, or wavesets, of the two sounds.
+Interleaving wavecycles or wavesets will produce spectrally unpredictable sidebands; two interleaved
+sinewaves of different wavelengths will produce a sideband whose wavelength is the sum of the
+originals, but with complex signals the process is likely to result in radical mutual distortion. This
+becomes a mutual transformation process rather than a true interpolation (waveset interleaving).
+(Sound example 12.8).
+Similarly, we may impose the waveset (or wavecycle) shape of one sound on the waveset (or
+wavecycle) length of the other. With simple sources, e.g. square wave to sine wave, this will force the
+pitch of the latter on the spectrum of the former. With complex sources, using wavesets, the results are
+once again complex and perceptually unpredictable. Again, we have mutual transformation, but not true
+interpolation (waveset transfer). (Sound example 12.9).
+99

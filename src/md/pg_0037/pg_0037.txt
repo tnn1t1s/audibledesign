@@ -1,0 +1,21 @@
+<page id=25>
+CHAPTER 2
+
+PITCH
+
+WHAT IS PITCH ?
+
+Certain sounds appear to possess a clear quality we call pitch. Whereas a cymbal or a snare-drum has no such property and a bell may appear to contain several pitches, a flute, violin or trumpet when played in the conventional way produces sounds that have the quality "pitch".
+
+Pitch arises when the partials in the spectrum of the sound are in a particularly simple relation to one another, i.e. they are all whole number multiples of some fixed value, known as the fundamental. In mathematical terms, the fundamental frequency is the highest common factor (HCF) of these partials.  When a spectrum has this structure it is said to be harmonic, and the individual partials are known as harmonics. But this must not be confused with the notion of "harmony" in traditional music. What happens when the partials are not in this simple relationship is discussed in the next Chapter. Thus the numbers 200, 300, 400, 500 are all whole number multiples of 100, which is their fundamental. The frequency of this fundamental determines the "height" or "value" of the pitch we hear.
+
+In most cases, the fundamental frequency of such a sound is present in the sound as the frequency of the lowest partial, but this is not necessarily true (e.g. the lowest notes of the piano do not contain any partial whose frequency corresponds to the perceived pitch). It is important to understand, therefore, that the perceived pitch is a mental construct from a harmonic spectrum, and not simply a matter of directly perceiving a fundamental frequency in a spectrum. Such a frequency may not be physically present.
+
+The most important feature of pitch perception is that the spectrum appears to fuse into a unitary percept, that of pitch, with a certain spectral quality or "timbre". This fusion is best illustrated by undoing it.
+
+For example if we play a (synthesized) voice sound by placing the odd harmonics on the left loudspeaker and the even harmonics on the right loudspeaker we will hear one vocal sound between the two loudspeakers. This happens because of a phenomenon known as aural streaming. When sounds from two different sources enter our ears simultaneously we need some mechanism to disentangle the partials belonging to one sound from those belonging to the other. One way in which the ear is able to process the data relies on the micro-instabilities (jitter) in pitch, or tessitura, and loudness which all naturally occurring sounds exhibit. The partials derived from one sound will all jitter in parallel with one another, while those from the other sound will jitter differently but also in parallel with one another. This provides a strong clue for our brain to assign any particular partial to one or other of the source sounds.
+
+In our loudspeaker experiment, however, we have removed this clue by maintaining synchronicity of microfluctuations between the partials coming from the two loudspeakers. Hence the ear does not unscramble the data into two separate sources. The voice remains a single percept. (Sound example 2.1).
+
+If, now, we gradually add a different vibrato to each set of partials, the sound image will split. The ear is now able to group the 2 sets of data into two aural streams and assign two different source sounds to
+</page>

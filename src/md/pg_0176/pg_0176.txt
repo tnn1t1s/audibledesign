@@ -1,0 +1,34 @@
+
+TIMBRE
+A catch-all term for all those aspects of a sound not included in pitch and duration. Of no value to the
+sound composer!
+TIME STRETCHING
+See spectral time-stretching, granular time-stretching, waveset time-stretching, harmoniser,
+brassage.
+TIME-DOMAIN REPRESENTATION
+The waveform of a sound represented as the variation of air- - pressure with time.
+TIME-VARIABLE TIME-STRETCHING
+See time-warping.
+TIME-WARPING
+30
+Changing the duration of a sound in a way which itself varies with time.
+TONAL MUSIC
+Music organised around keys and the progression between different keys. In contrast, atonal music
+avoids indicating the dominance of any particular key or pitch.
+TONE
+The interval between the first two pitches of a major (or minor) scale in European music. European
+scales consist of patterns of tones and semitones (half a tone) and, in some cases 3-semitone steps.
+TRAJECTORY
+The variation of some property with time. e.g. loudness trajectory, pitch trajectory, formant trajectory.
+Loudness trajectory is often also known as 'envelope' and instruments which manipulate the loudness
+trajectory are here called 'Envelope something'.
+TREMOLO
+66
+Cyclical undulations of loudness between C. 4 and 20 cycles per second.
+TRANSPOSITION
+Changing the pitch of a sound, or sound sequence.
+TRIGGERING
+62
+Using the value of some time-varying property (usually the loudness) of a sound to cause something
+else to happen.
+135

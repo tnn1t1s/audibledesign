@@ -1,0 +1,35 @@
+
+R
+RANDOM-CUTTING
+41
+REFERENCE FRAME
+A set of values which provide a reference set against which other values can be measured. e.g. the
+chromatic scale as a reference set for european harmony, the set of vowels in standard english as a
+reference set for classifying regional accents etc.
+RESONANCE
+If an object is vibrated it will produce a sound. Due to its particular weight, size and shape there will be
+certain frequencies at which it will vibrate 'naturally'. If supplied with frequency-unspecific energy it
+will tend to vibrate at these natural resonant frequencies. A flute tube with a certain combination of
+closed holes has specific resonant frequencies which produce the pitches for that fingering. A hall or
+building will reinforce certain frequencies in a voice, orchestra etc which fall on its natural resonant
+frequencies.
+RETROGRADE
+The performance of a sequence of sound events in the reverse order. A-B-C-D-E becomes
+E-D-C-B-A. Note that the sound-events themselves are not reversed.
+REVERBERATION
+64
+RITARDANDO
+A decrease in the speed at which musical events succeed one another.
+SAMPLER
+A piece of hardware, or a software package on a computer, which that digitally records any sound and
+allows it to be manipulated (e.g. pitch-change by 'tape-speed' variation with the specific transposition
+information sent from a MIDI keyboard). The sounds recorded on a sampler are often referred to in the
+commercial literature as 'samples'. These should not be confused with the individual numbers used to
+record the shape of the waveform itself, which are properly known as samples. (See SAMPLING).
+SAMPLING
+1
+Sound is digitally recorded by sampling the value of the (electrical analogue of the) sound wave, at
+regular time- intervals. These time intervals must be very short if high frequencies in the sound are to
+be resolved. (e.g. between 22000 and 48000 samples per second). At a sampling rate of 48000 samples
+per second, the highest resolvable frequency is 24000 cycles per second.
+129

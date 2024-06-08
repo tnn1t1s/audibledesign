@@ -1,0 +1,21 @@
+<page id=66>
+CHAPTER 8
+
+TEXTURE
+
+WHAT IS TEXTURE ?
+
+So far in this book we have looked at the intrinsic or internal properties of sounds. However in this chapter we wish to consider properties of dense agglomerations of the same or similar (e.g. tape-speed variation transposed) versions of the same sound, or set of sounds. This is what I will call texture.  Initially we will assume that what 1 mean by texture is obvious. In the next chapter we will analyse in more detail the boundary between textural and measured perception, particularly in relation to the distribution of events in time.
+
+In the first two sound examples, we give what we hope will be (at this stage) indisputable examples of measuredly perceived sound and texturally perceived sound. In the first we are aware of specific order relations amongst Hpitches and the relative onset time of events and can, so to speak, measure them, or assign them specific values (this will be explained more fully later). In the latter we hear a welter of events in which we are unaware of any temporal order relations. However, in the latter case, we are aware that the sound experience has some definable persisting properties - the Hpitches define a persisting reference set (a HArmonic field). (Sound example 8.1).
+
+We can lose the sense of sequential ordering of a succession of sounds in two ways. Firstly, the elements may be relatively disordered (random) in some property (e.g. HPitch). Secondly the elements may succeed each other so quickly that we can no longer grasp their order.
+
+There are immediate perceptual problems with the notion of disorder. We can generate an order-free sequence in many ways, but it is possible to pick up on a local ordering in a totally disordered sequence.  Thus a random sequence of zeros and ones may contain the sequence 11001100 which we may momentarily perceive as ordered, even if the pattern fails to persist. Such focusing on transient orderliness may be a feature of human perception as we tend to be inveterate pattern-searchers. So disorderly sequence, of itself, need not lead to textural perception. (Sound example 8.2).  
+
+By the same token, if a sequence, no matter how rapid, is repeated (over and over), the sequence shape will be imprinted in our memory. This 'looping effect' can thus contradict the effect of event-rate on our perception. (Sound example 8.3).
+
+Textural perception therefore only takes over unequivocally when the succession of events is both random and dense, so we no longer have any perceptual bearings for assigning sequential properties to the sound stream. (Sound example 8.4).
+
+A disordered sequence of Hpitches in a temporally dense succession is a fairly straightforward conception. However, we can also apply the notion of texture to temporal perception itself. This involves more detailed arguments about the nature of perception and we will leave this to the next chapter.
+</page>

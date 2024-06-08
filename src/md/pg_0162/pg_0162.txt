@@ -1,0 +1,32 @@
+
+H
+HARMONIC
+In traditional European practice, harmonic means pertaining to harmony and relates particularly to tonal
+music. In sound composition, harmonic refers to the property of a spectrum where all the partials are
+multiples of some (audible) fundamental frequency. These partials are then known as harmonics, the
+spectrum is said to be harmonic and the sound has a single definite pitch. (See also INHARMONIC).
+These two usages are incompatible, so in the text we use HArmonic to refer to the traditional usage,
+and harmonic to refer to the sound-compositional usage.
+HARMONIC FIELD
+A reference frame of pitches. This might be thought of as a chord. All pitches in a texture controlled by a
+HArmonic Field will fall on one or other of the pitches of the chord.
+HARMONICITY
+The property of having a harmonic spectrum.
+HARMONICS
+4
+The partials of a sound of definite pitch are (usually) exact multiples of some (audible) frequency known
+as the fundamental. In this case the partials are known as the harmonics of the sound.
+HARMONISER
+38
+Application of brassage with tape-speed transposition to change the pitch of a sound without altering
+its duration. Generic name of commercially available hardware units which do both this and a number of
+other grain time-frame brassage procedures (e.g. duration change without pitch-change).
+HARMONY
+In European music, the rules governing the sounding-together of pitches, and the sequencing of chords.
+HOMOPHONIC
+Music in which there are several parts (instruments or voices) but all parts sound simultaneously
+(though not necessarily with the same pitch) at each musical event.
+HPITCH
+Pitch in a sense which refers to a HArmonic Field or to European notions of Harmony. In contrast to
+pitch as a property of a spectrum.
+121

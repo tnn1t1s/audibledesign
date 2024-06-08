@@ -1,0 +1,9 @@
+<page id=24>
+In sound composition a relationship between two sounds is established only through aurally perceptible similarity or relatedness, regardless of the methodological rigour of the process which transforms one sound into another.
+
+Another important aspect of Savouret's talk was to distinguish between source-focused transformation (where the nature of the resulting sound is strongly related to the input sound, (e.g. time-stretching of a signal with a stable spectrum, retaining the onset unstretched) and process-focused transformations (where the nature of the resulting sound is more strongly determined by the transformation process itself, e.g. using very short time digital delay of a signal, superimposed on the non-delayed signal to produce delay-time related pitched ringing). There is, of course, an interesting area of ambiguity between the two extremes.
+
+In general, process-focused transformations need to be used sparingly. Often when a new compositional technique emerges, e.g. pitch parallelism via the harmonizer, there is an initial rush of excitement to explore the new sound possibilities. But such process-focused transformations can rapidly become cliches.
+
+Transformations focused in the source, however, retain the same infinite potential that the infinity of natural sound sources offer us. Sound-processing procedures which are sensitive to the evolving properties (pitch, loudness, spectral form and contour etc.) of the source-sound are those most likely to bring rich musical rewards.
+</page>

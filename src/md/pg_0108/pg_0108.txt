@@ -1,0 +1,17 @@
+<page id=77>
+In our notated example, the mutual time-frame duration lasts approximately 0.0005 seconds, or half a millisecond, and hence there is no doubt that the live-performed events will be displaced by at least half the time-frame unit (half of half a millisecond). In fact we can confidently declare that events will be displaced by multiples of the time-frame unit, in all performances. The precision of the result is simply impossible and an appeal to future idealised performances mere sophistry.
+
+In fact we can be fairly certain that even the order of these events will not be preserved from performance to performance. The 7th unit in a 13-in-the-time-of-1 grouping, and the 6th unit in an 11-in-the-time-of-one grouping, over the same crotchet, at [crotchet = 120] are only 1/143th of a crotchet, or 1/286th of a second (less than 4 milliseconds) apart. It only needs one of these units to be misplaced by 3 or more milliseconds in one direction, and the other by 3 or more milliseconds in the opposite direction, for the order of the two events to be reversed in live performance! (See Diagram 12).
+
+Hence we are not, here, composing a sequence intrinsically tied to an "exact" notation. The exact notation in fact specifies a class of sequences with similar properties within a fairly definable range. We are in some senses specifying a density flow within the limitations of a certain range of random fluctuations. We could describe this class of sequences by a time-varying density function with a specified (possibly variable) randomisation of relative time-positions. In writing notes on paper, the exact notation is more practicable so long as we acknowledge that it does not specify an exact result.  In the computer domain, the density approach may be more appropriate if we are really looking for the same class of percepts as in the notated case.
+
+In such complex cases, we may still retain a longer time-frame reference set (see Diagram 13).
+
+In a cyclically repeated pattern of superimposed "irrationally" related groupings, even given the intrinsic "inaccuracy" of live performance, we should be aware of the repetition of the bar length or larger-time-frame unit (which we are dividing). We hear in a measured way at the larger time-frame level, but we hear only comparatively at smaller time-frames. On the other hand, with computer-precision in generating the sound sequence, we may be able to perceive a very precise "density flux" in the combination of these streams, at least if they are repeated a sufficient number of times. (Sound example 9.9).
+
+Our comments about notated music are further reinforced if we now organise the material internally so as to contradict any mutual reinforcement at larger pulse (e.g. bar) interfaces. In this way we can also destroy measured perception at the larger level. Again, if we repeat a sequence of (say) 4 bars, we may re-establish a measured perception of phrase regularity in a yet larger time-frame, e.g. the 4-bar frame. (Diagram 14).
+
+Eventually, however, either because we change bar-lengths in a non-repeating way, or because we constantly undermine the bar-level mutual pattern reinforcement, larger time-frame reference-frames will not be perceptually established. (Diagram 15).
+
+We then pass over exclusively to comparative or to textural perception.
+</page>

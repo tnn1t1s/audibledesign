@@ -1,0 +1,21 @@
+<page id=55>
+CHAPTER 6
+
+GRAIN-STREAMS
+
+DISCONTINUOUS SPECTRA
+
+In this chapter and the next we will discuss the particular properties of sounds with perceptibly discontinuous spectra. The spectra of many sounds are discontinuous on such a small time- frame that we perceive the result as noise (or in fact as pitch if the discontinuities recur cyclically), rather than as a sequence of changing but definite sound events. Once, however, the individual spectral moments are stable or stable-in-motion for a grain time-frame or more, we perceive a sound-event with definite but rapidly discontinuous properties.
+
+In one sense, all our sound-experience is discontinuous. No sound persists forever and, in the real world, will be interrupted by another, congruously or incongruously. We are here concerned with perceived discontinuous changes in the time range speed-of-normal-speech down to the lower limit of grain perception.
+
+Compositionally, we tend to demand different things of discontinuous sounds, than of continuous ones.  In particular, if we time-stretch a continuous sound, we may be disturbed by the onset distortion but the remainder of the sound may appear spectrally satisfactory. If we time-stretch a discontinuous sound, however, we will be disconcerted everywhere by onset distortion as the sound is a sequence of onsets. Often we want the sound (e.g. in the real environment, a drum roll, a speech-stream) to be delivered more slowly to us without the individual attacks (the drum strike, the timbral structure of consonants) being smeared out and hence transformed. We wish to be selective about what we time-stretch!
+
+The idea of slowing down an event stream without slowing down the internal workings of the events is quite normal in traditional musical practice - we just play in a slower tempo on the same instrument - the internal tempi of the onset events is not affected. But with recorded sounds we have to make special arrangements to get this to work.
+
+We will divide discontinuous sounds into two classes for the ensuing discussion. A grain-stream is a sound made by a succession of similar grain events. In the limit it is simply a single grain rapidly repeated. Even where this (non!) ideal limit is approached in naturally occuring sounds (e.g. low contrabassoon notes) we will discover that the individual grains are far from identical, nor are they ever completely regularly spaced in time. (Sound example 6.1).
+
+Discontinuous sounds consisting of different individual units (speech, a melody on a single instrument, any rapid sequence of different events) we will refer to as sequences and will discuss these in the next chapter.
+
+Both grain-streams and sequences can have (or can be composed to have) overall continuation properties (dispersive, undulatory and forced continuation and their developments, as discussed in Chapter 5). (Sound example 6.2). In this chapter and the next, we will talk only about those properties which are special to grain-streams and sequences.
+</page>

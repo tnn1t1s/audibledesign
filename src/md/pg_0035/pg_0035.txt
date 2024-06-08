@@ -1,0 +1,17 @@
+<page id=23>
+THE MANIPULATION OF SOUND : TIME-VARYING PROCESSING
+
+Just as I have been at pains to stress that sound events have several time-varying properties, it is important to understand that the compositional processes we apply to sounds may also vary in time in subtle and complex ways. In general, any parameter we give to a process (pitch, speed, loudness, filter centre, density etc.) should be replaceable by a time varying quantity and this quantity should be continuously variable over the shortest time-scales.
+
+In a tradition dominated by the notation of fixed values (pitch, loudness level, duration) etc, it is easy to imagine that processes themselves must have fixed values. In fact, of course, the apparently fixed values we dictate in a notation system are turned into subtly varying events by musical performers.  Where this is not the case (e.g. quantised sequencer music on elementary synthesis modules) we quickly tire of the musical sterility.
+
+The same fixed-value conception was transferred into acoustic modelling and dominated early synthesis experiments. And for this reason, early synthesized sounds governed by fixed values (or simply-changing values) suffered from a lack of musical vitality. In a similar fashion an "effects unit" used as an all-or-nothing process on a voice or instrument, is simply that, an "effect" which may occasionally be appropriate (to create a particular general acoustic ambience, for example) but will not sustain our interest as a compositional feature until we begin to articulate its temporal evolution.
+
+A time-varying process can, on the other hand, effect a radical transformation within a sound, e.g. a gradually increasing (but subtly varying) vibrato, applied to a fairly static sound, gradually giving it a vocal quality; a gradual spectral stretching of a long sound causing its pitch to split into an inharmonic stream; and so on. Transforming a sound does not necessarily mean changing it in an all-or-nothing way. Dynamic spectral interpolation in particular (see Chapter 12) is a process which depends on the subtle use of time-varying parameters.
+
+THE MANIPULATION OF SOUND : RELATIONSHIP TO THE SOURCE
+
+The infinite malleability of sound materials raises another significant musical issue, discussed by Alain Savouret at the International Computer Music Conference at IRCAM in 1985. As we can do anything to a signal, we must decide by listening whether the source sound and the goal sound of a compositional process are in fact at all perceptually related, or at least whether we can define a perceptible route from one to the other through a sequence of intermediate sounds. In score-based music there is a tradition to claiming that a transformation which can be explained and who's results can be seen in a score, by definition defines a musical relationship. This mediaeval textual idealism is out of the question in the new musical domain.
+
+An instrument which replaces every half-waveset by a single pulse equal in amplitude to the amplitude of the half-waveset, is a perfectly well-defined transformation, but reduces most sounds to a uniform crackling noise. Nevertheless, for complex real-world sounds, each crackling signal is unique at the sample level and uniquely related to its source sound. Hence no musical relationship has been established between the source sound and the transformed sound.
+</page>

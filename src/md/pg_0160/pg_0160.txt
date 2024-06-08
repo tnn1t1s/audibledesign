@@ -1,0 +1,29 @@
+
+FORMANT PRESERVING SPECTRAL MANIPULATION
+17
+FOURIER ANALYSIS
+2
+The representation of the waveform of a sound as a set of simpler (sinusoidal) waveforms. The new
+representation is known as the spectrum of the sound.
+FOURIER TRANSFORM
+A mathematical procedure which allows us to represent any arbitrary waveform as a sum of elementary
+sinusoidal waveforms. It is used in Fourier Analysis. See also INVERSE FOURIER TRANSFORM.
+FREQUENCY
+3,4
+A steady sound has a definite repeating shape, a waveform, and this waveform a definite length, which
+takes a certain time to pass the listener. The number of waveforms that pass in each second (the
+number of cycles per second) is known as the frequency of the wave. The frequency of the wave helps to
+determine the pitch we hear.
+FREQUENCY DOMAIN REPRESENTATION
+3
+G *****
+GATING
+60
+GOLDEN SECTION
+If a straight line AB is cut at a point P such that..
+AP/AB = PB/AP
+this ratio is desribed as the Golden Section, & is approximately equal to 0.618
+A
+P
+B
+119

@@ -1,0 +1,27 @@
+
+*****K *****
+KARPLUS STRONG
+An efficient algorithm for generating plucked-string sounds.
+KEY
+A piece of european music using the tempered scale (except where it is intentionally atonal) can usually
+be related to a scale beginning on a particular pitch, around which the melodic patterns and chord
+progressions of the piece are organised. The pitch which begins the scale defines the Key of the piece.
+KLANGFARBENMELODIE
+Musical line where successive pitches are played by different (groups of) instruments. Literally,
+tone-colour melody.
+L *****
+LIMITING
+60
+LINEAR PREDICTIVE CODING
+12
+LOOPING
+42
+LOUDNESS
+Technically speaking, loudness is a property which is related to perception, and is measured in a way
+which takes into account the varying sensitivity of the ear over different frequency ranges. In this sense
+it differs from the Amplitude of the signal, which is a scientific measure of the strength of a sound. In
+this book, the term loudness is used in the text, wherever this will not cause any confusion. Diagrams
+usually refer to Amplitude.
+LPC
+12
+123

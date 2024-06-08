@@ -1,0 +1,29 @@
+
+D
+DELAY
+64
+DENSITY
+Describes the way in which a range is filled. Applies particularly to time ranges. A high-density texture
+has a great many events in a short time. Temporal density is a primary property of
+TEXTURE-STREAMS. The concept of density can also be applied to pitch-ranges.
+DESTRUCTIVE DISTORTION
+An irreversible transformation of the waveform of a sound, changing its spectral quality (the brightness,
+noisiness etc), rather than the pitch or duration. Distortion also implies the degradation of the sound
+(and irreversibility means that the original sound cannot be restored from the distorted version).
+Destructive distortion which preserves zero-crossing points can be musically useful. See
+WAVESETS.
+DIPHONE SYNTHESIS
+The reconstruction of speech (usually) by synthesising the transitions between significant phonemes
+(roughly speaking, vowels & consonants) rather than the phonemes themselves.
+DRONE
+A pitched or multipitched sustained sound which persists for a long time.
+DUCKING
+62
+Means of ensuring the prominence of a lead 'voice' in a mix.
+DURATION
+The length of time a sound persists. Not to be confused with event-onset-separation-dration which is
+the time between the start of successive sound events.
+DYNAMIC INTERPOLATION
+The process whereby a sound gradually changes into a different (kind of) sound during the course of a
+single sonic event.
+116

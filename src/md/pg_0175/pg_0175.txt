@@ -1,0 +1,36 @@
+
+TESSITURA
+Also known as register. In its simplest sense, the range of pitch in question. The tessitura of soprano
+voices is higher than that of Tenor voices. However, unpitched (e.g. noise) sounds may rise in tessitura
+while having no perceivable pitch, while SHEPARD TONES may rise in tessitura while falling in
+pitch(!). Hence tessitura also has something to do with where the main focus of energy lies in the
+spectrum (where the loudest groups of partials are to be found).
+TEXTURE
+Organisation of sound elements in terms of (temporal) density and field properties.
+TEXTURE CONTROL
+68-69
+TEXTURE GENERATION
+68-69
+TEXTURE OF GROUPS
+68
+Texture in which small sets of sound elements are considered as the organisable units of the texture,
+rather than individual sounds themselves. The sounds forming any particular group are, however,
+chosen arbitrarily from the available sound sources.
+TEXTURE OF MOTIFS
+69
+Texture in which specific small sets of sound elements, known as motifs, are considered as the
+organisable units of the texture, rather than individual sounds themselves. The sounds forming any
+particular motif are in some kind of predefined arrangement (e.g. some combination of sequence, time-
+placement, pitch-relationship, formant sequence, etc).
+TEXTURE OF ORNAMENTS
+69
+Texture in which specific small sets of sound elements, known as ornaments, are attached to the
+fundamental sound elements of the texture, and each of these may be organised as units of the texture.
+TEXTURE STREAM
+Dense and relatively disordered sequence of sound events in which specific ordering properties
+between individual elements cannot be perceived. Properties may be ordered in terms of Field and
+Density.
+THRESHOLD
+A value either not to be exceeded (or fallen below), or to be noted (in order to cause something else to
+happen) if it is thus exceeded.
+134

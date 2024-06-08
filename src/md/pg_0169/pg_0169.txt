@@ -1,0 +1,28 @@
+
+PORTAMENTO
+Sliding of pitch. Often incorrectly referred to as glissando, but there is an important distinction. On a
+fretted or keyed instrument like a piano, we may slide fingers from a high pitch to a low pitch, but the
+keys allow us to access only the pitches of the scale, and we hear a rapid descending scale passage: a
+glissando. On a trombone or violin, a similar motion with the slide, or the finger along the string, causes
+pitch to fall through the continuum, without picking out intervening scale pitches: a portamento.
+PROCESS-FOCUSSED TRANSFORMATION
+Some musical processes will so radically alter a source sound that the perceived goal-sound is more
+dependent on the process of transformation than on the source itself. The same process applied to two
+very different sources will produce very similar goal-sounds. The perceived result of the procedure
+is
+governed more by the artefacts of the process of transformation, rather than by the particular nature of
+the source-sounds employed.
+Q
+8
+The steepness with which a filter cuts out unwanted frequencies.
+QUANTISATION
+Forcing the timing of events on to a time grid of a specific size. E.g. we may set a grid at 0.01 seconds.
+Any event must then fall at some multiple of 0.01 seconds. ALternatively we may set a grid at some
+division of the metrical unit e.g. a grid of demi-semi-quavers. All events must then fall on some
+multiple of demi-semiquaver divisions of the beat. The actual time quantisation will then also be
+determined by the tempo (the number of crotchets per second). The quantisation grid provides a time
+reference-frame. On keyed or fretted instruments, pitch is similarly quantised.
+QUARTER TONE
+A very small division of the musical scale. Half a semitone (the smallest interval accessible on a
+standard European keyboard instrument, like a piano).
+128

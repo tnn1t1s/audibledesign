@@ -1,0 +1,41 @@
+
+STOCHASTIC PROCESSES
+A process in which the probabilities of proceeding from one state, or set of states, to another, is defined.
+The temporal evolution of the process is therefore governed by a kind of weighted randomness, which
+can be chosen to give anything from an entirely determined outcome, to an entirely unpredictable one.
+SYNTHESIS
+Process of generating a sound from digital data, or from the parameters supplied to an electrical
+oscillator. Originally synthetic sounds were recognisably such, but now it is possible, through a process
+of careful analysis and subtle transformation, to recreate a recorded sound in a changed form which
+however sound as convincingly 'natural' as the recording of the original sound.
+***** T *****
+TAPE-ACCELERATION
+36
+TAPE-SPEED VARIATION
+36
+TEMPERED TUNING
+The tuning of the scales used in European music., a system which became firmly established in the
+early eighteenth century. In tempered tuning the octave is divided into 12 exactly equal semitones. i.e.
+the ratio between the frequencies of any two pitches which are a semitone apart is exactly the same. In
+a harmonic spectrum, the frequencies of the partials are exact multiples of some fundamental frequency.
+The ratio of their frequencies form a pattern known as the harmonic series i.e.
+2/1 3/2 4/3 5/4 6/5 7/6
+and the frequency ratios between members of this series are known as 'pure' intervals. Some pure
+interval ratios are..
+octave..2/1
+4th
+4/3
+5th.....3/2
+7th
+7/4
+There is no common smaller interval from which all these 'pure' intervals can be constructed. Hence the
+striving to achieve some kinds of compromise tunings, of which the tempered scale is just one example.
+Apart from the octave, the tempered scale only approximates frequency ratios of the pure intervals. The
+7th has no close approximation in the tempered scale.
+TEMPO
+The rate at which musical events occur. In european music the relative duration of events are indicated
+by note values e.g. a crotchet is as long as two quavers. The speed of the whole will be indicated by a
+tempo marking e.g.
+crotchet = 120
+which means there are to be 120 crotchets in one minute.
+133

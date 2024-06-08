@@ -1,0 +1,17 @@
+<page id=83>
+GATES AND TRIGGERS
+
+We may apply more radical modifications to the loudness trajectory of a sound. We may cause a signal to cut out completely if it falls below a certain level, This procedure, known as gating, can be used for elementary noise reduction, but is also often used in popular music to enhance the impact of percussive sounds.
+
+Detecting the appropriate level to apply the gate is known as threshold detection. We may also use threshold detection as a means to trigger other events, either when the level of a signal exceeds a threshold, or when it falls below it. In the former case we may heighten the attack characteristics of particularly loud sounds by causing them to trigger a second sound to be mixed into the sonic stream.  Or we may trigger quite different sounds to appear briefly and at low levels, so that these new sounds are partly masked by the original sound, making a kind of hidden appearance only (Sound example 10.7).
+
+Alternatively we might trigger a process affecting the source sound, such as reverberation or delay.  We could switch such processes on and off rapidly, or vary their values according to the loudness trajectory of the source signal, e.g. quiet events might be made more strongly reverberant and louder events drier. Combining this with triggered spatial position control we might articulate a whole stereo-versus-reverb-depth space from the loudness trajectory of a single mono source.
+
+In conventional recording studio practice two very commonly used gating/triggering procedures are limiting and compressing. In a limiter, any sound above a certain threshold loudness is reduced in level to that threshold value. This ensures that e.g. a concert can be recorded at a high level with less risk of particularly loud peaks overloading the system. Compression works in a more sophisticated manner.  Above the threshold the louder the sound, the more its loudness is reduced, producing a more subtle containment of the signal. This process may be used more generally, setting the threshold level quite low, to flatten or smooth the gestural trajectory of a sound, thereby e.g. "calming" a hyperactive sequence of events.
+
+An expander, in contrast, does the opposite, expanding the level of a sound more, the louder it is, hence exaggerating the contrasts in loudness in a sound source and thereby perhaps exaggerating the gestural energy of a sound event or sequence of events. (See Appendix p60).
+
+BALANCE
+
+In orchestral music, the balance of loudness between sound sources is achieved partly through the combination of performance practice with the notation of dynamics in a score, and partly through the medium of the conductor who must interpret the composer's instructions for the acoustic of the particular performance space. Furthermore, the blending or contrast of sounds is aided or hindered by the fact that all the sounds are generated in the same acoustic space (normally). In the studio we may bring together sounds from entirely different acoustic spaces (a forest, a living room) and with quite different proximity characteristics (close-miked, or miked at a distance such that room ambience is significantly incorporated into the sound).
+</page>

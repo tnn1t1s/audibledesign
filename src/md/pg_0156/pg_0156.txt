@@ -1,0 +1,34 @@
+
+COMPRESSION
+60
+Reducing the loudness of a sound by greater amounts where the sound itself becomes louder.
+CONSTRUCTED CONTINUATION
+The extension of a sound by some compositional process (e.g. brassage, zigzagging).
+CONSTRUCTIVE DISTORTION
+A process which generates musically interesting artefacts from the intrinsic properties of the waveform
+or the (time-varying) spectrum of a sound.
+CONTINUATION
+Where sounds are longer than grains, we hear how the sound qualities evolve in time, (their
+morphology). These sounds have continuation.
+CONTOUR
+The shape of some property of a sound at one moment in time. In particular, the shape of the spectrum.
+This is often referred to as Spectral Envelope. However, Envelope is also used to describe the
+time-changing evolution of a property (especially Loudness). To avoid any confusion, this book
+reserves Trajectory for such time-changing properties, and Contour for the instantaneous shape of a
+property. The names of computer instruments may however use the term 'Envelope'.
+The spectral contour describes the overall loudness contour of the spectrum at a single moment in time.
+But note that the spectral contour may itself evolve (change) through time.
+CORRUGATION
+60
+CROTCHET = 120
+An indication of the speed at which musical events succeed one another. Here the duration unit,
+crotchet, occurs 120 times every second. This speed is known as the Tempo.
+CSOUND
+A general purpose computer language which allows a composer to describe a sound-generating
+procedure (synthesis method) and ways to control it, in almost any degree of detail, and to define a
+sequence of events (a score) using the sounds generated, and which then generates the sound events
+thus defined. CSound is the most recent development of a series of such general purpose synthesis
+engines, and the one in most common use at the time of writing (Autumn, 1994).
+CUTTING
+40
+115

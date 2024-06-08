@@ -1,0 +1,17 @@
+<page id=84>
+Moreover, we may combine such features in ways which contradict our experience of natural acoustic environments. Thus proximately recorded loud sounds may be played back very quietly, while distant quiet sounds may be projected with very loudly. These features of the sound landscape are discussed more fully in On Sonic Art.
+
+In sound composition in general, the loudness balance between diverse sources is described in a (possibly graphic) mixing score, or created in real-time at a mixing desk, perhaps with action information recorded for subsequent exact reproduction or detailed modification.
+
+This can give us very precise control over balance, even within the course of grain size events. Balance changes within the grain time-frame is in fact a means of generating new sonic substances intermediate between the constituents (e.g. inbetweening, see Chapter 12). (Sound example 10.8).
+
+Mixing may also be used to consciously mask the features of one sound by another or, more usually, to consciously avoid this. The latter process is aided by distributing the different sounds over the stereo space. (Sound example 10.9).
+
+In certain cases we may wish to ensure the prominence of a particular sound or sounds without thereby sacrificing the loudness level of other sources. In popular music the device of ducking is used to this end. Here the general level of some of the other instruments is linked inversely to that of the voice.  Before the singer begins, the rest of the band is recorded as loudly as possible, but, once the voice enters, some instruments 'duck' in level so as not to mask the voice. This ensures that the voice is always clearly audible while at the same time a generally high recording level is maintained whether or not the voice is present.
+
+This process may be used more generally. We may mix any two sounds so that the loudness trajectory of the second is the inverse of the first (envelope inversion). For example, a sound of rapidly varying loudness (like speech) may be made to interrupt a sound of more constant energy (a large crowd talking amongst itself, heavy traffic) by imposing the inverted loudness trajectory of the speech on the traffic noise (Sound example 10.10). This procedure will ensure that the traffic will not mask the voice, yet will remain prominent, perhaps alternating in perceptual importance with the voice (depending on how the relative maximum levels are set and on the intrinsic interest of the traffic sounds themselves!).
+
+PROXIMITY
+
+Loudness information in the real world usually provides us with information about the proximity of a sound source. The same sound heard more quietly is usually further away. It is important to understand that other factors feature in proximity perception, especially the presence or absence of high frequencies in the spectrum (such high frequencies tend to be lost as sound travels over greater distances). There are of course other aspects of the sound environment affecting proximity perception.  The presence or absence of barriers (walls, doors to rooms or entrances to other containers) and the nature of reflective surfaces (hard stone, soft furnishings) contribute to a sense of ambient reverberation. Even air temperature is important (on cold clear nights, sound waves are refracted downwards and hence sounds travel further).
+</page>

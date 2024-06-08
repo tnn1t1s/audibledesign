@@ -1,0 +1,17 @@
+<page id=68>
+Alternatively we may begin with individually longer sound sources. Grain streams and sequences may begin to take on texture-stream characteristics by becoming arhythmic (through the scattering of onset-time away from any time reference-frame: see later in this Chapter) and by becoming sequentially disordered. If we now begin to superimpose variants, even with a few superimpositions we will certainly generate a texture stream. (Sound example 8.7).
+
+Continuous sounds which are evolving through time (pitch-glide, spectral change etc) may also change into texture-streams. Applying granular reconstruction (see Appendix p73) to such a continuous sound with a grain-size that is large enough to retain perceptible internal structure, and provided both that the density is not extremely high (when the sound becomes continuous once again) and the grain time distribution is randomised, can produce a texture stream. (Sound example 8.8).
+
+Spatialisation can be a factor in the emergence of a texture-stream. If a rapid sequence has its elements distributed alternately between extreme left and right positions, the percept will be most probably split into two separate sequences, spatially distinct and with lower event rates. However, if the individual events are scattered randomly over the stereo space, we are more likely to create a stereo texture-stream concept as the sense of sequential continuity is destroyed, particularly if the onset-time distribution is randomised. A superimposition of two such scattered sequences will almost certainly merge into a texture-stream. (Sound example 8.9).
+
+And in fact any dense and complex sequence of, possibly layered, musical events, originally having sequential, contrapuntal and other logics, can become a texture-stream if the complications of these procedures and temporal density are pushed beyond certain perceptual limits.
+
+FIELD
+
+The two fundamental properties of texture are Field and Density.
+
+Field refers to a grouping of different values which persists through time. Thus a texture may be perceived to be taking place over a whole-tone scale, even though we do not retain the exact sequence of Hpitches. In this case, we retain a HArmonic percept. Similarly, we may be able to distinguish French from Portuguese, or Chinese from Japanese, even if we do not speak these languages and hence do not latch onto significant sequences in the speech stream. This is possible because the vowel-formants, consonant-types, syllabic-combinations or even the pitch-articulation types for one language form a field of properties which are different from those of another language.
+
+Even aspects of the time organisation may create a field percept. Thus, if the time-placement of events is disordered so that we perceive only an indivisible agitation over a rhythmic stasis, but this placement is quantised over a very rapid pulse (e.g. events only occur on time-divisions at multiples of 1/30th of a second), we may still be aware of this regular time-grain to the texture. This is a field percept. A more complete discussion of temporal perception can be found in the next chapter. (Sound example 8.10).
+</page>

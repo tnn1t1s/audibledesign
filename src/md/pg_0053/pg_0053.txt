@@ -1,0 +1,17 @@
+<page id=37>
+It is possible to extract the (time varying) spectral contour from one signal and impose it on another, a process originally developed in the analogue studios and known as vocoding (no connection with the phase vocoder). For this to work effectively, the sound to be vocoded must have energy distributed over the whole spectrum so that the spectral contour to be imposed has something to work on.  Vocoding hence works well on noisy sounds (e.g. the sea) or on sounds which are artificially prewhitened by adding broad band noise, or subjected to some noise producing distortion process.  (Sound example 3.7).
+
+It is also possible to normalise the spectrum before imposing the new contour. This process is described in Chapter 2, and in the under formant preserving spectral manipulation in Appendix p17.
+
+Formant-variation of the spectrum does not need to be speech-related and, in complex signals, is often more significant than spectral change. We can use spectral freezing to freeze certain aspects of the spectrum at a particular moment. We hold the frequencies of the partials, allowing their loudnesses to vary as originally. Or we can hold their amplitudes stationary, allowing the frequencies to vary as originally. In a complex signal, it is often holding steady the amplitudes, and hence the spectral contour, which produces a sense of "freezing" the spectrum when we might have anticipated that holding the frequencies would create this percept more directly. (Sound example 3.8).
+
+NOISE, "NOISY NOISE" & COMPLEX SPECTRA
+
+Once the spectrum begins to change so rapidly and irregularly that we cannot perceive the spectral quality of any particular grain, we hear "noise". Noise spectra are not, however, a uniform grey area of musical options (or even a few shades of pink and blue) which the name (and past experience with noise generators) might suggest. The subtle differences between unvoiced staccato "t", "d", "p", "k", "s", "sh", "f", the variety amongst cymbals and unpitched gongs give the lie to this.
+
+Noisiness can be a matter of degree, particularly as the number of heard out components in an inharmonic spectrum increases gradually to the point of noise saturation. It can, of course, vary formant-wise in time: whispered speech is the ideal example. It can be more or less focused towards static or moving pitches, using band-pass filters or delay (see Chapter 2), and it can have its own complex internal structure. In Sound example 3.9 we hear portamentoing inharmonic spectra created by filtering noise. This filtering is gradually removed and the bands become more noise-like.
+
+A good example of the complexity of noise itself is "noisy noise", the type of crackling signal one gets from very poor radio reception tuned to no particular station, from masses of broad-band click-like sounds (either in regular layers - cicadas - or irregular - masses of breaking twigs or pebbles falling onto tiles - or semi-regular - the gritty vocal sounds produced by water between the tongue and palate in e.g. Dutch "gh") or from extremely time-contracted speech streams. There are also fluid noises produced by portamentoing components, e.g. the sound of water falling in a wide stream around many small rocks. These shade off into the area of "Texture" which we will discuss in Chapter 8.  (Sound example 3.10).
+
+These examples illustrate that the rather dull sounding word "noise" hides whole worlds of rich sonic material largely unexplored in detail by composers in the past.
+</page>

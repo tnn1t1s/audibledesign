@@ -1,0 +1,23 @@
+<page id=62>
+towards a simple continuation sound. In these ways we can form bridges between sequences, grain streams and smoothly continuous sounds, establishing audible links between musically diverse materials. (Sound example 7.15).
+
+We may also focus the field-properties of a sequence, or part of a sequence by looping (repeating that portion). Thus a series of pitches may seen arbitrary (and may in fact be entirely random across the continuum, establishing no reference frame of Hpitch). If, however, we repeat any small subset of the sequence, it will very rapidly establish itself as its own reference set. We can thus move very rapidly from a sense of Hpitch absence to Hpitch definiteness. (Sound example 7.16).
+
+The same set-focusing phenomena applies to the spectral characteristics of sounds. If a meaningful group of words is repeated over and over again we eventually lose contact with meaning in the phrase as our attention focuses on the material as just a sequence of sonic events defining a sonic reference frame. (Sound example 7.17).
+
+COMPOSING ORDER PROPERTIES
+
+We can also compose with the order properties of sequences. In the simplest case, cycling (see above) establishes a rhythmic subset and a definitive order relation among the cyclic grouping.
+
+Beyond this simple procedure we move into the whole-area of the manipulation of finite sets of entities which has been very extensively researched and used in late Twentieth Century serial composition.  Starting originally as a method for organising Hpitches which have specific relational properties due to the cyclical nature of the pitch domain (see Chapter 13) it was extended first to the time-domain, which has some similar properties, and then to all aspects of notated composition.
+
+Permutation of a finite set of elements in fact provides a way of establishing relationships among element-groupings which, if the groupings are small, are clearly audible. If the sets are large, such permutations preserve the field (reference-set) so that complex musical materials are at least field-related (claims that they are perceptually order-related are often open to dispute). All the insights of serial or permutational thinking about materials may be applied to any type of sequence, provided that we ask the vital question, "is this design audible?". And in what sense is it audible? - as an explicit re-ordering relation - or as an underlying field constraint?
+
+In traditional scored music, the manipulation of set order-relations is usually confined to a subset of properties of the sounds e.g. Hpitch, fixed duration values, a set of loudness values. But we can work with alternative properties, or groups of properties, such as total spectral type. For example, permutations of instrument type in a monodic klangfarbenmelodie - Webern's Opus 21 Sinfonie provides us with such an instrument-to-instrument line and uses it canonically. We could, however, permute the instrumental sequence and not the Hpitches. Formant sequence e.g.
+
+<center><i>bo-ba-be =do-da-de=lo-la-le</i></center>
+
+and onset characteristic sequence e.g.
+
+<center><i>bo-ka-pe = bu-ki-po - ba-ko-pu etc</i></center>
+</page>

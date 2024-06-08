@@ -1,0 +1,26 @@
+<page id=69>
+Field properties themselves may also be evolving through time, in a direct or oscillating manner. One method of creating sound interpolation (see Chapter 12) is through the use of a texture whose elements are gradually changing in type. In Sound Example 8.11 we hear a texture of vocal utterances which becomes very dense and rises in pitch. As it does so, its elements are spectrally-traced (see Appendix p25) so that the texture-stream becomes more pitched in spectral quality.
+
+There are four fundamental ways to change a field property of a texture-stream. (see Diagram 1).
+
+(a) We may gradually move its value.
+(b) We may spread its value to create a range of values.
+(c) We may gradually change the range of values.
+(d) We may shrink the range to a single value.
+
+For example, we may reduce the event duration so that the texture might become grittier (this also depends on the onset characteristics of the grains). We might begin with a fixed spectral type defined mainly by enveloping (see Chapter 9) or by source class (e.g. twig snaps, pebbles on tiles, bricks into mud, water drips etc.) then spectrally interpolate (see Chapter 12) over time from one to another, or gradually expand the spectral range from just one of these to include all the others. We may begin with pitched spectra and change these gradually to inharmonic spectra of a particular type, or to inharmonic spectra of a range of types, or noisy spectra etc. We may begin with a fixed-pitch and gradually spread events over a slowly widening pitch-band (wedgeing : Appendix p69).
+
+If our property has a reference-frame (see Chapter 1), e.g. an Hpitch set for pitches, these field properties of the texture may gradually change in a number of distinct ways.
+
+In terms of an Hpitch field
+
+(a) We may change the Hpitch field by deletion, addition or substitution of field components. Addition and substitution imply a larger inclusive Hpitch field and the process is equivalent to a HArmonic change over a scale system (e.g. the tempered scale) in homophonic tonal music. (see Diagram 2a).
+
+(b) We may change the Hpitch field by gradually retuning the individual Hpitch values towards new values. This kind of gradual tuning shift can destroy the initial Hpitch concept and reveals the existence of the pitch continuum. (see Diagram 2b).
+
+(c) We may change the Hpitch field by spreading the choice of possible values of the original Hpitches.  Each Hpitch can now be chosen from an increasing small range about a median value. Initially we will retain the sense of the original Hpitch field, but eventually, as the range broadens, this will dissolve into the pitch continuum. (see Diagram 2c).
+
+(d) We may gradually destroy the Hpitch field by gliding the pitches. Once the gliding is large, and not start- or end- focused (see Chapter 2), we lose the original Hpitch percept. (See Diagram 2d).
+
+Such reference-frame variations can be applied to other properties which are perceived against a reference frame. (Sound example 8.12).
+</page>

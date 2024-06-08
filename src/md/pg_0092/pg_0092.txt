@@ -1,0 +1,19 @@
+<page id=67>
+So, broadly speaking, texture is sequence in which no order is perceived, whether or not order is intended or definable in any mathematical or notatable way. Texture differs from Continuum in that we retain a sense that the sound event is composed of many discrete events. Pure textural perception takes over from measured perception when we are aware only of persisting field properties of a musical stream and completely unaware of any ordering properties for the parameters in question.
+
+In some sense, texture is an equivalent of noise in the spectral domain, where the spectrum is changing so rapidly and undirectedly that we do not latch onto a particular spectral reference frame and we hear an average concept, "noise". But, like noise, texture comes in many forms, has rich properties and also vague boundaries where it touches on more stable domains.
+
+GENERATING TEXTURE STREAMS
+
+The most direct way to make a texture-stream is through a process that mixes the constituents in a way given by higher order (density, random scatter, element and property choice) variables. There are many ways to do this and we will describe just three.
+
+We may use untransposed sound-sources, specifying their timing and loudness through a mixing score (or a graphic mixing environment, though in high density cases this can be less convenient) and use various mix shuffling meta-instruments to control timing, loudness and sound-source order.
+
+Alternatively textural elements may be submitted as 'samples' (on a 'sampler') or, equivalently, as sampled sound in a look-up table for submission to a table-reading instrument like CSound. Textures can then be generated from a MIDI keyboard (or other MIDI interface), using MIDI data for note-onset, note-off, key velocity, and key-choice to control timing, transposition and loudness (or, in fact, any texture parameters we wish to assign to the MIDI output) - or from a CSound (textfile) score.
+
+The keyboard approach is intuitively direct but difficult to control with subtlety when high densities are involved. The CSound score approaches requires typing impossible amounts of data to a textfile, but this can be overcome by using a meta-instrument which generates the CSound score (and 'orchestra') from higher level data.
+
+Via such texture control or texture generation procedures (see Appendix pp68-69), we can generate a texture for a specified duration from any number of sound-sources, giving information on temporal-density of events, degree of randomisation of onset-time, type (or absence) of event-onset quantisation (the smallest unit of the time-grid on which events must be located), pitch-range (defined over the continuum or a prespecified, possibly time-varying, HArmonic field), range of loudness from which each event gets a specific loudness, individual event duration, and the spatial location and spatial spread of the resulting texture-stream. In addition all of these parameters may vary (independently) through time. (see Appendix pp68-69). (Sound example 8.5).
+
+Thirdly, any shortish sound may be used as the basis for a texture-stream, if used as an element in granular synthesis where the onset time distribution is randomised and the density is high, but not extremely high. The properties of the sound (loudness trajectory, spectral brightness etc) may be varied from unit to unit to give a diversity of texture-stream elements. (Sound example 8.6).
+</page>

@@ -1,0 +1,18 @@
+<page id=48>
+CHAPTER 5
+
+CONTINUATION
+
+WHAT IS CONTINUATION ?
+Apart from grain-duration sounds, once a sound has been initiated it must continue to evolve in some way. Only contrived synthetic sounds remain completely stable in every respect. In this chapter we will discuss various properties of this sound continuation, sometimes referred to as morphology and allure.
+
+Some types of sound-continuation are, however, quite special. Sounds made from a sequence of perceived rapid onsets (grain-streams), sounds made from sequences of short and different elements (sequences) and sound which dynamically transform one set of characteristics into a quite different set (dynamic interpolation) all have special continuation properties which we will discuss in later chapters.  Here we will deal with the way in which certain single properties, or a small set of properties, of a sound may evolve in a fairly prescribed way as the sound unfolds. These same properties may evolve similarly over grain-streams, sequences and dynamically interpolating sounds. They are not mutually exclusive.
+
+DISPERSIVE CONTINUATION & ITS DEVELOPMENT
+
+Certain natural sounds are initiated by a single or brief cause (striking, short blow or rub) and then continue to evolve because the physical material involved has some natural internal resonance, (stretched metal strings, bells) or the sound is enhanced by a cavity resonance (slot drum, resonant hall acoustics). As the medium is no longer being excited, however, the sound will usually gradually become quieter (not inevitably; for example the sound of the tam-tam may grow louder before eventually fading away) and its spectrum may gradually change. In particular, higher frequencies tend to die away more quickly than lower frequencies except in cases where a cavity offers a resonating mode to a particular pitch, or pitch area, within the sound. This may then persist for longer than any other pitch component not having such a resonating mode. We will call this mode of continuation attack dispersal. (Sound example 5.1).
+
+In the studio we can immediately reverse this train of events (sound reversal), causing the sound to grow from nowhere, gradually accumulating all its spectral characteristics and ending abruptly at a point of (usually) maximum loudness. The only real-world comparable experience might be that of a sound-source approaching us from a great distance and suddenly stopping on reaching our location.  We will call this type of continuation an accumulation.
+
+Accumulations are more startling if they are made from non-linear dispersals. The decay of loudness and spectral energy of a piano note tends to be close to linear, so the associated accumulation is little more than a crescendo. Gongs or tam-tams or other complex-spectra events (e.g. the resonance of the undamped piano frame when struck by a heavy metal object) have a much more complex dispersal in which many of the initial high frequency components die away rapidly. The associated accumulation therefore begins very gradually but accelerates in spectral "momentum" towards the end, generating a growing sense of anticipation. (Sound example 5.2).
+</page>

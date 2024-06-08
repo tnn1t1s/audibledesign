@@ -1,0 +1,35 @@
+
+GRAIN
+Sound having a duration which is long enough for spectral properties to be perceived but not long
+enough for time-fluctuation of properties to be perceived.
+GRAIN-STREAM
+A sound consisting of a rapid sequence of similar onsets.
+GRAIN TIME-FRAME
+The typical duration of a grain.
+GRANULAR PROCESSES
+56-57
+Musical processes which preserve the grains within a grain- stream.
+GRANULAR RECONSTRUCTION
+73
+A procedure which chops a sound into a number of segments and then redistributes these in a texture of
+definable density. The process differs from BRASSAGE in that the segments need not be rejoined tail
+to head. Granular Reconstruction of output density I is brassage.
+GRANULAR REORDERING
+57
+GRANULAR REVERSAL
+56
+GRANULAR SYNTHESIS
+A process, almost identical to granular reconstruction, in which very brief sound elements are generated
+with particular (time-varying) properties and a particular (time-varying) density, to create a new
+sound.
+GRANULAR TIME SHRINKING BY GRAIN DELETION
+56
+GRANULAR TIME SHRINKING BY GRAIN SEPARATION
+56
+GRANULAR TIME STRETCHING BY GRAIN DUPLICATION
+56
+GRANULAR TIME STRETCHING BY GRAIN SEPARATION
+56
+GRANULAR TIME WARPING
+Granular time-stretching or time-shrinking, which itself varies in time.
+120

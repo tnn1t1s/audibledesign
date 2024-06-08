@@ -1,0 +1,34 @@
+
+SCORE
+The notation of a piece of music from which a performance of the work is recreated.
+SEMITONE
+The smallest interval between consecutive pitches on a modern European keyboard or fretted
+instrument. Musical scales are defined as some pattern of tones (equal to two semitones) and
+semitones, HArmonic minor scales also containing a three semitone step.
+SEQUENCE GENERATION
+1
+SEQUENCES
+Groups of consecutive sounds having distinctly different spectral properties. e.g. speech, or melodic
+phrases on keyed instruments (the spectra of whose elements differ by perceptually significant pitch
+steps).
+SERIAL COMPOSITION
+Style of twentieth century European musical composition in which the 12 pitches of the chromatic scale
+are arranged in a specific order, and this sequence (and certain well-specified transformations of it) are
+used as the basis for the organisation of pitches in a piece. The general idea of serialism was also
+extended to sequences of durations, of loudnesses etc. The even more general notion of permuting a
+given set of elements has been more widely used (e.g. systems music).
+SERIALISM
+See SERIAL COMPOSITION
+SHAWM
+A mediaeval wind instrument with a strong reedy sound.
+SHEPARD TONES
+72
+Sounds (or sequences of sounds) constructed so that they rise in tessitura while their pitch falls (or
+vice versa).
+SINE WAVE
+2,5
+The elementary oscillations in terms of which all other regular oscillations, vibrations or waveforms can
+be described. The oscillation of a simple (idealised) pendulum is described by a sine wave.
+SINUSOIDAL
+Having the shape of a sine-wave.
+130

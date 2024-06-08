@@ -1,0 +1,16 @@
+<page id=82>
+FINE-GRAINED ENVELOPE FOLLOWING
+
+The result of the process of envelope following will depend to a great extent on how the loudness trajectory is analysed. To assess the loudness of a sound at a particular moment, we need to look at a certain small time-snapshot of the sound (a time-frame defining a window size : see Appendix p58).  The instantaneous loudness of a sound has no meaning (see below). The size of this time-snapshot will affect what exactly we are reading.
+
+Thus if we wish to exaggerate the loudness trajectory of a rhetorical speech, we are interested in detecting and exaggerating the variations in loudness from word to word or even from phrase to phrase.  We do not wish to exaggerate the loudness variation from syllable to syllable. Even less do we wish to exaggerate the undulations of loudness within a single rolled 'r'. We want a "coarse" reading of the loudness trajectory. We therefore choose a relatively large time-frame over which the loudness of the signal is measured. (Alternatively we might detect the loudness level at the smallest meaningful time-frame (around 0.005 seconds) and then average the result over an appropriate number of these frames to get a coarser result).
+
+Conversely, we may wish to track loudness changes more precisely. If loudness trajectory is tracked using a fine time-frame (small window) over a granular sound, we will often be able to detect the individual grains. Exaggerating the fluctuations in the trajectory can then be used to force momentary silences between the grains (corrugation). This both alters the quality of the sound and makes the grains more amenable to independent manipulation (Sound example 10.5).
+
+
+Following or manipulating the loudness trajectory below the grain time-frame has little meaning. The instantaneous value (pressure) of the sound wave changes from positive (above the norm) to negative (below the norm) to create the experience we know as sound. The amplitude of the signal describes the size of these swings in pressure, and, as we cannot know how large a swing will be until it reaches its maximum excursion, we need to use a time- window which covers whole wavecycles when determining the loudness trajectory of a sound.
+
+Beneath the duration of the wavecycle the instantaneous variation of the pressure determines the shape of the wave and hence the sound spectrum. Imposing loudness changes over one (or only a few) wavecycles, or wavesets, in effect changes the local shape of the wave(s) and is hence a process of spectral manipulation rather than of loudness control (see Appendix p53). But if we gradually expand the number of wavecycles or wavesets we cause to fall under our loudness-changing envelope, we pass from the spectral domain to the time-frame of grain-structure and eventually to that of independent events. These transitions are nicely illustrated by waveset enveloping. In Sound example 10.6, the number of wavesets falling under a single loudness-changing envelope is progressively increased on each repetition
+
+The foregoing discussion illustrates once again the importance of time-frames in the perception and composition of sonic events.
+</page>

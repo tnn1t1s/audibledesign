@@ -1,0 +1,19 @@
+<page id=45>
+With acoustic instruments the initiating transition from "off" to "on" is most often a complex event in its own right, a clang, a breathy release, or whatever, with the dimensions of a grain (See Chapter 1) and with its own intrinsic sonic properties. These properties are, in fact, so important that we can destroy the recognisability of instrumental sounds (flute, trumpet, violin) fairly easily by removing their onset portion. It is of course not only the onset which is involved in source recognition. Sound sources with internal resonance and natural decay (struck piano strings, struck bells) are also partly recognisable through this decay process and if it is artificially prevented from occurring, our percept may change (is it a piano or is it a flute?). For a more detailed discussion see On Sonic Art.
+
+We need, therefore, to pay special attention to the onset characteristics of sounds.
+
+GRAIN-SCALE SOUNDS
+
+Very short sounds (xylophone notes, vocal clicks, two pebbles struck together) may be regarded as onsets without continuation. Such sounds may be studied as a class on their own. We may be aware of pitch, pitch motion, spectral type (harmonicity, inharmonicity, noisiness etc) or spectral motion. But our percept will also be influenced strongly by the loudness trajectory of such sounds. (See Diagram 1).
+
+Thus any grain-scale sound having a loudness trajectory of type la (see Diagram) will appear "struck" as the trajectory implies that all the energy is imparted in an initial shock and then dies away naturally.  We can create the percept "struck object" by imposing such a brief loudness trajectory on almost any spectral structure. For example, a time-stretched vocal sound may have an overall trajectory imposed on it made out of such grain-scale trajectories, but repeated. The individual grains of the resulting iterated sound may appear like struck wood (Sound example 4.1).
+
+If these grains are then spectrally altered (using, for example, the various destructive distortion instruments discussed in Chapter 3) we may alter the perceived nature of the "material" being "struck".  In particular, the more noisy the spectrum, the more "drum-like" or "cymbal-like" but we are retaining the percept "struck" because of the persisting form of the loudness trajectory. (Sound example 4.2).
+
+If, however, we provide a different loudness trajectory (by enveloping) like type 1b, which has a quiet onset and peaks near the end, the energy in the sound seems to grow, which we might intuitively associate with rubbing or stroking or some other gentler way of coaxing an object into its natural vibrating mode. At the very least the percept is "gradual initiated", rather than "sudden initiated".  (Sound example 4.3).
+
+Yet another energy trajectory, a sudden excitation brought to an abrupt end (1c), suggests perhaps an extremely forced scraping together of materials where the evolution of the process is controlled by forces external to the natural vibrating properties of the material e.g. sawing or bowing, particularly where these produce forced vibrations rather than natural resonant frequencies. (Sound example 4.4).
+
+Thus with such very brief sound, transformation between quite different aural percepts can be effected by the simple device of altering loudness trajectory. Combining this with the control of spectral content and spectral change gives us a very powerful purchase on the sound-composition of grain-size sounds.
+</page>

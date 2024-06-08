@@ -1,0 +1,19 @@
+<page id=76>
+This problem becomes particularly important where different divisions of a pulse are superimposed. To given an example, if we compose two duration streams in the proportion 2:3 (see Diagram 5) we have a clear mutual time-frame pulse at the larger time-frame of the crotchet. (Sound example 9.6).
+
+If we now regroup the elements in each stream in a way which contradicts this mutual pulse (see Diagram 6) we may still be able to perceptually integrate the streams (perceive their exact relationship) in a measured way over a smaller time-frame. By dividing the quavers of the slower stream into 3 and the faster stream into 2, we may discover (i.e. perceive) a common pulse. (see Diagram 7). (Sound example 9.7).
+
+Even here this perception does not necessarily happen (certainly not for all listeners), particularly where we are relying on the accuracy of performers.
+
+The more irrational (in a mathematical sense) the tempo relationship between the two streams, the shorter this smaller mutual time-frame pulse becomes. And the smaller this unit, the more demanding we must be on performance accuracy for us to hear this smaller frame. With computer precision, however, this underlying mutual pulse may continue to be apparent in situations where it would be lost in live performance, as in Diagram 8. (Sound example 9.8).
+
+Perceiving a specific 9 to 11 proportion as in the last example, where the smaller common time-frame unit has a duration of C. 100th of a second, is simply impossible, even given computer precision in performance. Measured perception on the smaller mutual time-frame has broken down, though we may be comparatively aware (if the density of events-relative-to-the-stream-tempo can be compared in the two streams) that we have 2 streams of similar but different event density.
+
+With 3 superimposed tempi the problem is, of course, compounded, the common pulse unit becomes even shorter. We may, for example, when composing on paper, set up sequences of events in which simultaneous divisions of the crotchet beat into (say) 7,11, & 13 at [crotchet = 120], are used. (See Diagram 9).
+
+And we may always claim that we are setting up an exact percept created by the exact notational device used. However, in this particular case we should ask, with what accuracy can this concept be realised in practice?
+
+No human performance is strictly rhythmically regular (see discussion of quantised rhythm above).  When three streams are laid together the deviations from regularity will not flow in parallel (they will not synchronise like the parallel micro-articulations of the partials in a single sound-source: see Chapter 2). We may describe the fluctuations of the performed lines from exact correlation with the common underlying pulse by some scattering factor, a measure of how much an event is displaced from its "true" position. A factor 1 means it is displaced by a whole unit. In larger time-frame terms, a quaver in a sequence of quavers would be inaccurately placed by up to a whole quaver's length. By anyone's judgement this would have to be described as an inaccurate placement! (See Diagram 10).
+
+In fact I would declare the situation in which events are randomly scattered within a range reaching to half of the duration of the time-frame units as definitively destroying the percept of that time-frame. In practice the time-frame percept probably breaks down with even more closely confined random displacements. (Diagram 11).
+</page>

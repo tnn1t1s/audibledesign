@@ -1,0 +1,40 @@
+
+WAVESET ENVELOPING
+53
+WAVESET HARMONIC DISTORTION
+52
+WAVESET INTERLEAVING
+54
+WAVESET INVERSION
+51
+WAVESET OMISSION
+51
+WAVESET REVERSAL
+5I
+WAVESET SHAKING
+51
+WAVESET SHUFFLING
+51
+WAVESET SUBSTITUTION
+52
+WAVESET TIMESTRETCHING
+55
+WAVESET TRANSFER
+54
+WAVESET TRANSPOSITION
+51
+WEDGEING
+69
+WHITE-OUT
+A musical process in which a texture becomes so dense that all spectral detail is lost, producing a noise
+band.
+WINDOW
+In sound analysis (conversion from waveform to spectrum, to spectral envelope or to time-varying
+filter-coefficients : see LPC) a window is a very brief slice of time (a few milliseconds) in which we
+make a spectral analysis, before passing to the next window to make our next analysis. We hence
+discover how the spectrum changes in time. Not to be confused with analysis CHANNEL.
+WINDOWED FFT
+A Fast Fourier Transform that is performed over a brief slice of time (a window), then performed over
+and over again at successive windows throughout the entire duration of the sound. The Phase Vocoder
+is a windowed FFT.
+137

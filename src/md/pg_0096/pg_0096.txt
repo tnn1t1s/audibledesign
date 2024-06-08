@@ -1,0 +1,29 @@
+<page id=70>
+We cannot hope to describe all possible controllable field parameters of all texture-streams because, as the elements of the stream are perceptible, we would need to describe all possible variations of each constituent, all combinations of these properties, all changes of the individual properties and all changes in combinations of these properties. We will therefore offer a few other suggestions........
+
+(1) Variation of sound-type of the constituents (harmonicity-inharmonicity; type of inharmonicity; formant-type; noisiness-clarity; stability or motion of any of these); the range of sound-types; the temporal variation of these.
+
+(2) Variation of the individual spatial motion of elements; the temporal variation of this.
+
+And, if the texture elements are groups of smaller events...
+
+(3) The group size and its variation; the range of group size and its variation.
+
+(4) The internal pitch-range, spectral-range (various) of the groups.
+
+(5) The internal group-speed, group-speed range and their slow or undulating variation.
+
+(6) The internal spatialisation of groups (moving left, spatial oscillation, spatial randomness), range of spatialisation types, and the time-variation of these.
+
+(7) The variation of order-sequence or time-sequence of the groups.
+
+All such features may be compositionally controlled independently of the stream density and the onset-time randomness of the texture-stream.
+
+DENSITY
+
+The events in a texture-stream will also have a certain density of event-onset-separation which we cannot measure within perception but which we can compare with alternative densities. Thus we will be able to perceive increases and decreases in density, oscillations in density and abrupt changes in density. We have this comparative perception of density changes so long as these changes are in a time-frame sufficiently longer than that of density perception itself. Otherwise there is no way to distinguish density from density fluctuation. (Sound example 8.13).
+
+In fact event-onset-separation-density perception is like temperature measurement in a material medium. Temperature is a function of the speed and randomness of motion of molecules. Hence the temperature at a point, or of a single molecule has no meaning. In the same way, density at the time-scale of the event repetitions has no meaning. Temperature can only be measured over a certain large collection of molecules - and density can only be measured over a group of event entries. Spatial variation in temperature similarly can only be measured over an even larger mass - and temporal variation in density similarly requires more events, more time, to be perceived than does density itself.
+
+Event-onset-separation-density fluctuations themselves may be random in value but regular, or semi-regular in time, providing a larger time-frame reference-frame. Furthermore, slow density fluctuations will tend to be perceived as directed flows - as continuation properties - as compared with
+</page>

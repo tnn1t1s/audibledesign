@@ -1,0 +1,19 @@
+<page id=50>
+Ideally we should separate formant data before adding some new vibrato property to a sound, reimposing the separate motion of the formants on the pitch-varied sound. (See formant preserving spectral manipulation : Appendix p17). In practice we can often get away with mere tape-speed variation transposition of the original sound source.
+
+We may extract the ongoing evolution of undulating properties using pitch-tracking (Appendix pp70-71) or envelope following (Appendix p58) and apply the extracted data to other events. We may also modify (e.g. expanding, compression : Appendix p60) the undulating properties of the source-sound. Alternatively, we may define undulations in pitch (vibrato) or loudness (tremolo) in a sound, with control over time-varying speed and depth. In this way we may, e.g. impose voice-like articulations on sounds with static spectra, or non-vocal environmental sources (e.g.the sound of a power drill). (Sound example 5.7).
+
+We may also produce extreme, or non-naturally-occuring, articulations using extremely wide (several octaves) vibrato, or push tremolando to the point of sound granulation. At all stages the overall trajectories (gradual variation of speed and depth) will be important compositional parameters. (Sound example 5.8).
+
+In the limit (very wide and slow) tremolando becomes large-scale loudness trajectory and we may progress from undulating continuation to forced articulation (and vice versa). Similarly, vibrato (very wide and slow) becomes the forced articulation of moving pitch. We thus move from the undulatory articulation of a stable Hpitch to the realm of pitch motion structures in which Hpitch has no further significance. (Sound example 5.9).
+
+At the opposite extreme, tremolando may become so deep and fast, that the sound granulates. We may then develop a dense grain texture (see Chapter 8) on which we may impose a new tremolando agitation and this may all happen within the ongoing flow of a single event. (Sound example 5.10).
+
+We may also imagine undulatory continuation of a sound's spectrum, fluctuating in its harmonicitylinharmonicity dimension, its stableness-noise dimension, or in its formant-position dimension (spectral undulation). Formantal undulations (like hand-yodelling, head-shake flutters or "yuyuyuyu" articulation) can be produced and controlled entirely vocally. (Sound example 5.11).
+
+FORCED CONTINUATION AND ITS DEVELOPMENT
+
+In any system where the energising source has to be continually applied to sustain the sound (bowed string, blown reed, speech) the activator exercises continuous control over the evolution of the sound.  With an instrument, a player can force a particular type of continuation, a crescendo, a vibrato or tremolando, or an overblowing, usually in a time-controllable fashion. In general, the way in which the sound changes in loudness and spectrum (with scraped or bowed sounds etc) or sometimes in pitch (with rotor generation as in a siren or wind machine) will tell us how much energy is being applied to the sounding system. These forced loudness, spectral or pitch movement shapes may thus be thought of as physical gestures translated into sound.
+
+Any gestural shape which can be applied by breath control or hand pressure on a wind or bowed string instrument, can be reproduced over any arbitrary sound ( a sustained piano tone, the sound of a dense
+</page>

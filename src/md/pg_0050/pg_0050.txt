@@ -1,0 +1,21 @@
+<page id=35>
+CHAPTER 3
+
+SPECTRUM
+
+WHAT IS TIMBRE ?
+
+The spectral characteristics of sounds have, for so long, been inaccessible to the composer that we have become accustomed to lumping together all aspects of the spectral structure under the catch-all term "timbre" and regarding it as an elementary, if unquantifiable, property of sounds. Most musicians with a traditional background almost equate "timbre" with instrument type (some instruments producing a variety of "timbres" e.g. pizz, arco, legno, etc). Similarly, in the earliest analogue studios, composers came into contact with oscillators producing featureless pitches, noise generators, producing featureless noise bands, and "envelope generators" which added simple loudness trajectories to these elementary sources. This gave no insight into the subtlety and multidimensionality of sound spectra.
+
+However, a whole book could be devoted to the spectral characteristics of sounds. The most important feature to note is that all sound spectra of musical interest are time-varying, either in micro-articulation or large-scale motion.
+
+HARMONICITY - INHARMONICITY
+
+As discussed in Chapter 2, if the partials which make up a sound have frequencies which are exact multiples of some frequency in the audible range (known as the fundamental) and, provided this relationship persists for at least a grain-size time-frame, the spectrum fuses and we hear a specific (possibly gliding) pitch. If the partials are not in this relationship, and provided the relationships (from window to window) remain relatively stable, the ear's attempts to extract harmonicity (whole number) relationships amongst the partials will result in our hearing several pitches in the sound, These several pitches will trace out the same micro-articulations and hence will be fused into a single percept (as in a bell sound). The one exception to this is that certain partials may decay more quickly than others without destroying this perceived fusion (as in sustained acoustic bell sounds).
+
+In Sound example 3.1 we hear the syllable "ko->u" being gradually spectrally stretched : Appendix p19). This means that the partials are moved upwards in such a way that their whole number relationships are preserved less and less exactly and eventually lost. (See Diagram 1). Initially, the sound appears to have an indefinable "aura" around it, akin to phasing, but gradually becomes more and more bell-like.
+
+It is important to understand that this transformation "works" due to a number of factors apart from the harmoniclinharmonic transition. As the process proceeds, the tail of the sound is gradually time-stretched to give it the longer decay time we would expect from an acoustic bell. More importantly, the morphology (changing shape) of the spectrum is already bell-like. The syllable "ko->u" begins with a very short broad band spectrum with lots of high-frequency information ("k") corresponding to the initial clang of a bell. This leads immediately into a steady pitch, but the vowel formant is varied from "o" to "u", a process which gradually fades out the higher partials leaving the lower to continue. Bell sounds have this similar property, the lower partials, and hence the lower heard pitches, persisting longer than the higher components. A different initial morphology would have produced a less bell-like result.
+
+This example (used in the composition of Vox 5) illustrates the importance of the time-varying structure of the spectrum (not simply its loudness trajectory).
+</page>

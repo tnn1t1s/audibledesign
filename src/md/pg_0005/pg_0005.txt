@@ -1,0 +1,17 @@
+CONTENTS
+Chapter 0 Introduction 1
+Chapter 1 The Nature of Sound 11
+Chapter 2 Pitch 25
+Chapter 3 Spectrum 35
+Chapter 4 Onset 44
+Chapter 5 Continuation 48
+Chapter 6 Grain Streams 55
+Chapter 7 Sequences 59
+Chapter 8 Texture 66
+Chapter 9 Time 72
+Chapter 10 Energy 81
+Chapter 11 Time-stretching 86
+Chapter 12 Interpolation 96
+Chapter 13 New Approaches to Form 103
+Appendix 1 112
+Brief Bibliography 139

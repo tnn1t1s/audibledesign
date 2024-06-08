@@ -1,0 +1,31 @@
+<page id=112>
+APPENDIX 1
+
+(Page numbers refer to the diagrammatic Appendix 2).
+
+ACCELERANDO
+
+An increase in the speed at which musical events succeed one another.
+
+ACCUMULATION
+
+Sound which 'gathers momentum' (increases in loudness and spectral content) as it proceeds.
+
+ALL-PASS FILTER ... 9
+
+AMPLITUDE
+
+A scientific measure of the strength of a sound-signal. This normally reveals itself in perception as the loudness of the sound, but amplitude and loudness and not equivalent. In particular, the sensitivity of the human ear varies from one frequency range to another, hence Amplitude and perceived loudness are not identical. However, in this book, the term Loudness is used, instead of Amplitude, in the text, wherever this does not cause any confusion. Diagrams however usually refer to Amplitude.
+
+ANALYSIS
+
+In this book analysis almost always refers to Fourier Analysis, the process of converting the waveform (time-domain representation) of a sound into its spectrum (frequency-domain representation).  Analysis of musical scores is the process of determining the essential structural features of a composition from its notated representation in a score. This notion might be generalised to include any process attempting to uncover the underlying structure of a piece of music.
+
+ARTICULATION
+
+The (conscious) changing/moving of a property of a sound, usually in a way bound by conventions (of language, musical practice etc) but often not appearing as such in any associated notation system.
+
+ATTACK
+
+The onset portion of a sound where it achieves its initial maximum loudness.
+</page>

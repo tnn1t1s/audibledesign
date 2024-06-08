@@ -1,0 +1,44 @@
+
+If we have a very rapid sequence or a texture-stream we may achieve a dynamic interpolation between
+two quite distinct states by careful element substitution, e.g. we might start with a texture-stream of
+vaguely pitched noise-granules spread over a wide pitchband and, through gradually tighter band pass
+filtering of the elements themselves, focus the pitch of the granules, while simultaneously narrowing
+the pitchband. In this way, we can force a broad band noise granule stream onto a single pitch which we
+might animate with formant-glides and vibrato articulations reminiscent of the human voice (granular
+synthesis : see Appendix). (Sound Example 12.10).
+VOCODING AND SPECTRAL MASKING
+The distribution of partials in a spectrum (spectral form) and the spectral contour (formants) are
+separable phenomena and impinge differently on our perception. As discussed in Chapter 3 the spectral
+form creates our sense of harmonicity-inharmonicity, while the spectral contour contributes to our
+formant, or 'vowel' perception. If we therefore have one source with a clear articulation of the formants
+(e.g. speech), and another source which lacks significant formant variation (e.g. a flute, the sea), we can
+impose the formant variation of the first on the spectral form of the second to create a dual percept
+(vocoding). As the spectral contour defining the formants must have something on which to 'grip' on the
+second source, this process works best if the second source has a relatively flat spectral contour over
+the whole frequency spectrum. (see Diagram 1).
+In speech analysis and synthesis, spectral contour data is recovered and stored as data defining a set of
+time-varying filters, using a process known as linear predictive coding. The speech can be
+reconstituted by driving a generating signal through these time-varying filters. A sequence of constant
+squarewave type buzzes of appropriate pitches (for voiced vowels and consonants) and stable white
+noise (for noise consonants and unvoiced speech) played through the time varying filters can be used to
+reconstitute the original speech. The process can also be used to reconstitute the speech at a different
+pitch (change the pitch of the buzz), or speed (change the rate of succession of the filters and the
+buzz/noise), or to change the voiced-unvoiced characteristics (choice of buzz or noise).
+For interpolation applications, the signal we send through the filters will be our second source for
+interpolation (i.e. the one that's not the voice!). It will usually not have a flat, or even a stable,
+spectrum but we can enhance the formant transfer process by 'whitening' the second source, i.e. by
+adding noise discreetly to the spectrum in frequency ranges where there is little energy in the source.
+For obvious reasons, this process is most often used to interpolate between a voice and a second
+source and is often called vocoding. It should not be confused with the phase vocoder. (Similar vocoding
+procedures may, however, be attempted, using spectral data extracted by phase vocoder analysis).
+This type of interpolation might also be applied progressively so that 'voiceness', or lack of it, emerges
+out of a continuing non-vocal sound. (Sound example 12.11).
+Making the sea 'talk' may be a sophisticated process of control of spectral contour evolution. However,
+the inverse process, making 'talk' like the sea, can be envisioned much more simply: a very dense
+texture of unvoiced speech to which an appropriate wave-breaking-shape loudness-trajectory is
+applied (using a choral conductor!). If the spectral type of the sounds within the texture stream is made
+to vary appropriately (e.g. lack of sibilants initially, 'f' and 'sh' sibilants at the wave peak, 's' sibilants
+with high formants for the undertow) we can create a dual percept with no electronic technology
+whatsoever. We might then proceed to vocode a recording of our 'sea' construct - voices within
+voices.
+100

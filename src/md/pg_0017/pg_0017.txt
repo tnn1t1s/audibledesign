@@ -1,0 +1,22 @@
+CHAPTER 1
+
+THE NATURE OF SOUND
+
+SOUNDS ARE NOT NOTES
+
+One of the first lessons a sound composer must learn is this. Sounds are not notes. To give an analogy with sculpture, there is a fundamental difference between the idea "black stone" and the particular stone 1 found this morning which is black enough to serve my purposes. This particular stone is a unique piece of material (no matter how carefully I have selected it) and I will be sculpting with this unique material. The difficulty in music is compounded by the fact that we discuss musical form in terms of idealisations. "F5 mf" on a flute is related to "E-flat4 ff" on a clarinet. But these are relations between ideals, or classes, of sounds. For every "F5 mf" on a flute is a different sound-event. It's particular grouping of micro-fluctuations of pitch, loudness and spectral properties is unique.
+
+Traditional music is concerned with the relations among certain abstracted properties of real sounds - the pitch, the duration, the loudness. Certain other features like pitch stability, tremolo and vibrato control etc.  are expected to lie within perceptible limits defined by performance practice, but beyond this enter into a less well-defined sphere known as interpretation. In this way, traditionally, we have a structure defined by relations among archetypal properties of sounds and a less well-defined aura of acceptability and excellence attached to other aspects of the sound events.
+
+With sound recording, the unique characteristics of the sound can be reproduced. This has innumerable consequences which force us to extend, or divert from, traditional musical practice.
+
+To give just 2 examples..
+
+1. We can capture a very special articulation of sound that cannot be reproduced through performance - the particular tone in which a phrase is spoken on a particular occasion by an untrained speaker; the resonance of a passing wolf in a particular forest or a particular vehicle in a road-tunnel; the ultimate extended solo in an all-time great improvisation which arose out of the special combination of performers involved and the energy of the moment.
+
+2. Exact reproducibility allows us to generate transformations that would otherwise be impossible.  For example, by playing two copies of a sound together with a slight delay before the onset of the second we generate a pitch because the exact repetition of sonic events at an exact time interval corresponds to a fixed frequency and hence a perceived pitch.
+
+The most important thing to understand, however, is that a sound is a sound is a sound is a sound. It is not an example of a pitch class or an instrument type. It is a unique object with its own particular properties which may be revealed, extended and transformed by the process of sound composition.
+
+Furthermore, sounds are multi-dimensional phenomena. Almost all sounds can be described in terms of grain (particularly onset-grain), pitch or pitch-band, pitch motion, spectral harmonicity-inharmonicity and its evolution, spectral contour and formants (See Chapter 3) and their evolution, spectral stability and its evolution, and dispersive, undulating and/or forced continuation (see Chapter 4), all at the same time. In dividing up the various properties of sound, we don't wish to imply that there are different classes of
+<page>11</page>

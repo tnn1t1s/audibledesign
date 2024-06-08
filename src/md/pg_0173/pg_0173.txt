@@ -1,0 +1,39 @@
+
+SPECTRAL TIME-SHRINKING
+30-31
+SPECTRAL TIME-STRETCHING
+30-31
+SPECTRAL TIME-WARPING
+30-31
+SPECTRAL TRACE-AND-BLUR
+27
+SPECTRAL TRACING
+25
+SPECTRAL UNDULATION
+28
+SPECTRUM
+2,3
+Representation of a sound in terms of the frequencies of its partials (those sinusoidal waves which can
+be summed to produce the actual waveform of the sound). The frequency- domain representation of the
+sound.
+SPLICING
+40
+The tail to head joining of two sounds. In the classical tape studio this would be achieved by joining the
+end of one sound tape to the beginning of another, using sticky tape.
+SQUARE WAVE
+5
+SRUTI
+The smallest unit into which the octave is divided in classical Indian music and from which the various
+rag scales can be derived. It is at least 6 times smaller than a semitone. This is more of a theoretical
+unit of measurement than a practically applied unit. In contrast, the Western semitone is built into the
+structure of its keyboard instruments.
+STATIC INTERPOLATION
+The process whereby a sound gradually changes into a different (kind of) sound during a series of
+repetitions of the sound, where each repeated unit is changed slightly away from the previous one and
+towards the goal sound.
+STEREO
+Sound emanating from two channels (e.g. two loudspeaker) or stored as two channels of digital
+information. As opposed to mono (from a single source). Sound information provided through two
+loudspeakers is able to convey information about the (apparent) positioning of sound sources in the
+intervening space between the loudspeakers, rather than suggesting merely a pair of sound sources.
+132

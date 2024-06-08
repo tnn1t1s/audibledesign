@@ -1,0 +1,21 @@
+<page id=81>
+CHAPTER 10
+
+ENERGY
+
+ENERGY TRAJECTORIES
+
+Sounds in the real world which do not simply die away to nothing require some continuous energy input such as bowing, blowing, scraping or an electrical power supply to maintain them. Usually the level of the flow of energy into the system determines the loudness of the output and hence allows us to read the fluctuating causality of the sound.
+
+We may create the illusion of energy flow with a continuous, grain-stream, sequential or textural sound by simply imposing a loudness trajectory, or envelope, on it (enveloping) (Sound example 10.1).
+
+Such a trajectory may be derived directly from the activity of another sound (prerecorded or a live performer) (envelope following). Enveloping is particularly useful for creating a loudness anacrusis (a crescendoing onto a key sonic event), a particularly musical device as most natural sounds have precisely the opposite loudness evolution (Sound example 10.2).
+
+Conversely, we may begin with a sustained sound (continuum, grain-stream, sequence, texture) and give it an exponentially decaying loudness, through enveloping. This suggests the sound originates from some vibrating medium which has been struck (or otherwise set in motion) and then left to resonate, especially if the onset of the sound is reinforced. With simple sustained sound this can completely alter the apparent physicality and causality of the source (see below). With sounds which more easily betray their origins (e.g. speech) we produce an interesting dual percept. (Sound example 10.3).
+
+If a sound already has a noticeably varying loudness trajectory we may track this variation (envelope following) and then perform various operations with or on this trajectory (envelope transformation). As already suggested we might transfer the trajectory to an entirely different sound (enveloping or envelope substitution). Sequences of events which are extremely strongly characterised by loudness articulation may thus be 'recapitulated" with an entirely different sonic substance (Sound example 10.4).
+
+We may also modify the loudness trajectory we have extracted (envelope transformation) and reapply it to the original sound. Note that we must do this by envelope substitution and not simply by enveloping (see Appendix pp59 & 61). Thus we may exaggerate the loudness trajectory to heighten its energetic (or dramatic) evolution (expanding : see below)
+
+The loudness trajectory may also be lengthened (envelope extension) or shortened (envelope contraction), extending or contracting the associated gesture (see for example the discussion of time-stretching textures in Chapter 11), and any of the trajectory (envelope) transformations described here might be applied in a time-varying manner so that e.g. a sound may gradually become prominently corrugated (see below).
+</page>

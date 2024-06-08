@@ -1,0 +1,19 @@
+<page id=74>
+MEASURED, COMPARATIVE & TEXTURAL PERCEPTION
+
+To make these distinctions completely clear we must examine the nature of time-order perception and define our terms more precisely.
+
+In the ensuing discussion we will use the term 'duration' to mean event-onset-separation-duration, to make things easier to read. Bear in mind however that duration, here, means only this, and not the time-length of sounds themselves.
+
+There are two dimensions to our task. Firstly, we must divide temporal perception into three types - the measured, the comparative and the textural (the perception of temporal density and density fluctuation).
+
+Secondly, there is the question of time-frames. As will be discussed below, time-frames may be nested within one another in the rhythmic or temporal organisation of a piece so that at one level (e.g. a semiquaver time-frame) order-sequences are put in motion (rhythm) while simultaneously establishing a time-frame at the larger metrical unit (e.g. the bar) in which longer-duration order-sequences can be set up.
+
+So we can ask, in what time-frames is our perception of a particular event measurable and in what time-frames is it comparative or textural ?
+
+The first assertion we will make is that measured perception requires an established or only slowly changing reference-frame against which we can "measure" where we are. In the pitch domain this might be a tuning system, or a mode or scale, or, in Western tonal music, a subset of the scale defining a particular key. This permits structural judgements like "this is an E-flat" or "we are in the key of C# minor". Such a reference-frame might be established by cultural norms (e.g. tempered tuning) or established within the context of a piece (e.g. the initial statement of a raga, the establishment of tempo and metrical grouping in a particular piece). If we do not have a reference set, we are still able to make comparative judgements. In the pitch domain for example, "we are now higher than before", or, "we are moving downward", or, "we are hovering around the central value".
+
+In the sphere of durations, if we establish a time reference-frame of, say, repeated quavers at [crotchet = 120] we can recognise with a fair degree of precision the various multiples (dotted crotchet, minim, etc) and integral divisions (semiquaver, demisemiquaver, triplet semiquaver) of this unit. (See Diagram 1). Hence we can, in many cases, measure our perception against the reference frame and recognise specific duration sequences. Our perception of duration is measured, at the time-frame of the quaver.
+
+Similarly in the sequence in Diagram 2 we will probably hear a clearcut sequence of duration values in the perceptibly measured ratios 1:2:3:4:5. Our perception is again measured.  However, in the situation in Diagram 3 we are aware of the comparative quality of the successive durations. We perceive them as getting relatively longer and we also have an overall percept of "slowing down" but we do not (normally) have a clear percept of the exact proportions appertaining between the successive events. Furthermore no two live performances of this event will preserve the same set of measured proportions between the constituents. This is, then, an example of comparative perception.
+</page>

@@ -1,0 +1,13 @@
+<page id=71>
+rapid density fluctuations. In extremely dense textures, the density fluctuations themselves may approach the size of large grains - we create granular or "crackly" texture. (Sound example 8.14).
+
+Increasing the density of a complex set of events can be used to average out its spectral properties and make it more amenable to interpolation with other sounds. In fact, before the advent of computer technology this was one of the few techniques available to achieve sound interpolation (see Chapter 12).
+
+In Sound example 8.15 (from Red Bird: 1977, a pre-digital work), a noisy-whistled voiced is interpolated with a (modified) skylark song via this process of textural thickening. In Sound example 8.16 (from Vox 5 : 1986), behind the stream of complex vocal multiphonics, we hear the sound of a crowd emerging from a vocal-like noise band which is itself a very dense texture made from that crowd sound.
+
+When this process is taken to its density extreme we can produce white-out. When walking on snow in blizzard conditions it is sometimes possible to become completely disoriented. If the snow fall is sufficiently heavy, all sense of larger outlines in the landscape are lost in the welter of white snow particles. Similarly, when a sound texture is made extremely dense, we loose perceptual track of the individual elements and the sound becomes more and more like a continuum. In particular, where the sound elements are of many spectral types including noise elements, the texture goes over into noise.  This is what we describe as white-out.
+
+In Sound example 8.17, a dense texture of vocal sounds whites-out and the resulting noise-band is then filtered to give it spectral pitches while it slides up and down. The pitchness is then gradually removed from all bands except one, and the density decreases once more to reveal the original human voice elements.
+
+Finally we should note that changes in field and density properties might be coordinated between parameters, or all varied independently, or even have nested 'contradictory' properties. Thus a texture may consist of events whose onsets are entirely randomly distributed in time but whose event-elements are clearly rhythmically ordered within themselves, or, conversely, events may begin on the Hpitches of a clearly defined HArmonic field while the event-elements have Hpitches distributed randomly over the continuum. (Sound example 8.18).
+<page>

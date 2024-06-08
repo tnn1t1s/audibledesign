@@ -1,0 +1,26 @@
+
+***** I *****
+INBETWEENING
+46
+INDIAN RAG SYSTEM
+The system of scales and associated figures and ornaments at the base of Classical Indian music theory
+and practice.
+INHARMONIC
+A spectrum which is not harmonic, but which is not noise, is said to be inharmonic. Inharmonic spectra
+may be bell-like (suggesting several pitches) or drum-like (being focused in some sense but lacking
+definitive pitch).
+INTERPOLATION
+The process of moving gradually between two defined states. See SPECTRAL INTERPOLATION.
+INVERSE FOURIER TRANSFORM
+A mathematical procedure which allows us to convert an arbitrary spectrum (frequency-domain
+representation of a sound) into the corresponding waveform (time-domain representation of the
+sound). See also, FOURIER TRANSFORM.
+INVERSE KARPLUS STRONG
+See SOUND PLUCKING.
+ITERATION
+42
+***** J *****
+JITTER
+Tiny random fluctuations in apparently perceptually stable properties of a sound, such as pitch or
+loudness.
+122

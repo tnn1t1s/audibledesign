@@ -1,0 +1,17 @@
+<page id=79>
+definition, there is no smaller time-frame over which it can be measurably perceived. This is part of the definition of a mathematically irrational quantity. Hence, by definition, we cannot measurably perceive a Golden Section, though again we may comparatively perceive that it lies within the bounds of 1 to 1/2ish-2/3ish.
+
+I am happy to accept that Fibonacci derived ratios give a satisfactory comparative percept of 1 to I/2ish-2/3ish (possibly even a slightly narrower range) but not that, at larger time-frames, there is any measured perception involved. In large time-frames it is certainly not possible to distinguish a Golden Section from a host of other roughly similar proportions lying within a range. The longer the time-frame the larger this range of inexactness becomes.
+
+I am certain of two things. Firstly that when psycho-acousticians run detailed tests, even on composers who regularly use these devices, they will discover that these relations on larger time-frames are not heard exactly. Secondly, that when this is discovered, a large section of the musical community will reject the results. Number mysticism has a long and distinguished tradition in musical thought and the Golden Section is a well-defended tenet of a modern musical gnosticism.
+
+WHEN IS DENSITY CONTROL APPROPRIATE ?
+
+We must now ask the crucial question, when is composing with density parameters appropriate and when, conversely, should we proceed in a deterministic way, i.e. specifying exact time-placement, exact pitch-value, exact spectral contour etc.
+
+If we demand computer precision, we will produce a precise, and precisely repeatable, result. The question here is, how exact does it need to be, i.e. by how much can we alter the parameters before we notice any difference in what we perceive. This judgement has to be set in context. Is the musical organisation focusing our attention on these exact timing aspects of the total gestalt, e.g. through cyclical repetition of the pattern in which timing parameters are slowly changing in a systematic manner? Or is the time-sequence within this event merely one of several parameters the listener is being asked to follow? Or is it an incidental result of other processes and not central to the way in which we scan the musical events for a sense of mutual connectedness and contrast?
+
+It is always possible to claim that everything is important. In particular, composers are especially prone to claiming that anything is an important constituent of what the listener hears if it was an important part of the method by which they arrived at the sounding result. However, this need not be the case. 1 can devise a method for producing sound in which every wavecycle has at least one sample of value 327. This, by itself, will provide no perceived coherence within the sound world I create. To declare that it does is simply dishonest. The composer must thus be able to monitor what is and what is not perceptibly related in a composition, independent of the knowledge he/she has of the generating procedure.
+
+Deterministic procedures in which parameters are systematically varied may be used to generate ranges of sound materials. We need, however, a separate approach, based in perception, to define whether the sound materials generated are related and in what ways they are related, if at all. The generating procedure and its systematicness are not, on their own, a guarantee of perceptual relatedness.
+</page>

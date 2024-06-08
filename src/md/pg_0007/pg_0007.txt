@@ -1,0 +1,22 @@
+CHAPTER 0
+INTRODUCTION
+WHAT THIS BOOK IS ABOUT
+This is a book about composing with sounds. It is based on three assumptions.
+
+1.  Any sound whatsoever may be the starting material for a musical composition.
+
+2.  The ways in which this sound may be transformed are limited only by the imagination of the composer.
+
+3.  Musical structure depends on establishing audible relationships amongst sound materials.
+
+The first assumption can be justified with reference to both aesthetic and technological developments in the Twentieth Century. Before 1920, the French composer Varese was imagining a then unattainable music which had the same degree of control over sonic substance as musicians have traditionally exercised over melody, harmony and duration. This concern grew directly out of the sophisticated development of orchestration in the late Nineteenth Century and its intrinsic limitations (a small finite set of musical instruments). The American composer John Cage was the first to declare that all sound was (already) music. It was the emergence and increasing perfection of the technology of sound recording which made this dream accessible.
+
+The exploration of the new sounds made available by recording technology was begun by Pierre Schaeffer and the G.R.M. in Paris in the early 1950s. Initially hampered by unsophisticated tools (in the early days, editing between lacquer discs - later the transformations - like tape speed variation, editing and mixing - available with magnetic tape) masterpieces of this new medium began to emerge and an approach to musical composition rooted in the sound phenomenon itself was laid out in great detail by the French school.
+
+The second of our assumptions had to await the arrival of musical instruments which could handle in a subtle and sophisticated way, the inner substance of sounds themselves. The digital computer provided the medium in which these tools could be developed. Computers allow us to digitally record any sound at all and to digitally process those recorded sounds in any way that we care to define.
+
+In this book we will- discuss in general the properties of different kinds of sound materials and the effects certain well defined processes of transformation may have on these. We will also present, in the Appendix, a simple diagrammatic explanation of the musical procedures discussed.
+
+The third assumption will either appear obvious, or deeply controversial, depending on the musical perspective of the reader. For the moment we will assume that it is obvious. The main body of this book will therefore show how, starting from a given sound, many other audibly similar sounds may be developed which however, possess properties different or even excluded from the original sound. The question of how these relationships may be developed to establish larger scale musical structures will be suggested towards the end of the book but in less detail as, to date, no universal tradition of large scale form-building (through these newly accessible sound-relationships) has established itself as a norm.
+
+<page>1</page>

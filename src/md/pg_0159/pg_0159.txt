@@ -1,0 +1,31 @@
+
+***** F *****
+F5
+The pitch 'F' in the European scale, in the 5th octave.
+FAST FOURIER TRANSFORM
+A very efficient computer algorithm for performing the Fourier Transform.
+FF
+Fortissimo = very loud.
+FIBONACCI SERIES
+Series of numbers in which each term is given by the sum of the previous two terms. The sequence
+begins with 1,1 and is hence..
+1, 1, 2, 3, 5, 8, 13, 21, 34, 55 etc
+The ratio between successive terms
+1/1, 1/2, 2/3, 3/5, 5/8, 8/13, 24/21, 21/34, 34/55 etc.
+approaches closer and closer to the Golden Section as one goes up the series.
+FIELD
+A set of values defined for some property. e.g. the pitches of the scale of G minor define a Field. Any
+pitch of the tempered scale lies either in that field or outside it. Any pitch within the pitch continuum lies
+close (in some perceptually defined sense) to that Field or not.
+FILTER
+7-8
+An instrument which changes the loudness of the spectral components of a sound (even reducing some
+to zero).
+FILTER BANK
+7
+FLUTTER-TONGUING
+A way of articulating a granular sound on breath controlled instruments (woodwind or brass) by
+making a rolled 'r' in the mouth while producing a pitch on the instrument.
+FORMANT
+10
+118

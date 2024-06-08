@@ -1,0 +1,40 @@
+
+Another way in which we can achieve interaction between the spectra of two or more sounds is via
+spectral masking. Here we construct a goal sound from the spectra of two (or more) source sounds by
+selecting the loudest partial on a frequency-band by frequency-band basis for each time window. (See
+Appendix). If one of our sources has prominent high frequency partials, it may mask out the high
+frequency data in the other source(s) and the high frequency characteristics of the masked sources will
+be suddenly revealed if the first source pauses, or gets quieter. Hence aspects of the spectra of two (or
+more) sources may be played off against each other in a contrapuntal interaction of the spectral data.
+This technique should, in general, be regarded as a form of spectrally interactive mixing, rather than
+interpolation in the true sense. However, if our two (or more) source sounds have stably pitched
+spectra which are strongly pitch-related, alterations in the loudness balance of source sounds will
+produce interpolated spectral states. With voices, or other sources with variable formants, this
+interaction will be particularly potent. (Sound example 12.12).
+SPECTRAL INTERPOLATION
+The most satisfactory form of dynamic interpolation is achieved by interpolating progressively between
+the time-changing spectra of two sources. (spectral interpolation). This process is used extensively in
+Vox 5.
+In Appendix p32 each sound is represented by a series of frequency domain analysis windows. The
+information in these windows changes, window by window, for each sound. Due to the nature of the
+analysis procedure, however, the windows are in step-time synchronisation between the two sounds,
+where the time- step corresponds to the window duration.
+We can now apply a process of moving the amplitude (loudness) and frequency values in window N of
+sound 1 towards the values in window N of sound 2. If we do this progressively so that in window N+1
+we can move a little further away from the values in sound 1 in window N+1 and a little closer to those
+values in sound 2 in window N+1, then in windows N+2 etc, the resulting window values will move
+progressively from being close to those in sound 1 to being close to those in sound 2 and the resulting
+sound will be heard to move gradually from the first percept (sound 1) to the second (sound 2).
+It is important to understand that we are interpolating over the difference between the values in
+successive windows. We are moving gradually away from the current value in sound 1 towards the
+current value in sound 2, and not from the original values (back in window N) of sound 1 towards the
+ultimate values (onward in window N+K) of sound 2. The latter process, being a linear translation
+between two static spectral states, would produce merely a spectral glide perceptually disconnected
+from both source sounds. (Sound example 12.13).
+Our process, in contrast, is moving from the 'wobbling' of one spectrum into the 'wobbling' of the other.
+For this very reason, the interpolation tends to be perceptually smooth. Mixing sounds normally fails to
+fuse them as a single percept because the micro-fluctuations within each sound are mutually
+synchronised and out of sync with those in the other sound. For this reason, a cross-fade does not
+produce an interpolation. In our process, we are effectively interpolating the micro-fluctuations
+themselves. (listen to Sound example 12.3).
+101

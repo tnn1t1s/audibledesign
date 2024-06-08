@@ -1,0 +1,21 @@
+<page id=87>
+also much more robust than the old analogue recording tape-speed variation, capturing important extremely high frequency information for re-listening in a moderate frequency range and preserving frequency information transposed down to very low frequencies. (Sound example 11.2).
+
+Tape-speed variation may be applied in a time-varying manner e.g. causing a sound to plunge into the lowest pitch range, hence bringing very high frequency detail into the most sensitive hearing range, at the same time as magnifying the time-frame. Conversely, a sound may accelerate rapidly, rising pitch-wise into the stratosphere (using e.g. tape acceleration). As the sound rises, internal detail is lost. With sufficient acceleration almost any sound can be converted into a structureless rising pitch-portamento. This is an elementary way to perceptually link the most diverse sound materials, if they occur in long enough streams for such acceleration to be possible, or a way of creating musical continuity between a complex stream of diverse events and event structures focused on pitch portamenti. (Sound example 11.3).
+
+BRASSAGE TECHNIQUES
+
+As discussed previously, Brassage involves cutting a sound into successive, and possibly overlapping, segments and then reassembling these by resplicing them together (for pure time-stretching, in exactly the same order) but differently spaced in time (see Appendix p44-AB) , It can always be arranged, by appropriate choice of segment length and segment overlap, for the resulting sound to be continuous, if the source sound is also continuous. Provided the cut segments are of short grain duration (i.e. with perceptible pitch and spectral properties but no pitch or spectral evolution over time) then the goal sound will appear time-stretched relative to the source.
+
+Good algorithms for doing this are currently (1994) embedded in commercially available hardware devices (often known as harmonisers) and function reasonably well, often in a continuously time-variable fashion over a range half to two-times time-stretch. At the limits of this range and beyond we are beginning to hear spectral and other artefacts of the process. These may, however, be useful as sound-transformation techniques. (Sound example 11.4).
+
+ Particularly in long time-stretches, Brassage may lead to...
+
+(1) pitch artefacts - related to the event-separation rate of the segments.
+
+(2) granulation artefacts - where the individual grains are large enough to reveal a time-evolving structure, and hence, as successive segments are chosen from overlapping regions of the source, delayed repetitions are heard.
+
+(3) phasing artefacts - due to the interaction of rapid repetition or "delay", and gradual shifting along the source.
+
+With long time-streches the perceptual connection between source sound and goal sound may be remote and may require the perception of mediating sounds (with less time-stretching) to make the connection apparent. Repeated application of Brassage techniques to a source (in effect using "Feedback") may entirely destroy the original characteristics of the source. In contrast, spectral time-stretching (in the frequency domain) can be repeated non-destructively. (Sound example 11.5).
+</page>

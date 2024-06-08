@@ -1,0 +1,15 @@
+<page id=34>
+If we now use the analysis data as a set of (time-varying) filters on an input noise sound, wherever the analysis window was normal-sized the resultant filters will impose the formant characteristics of the original sound on the noise source (e.g. analysed voiced speech will produce unvoiced speech), but where the window size was very fine, we will have generated a set of very narrow-Q filters at the (time-varying) frequencies of the original partials. These will then act on the noise to produce something very close to the original signal.
+
+If the original analysis window-size varied in time from normal to fine, our output sound would vary from formant-shaped noise to strongly pitched sound (e.g. from an analysis of pitched speech, our new sound would pass from unvoiced to voiced speech). This then provides a sophisticated means to pass from noise to pitch in a complexly evolving sound-source.
+
+The second approach to pitch-generation is to use delay. As digital signals remain precisely in time, the delay between equivalent samples in the original and delayed sound will remain exactly fixed. If this delay is short enough, we will hear a pitch corresponding to one divided by delay time, whatever sound we input to the system. This technique is known as comb filtering. Longer delays will give lower and less well defined pitches. (Sound example 2.26).
+
+Both these techniques allow us to produce dual-pitch percepts with the pitch of the source material moving in some direction and the pitch produced by the delay or filtering fixed, or moving in a different sense (with time-variable filtering or delay).
+
+Producing portamenti is an even simpler process. When a sound is mixed with a very slightly time-stretched (or shrunk) copy of itself, we will produce a gradually changing delay (See Diagram 6).  If the sounds are start-synchronised, this will produce a downward portamento. If the sounds are end-synchronised, we will produce an upward portamento. We may work with more than two time-varied copies. (Sound example 2.27).
+
+Phasing or Flangeing, often used in popular music, relies on such delay effects. In this case the signal is delayed by different amounts in different frequency registers using an all-pass filter (Appendix p9) and this shifted signal is allowed to interact with the unchanged source.
+
+The production of pitch-motion seems an appropriate place to end this Chapter as it stresses once again the difference between pitch and Hpitch and the power of the new compositional tools to provide control over pitch-in-motion.
+</page>

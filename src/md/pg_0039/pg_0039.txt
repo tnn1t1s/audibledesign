@@ -1,0 +1,21 @@
+<page id=27>
+We can, in fact, generate a perception of a single, if unstable, pitch from an event containing very many different pitches scattered over a narrow band. The narrower the band, the more clearly is a single pitch defined. (Sound example 2.4).
+
+Once we confine our selection of pitches to a given reference frame (scale, mode, HArmonic field) we establish a clear sense of Hpitch for each event.
+
+Returning now to portamenti and considering rising portamenti, it is possible to relate such moving pitches to Hpitch if the portamenti have special properties. Thus, if they are onset-weighted and the onsets located in a fixed HArmonic field, we will assign Hpitch to the events, regarding the portamenti as ornaments or articulations to those Hpitches. (Sound example 2.5a). Similarly, end-focused portamenti (often heard in popular music singing styles) where the portamenti settle clearly onto values in a HArmonic field, will be perceived as anacrusial ornaments to Hpitches. (Sound example 2.5b).  Portamenti with no such weighting, however, will not be perceived to be Hpitched. (Sound example 2.5c).
+
+The same arguments apply to falling portamenti and even more powerfully, to complexly moving portamenti. (Sound example 2.6). Nevertheless all these sounds are pitched in the spectral sense.
+
+Using our new computer instruments it becomes possible to follow and extract the pitch from a sound event, but this does not necessarily (or usually) mean that we are assigning an Hpitch, or a set of Hpitches to it. The pitch flow of a speech stream can be followed, extracted and applied to an entirely different sound object, establishing a definite relationship between the two without any conception of Hpitch or scale, mode or HArmonic field entering into our thinking, or our perception. This should be borne in mind while reading this Chapter as it is all too easy for musicians to slide imperceptibly into thinking of pitch as Hpitch!
+
+A good example in traditional musical practice of pitch not treated as Hpitch can be found in Xenakis' Pithoprakta where portamenti are organised in statistical fields governed by Poisson's formula or in portamenti of portamenti, which themselves rise and fall without having any definite Hpitch. (See On Sonic Art). (Sound example 2.7).
+
+In contrast, Paul de Marinis uses pitch extraction on natural speech recordings, subsequently reinforcing the speech pitches on synthetic instruments so the speech appears to sing. (Sound example 2.8).
+
+PITCH-TRACKING
+
+It seems odd so early in this book to tackle what is perhaps one of the most difficult problems in instrument design. Whole treatises have been written on pitch-detection and its difficulties. The main problem for the instrument designer is that the human ear is remarkably good at pitch detection and even the best computing instruments do not quite match up to it. This being said, we can make a reasonably good attempt in most cases.
+
+Working in the time domain, we will recognise pitch if we can find a cycle of the waveform (a wavelength) and then correlate that with similar cycles immediately following it. The pitch is then simply one divided by the wavelength. This is pitch-tracking by auto-correlation (Appendix p70).
+</page>

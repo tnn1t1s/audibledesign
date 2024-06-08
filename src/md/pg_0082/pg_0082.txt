@@ -1,0 +1,19 @@
+<page id=59>
+CHAPTER 7
+
+SEQUENCES
+
+MELODY & SPEECH
+
+The most common examples of sequences in the natural world are human speech, and melodies played on acoustic instruments. However any rapidly articulated sound stream can be regarded as a sequence (some kinds of birdsong, klangfarbenmelodie passing between the instruments of an ensemble, a "break" on a multi instrument percussion set etc). We can also construct disjunct sequences of arbitrary sounds by simply splicing them together (e.g. a dripping tap, a car horn, an oboe note, a cough - with environmentally appropriate or inappropriate loudness and/or reverberation relations one to the other) or by modifying existing natural sequences (time-contraction of speech or music, for example).  (Sound example 7.1).
+
+Naturally occuring sequences cannot necessarily be accurately reproduced by splicing together (in the studio) constituent elements. The speech stream in particular has complex transition properties at the interfaces between different phonemes which are (1994) currently the subject of intensive investigation by researchers in speech synthesis. To synthesize the speech stream it may be more appropriate to model all the transitions between the elements we tend to notate in our writing systems, rather than those elements themselves (this is Diphone synthesis). Starting from the separate elements themselves, to achieve the flowing unity of such natural percepts as speech, it may be necessary to "massage" a purely spliced-together sequence. A simple approach might be to add a little subtle reverberation. However, for the present discussion, we will ignore this subtle flow property and treat all sequences as if they were formally equivalent.
+
+Clearly, sequences of notes on a specific instrument and sequences of phonemes in a natural language have well-documented properties, but here we would like to consider the properties of any sequence whatsoever.
+
+CONSTRUCTING & DESTRUCTING SEQUENCES
+
+Sequences can be generated in many ways, apart from splicing together the individual elements "by hand". Any sound source in directed motion (e.g. a pitch-glide or a formant glide) can be spliced into elements which, when rearranged, do not retain the spectral-continuity of the original. (Sound example 7.2). An existing speech-stream can be similarly reordered to destroy the syntactic content and (depending on where we cut) the phoneme-continuity. We may do this by chopping up the sequence into conjunct segments and reordering them (as in sound shredding : see below), or by selecting segments to cut, at random (so they might overlap other chosen segments) and reordering them as they are spliced back together again (random cutting : Appendix p41). (Sound example 7.3).
+
+We may work with a definite segment length or with arbitrary lengths and we may shift the loudness or pitch of the materials, marginally or radically, before constructing the new sequence. Alternatively we may cut our material into sequential segments, modify each in a non-progressive manner (different filterings, pitch shifts, etc) and reconstitute the original sequence by resplicing the elements together again, but they will now have discontinuously varying imposed properties. (Sound example 7.4).
+</page>

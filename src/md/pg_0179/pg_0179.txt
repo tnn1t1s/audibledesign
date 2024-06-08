@@ -1,0 +1,9 @@
+
+ZERO-CROSSING
+The waveform of a sound continually rises above the centre line and then falls below it. The point where
+it crosses the centre line is a zero-crossing.
+ZERO-CUTTING
+40
+ZIGZAGGING
+43
+138

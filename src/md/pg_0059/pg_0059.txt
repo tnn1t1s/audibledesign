@@ -1,0 +1,5 @@
+<page id=43>
+CONCLUSION
+
+In a sense, almost any manipulation of a signal will alter its spectrum. Even editing (most obviously in very short time-frames in brassage e.g.) alters the time-varying nature of the spectrum. But, as we have already made clear, many of the areas discussed in the different chapters of this book overlap considerably. Here we have attempted to focus on sound composition in a particular way, through the concept of "spectrum". Spectral thinking is integral to all sound composition and should be borne in mind as we proceed to explore other aspects of this world.
+</page>

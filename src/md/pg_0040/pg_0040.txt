@@ -1,0 +1,17 @@
+<page id=28>
+We can also attempt pitch-tracking by partial analysis (Appendix p71). Hence in the frequency domain we would expect to have a sequence of (time) windows, in which the most significant frequency information has been extracted in a number of channels (as in the phase vocoder). Provided we have many more channels than there are partials in the sound, we will expect that the partials of the sound have been separated into distinct channels. We must then separate the true partials from the other information by looking for the peaks in the data.
+
+Then, as our previous discussion indicated, we must find the highest common factor of the frequencies of our partials, which will exist if our instantaneous spectrum is harmonic. Unfortunately, if we allow sufficiently small numbers to be used, then, within a given limit of accuracy, any set of partial frequencies values will have a highest common factor. e.g. partials at 100.3, 201, 307 and 513.5 have an HCF of 0.1. We must therefore reject absurdly small values. A good lower limit would be 16 cycles, the approximate lower limit of pitch perception in humans.
+
+The problem of pitch-tracking by partial analysis can in fact be simplified if we begin our search on a quarter-tone grid, and also if we know in advance what the spectral content of the source sound is (see Appendix p71). In such relatively straightforward cases pitch-tracking can be very accurate, with perhaps occasional octaviation problems (the Hpitch can be assigned to the wrong octave). However, in the general case (e.g. speech, or synthesised sequences involving inharmonic spectra), where we wish to track pitch independently of a reference frame, and where we cannot be sure whether the incoming sound will be pitched or not, the problem of pitch-tracking is hard.
+
+For even greater certainty we might try correlating the data from the time-domain with that from the frequency domain to come up with our most definitive solution.
+
+The pitch data might be stored in (the equivalent of) a breakpoint table of time/frequency values. In this case we need to decide upon the frequency resolution of our data, i.e. how much must a pitch vary before we record a new value in our table? More precisely, if a pitch is changing, when is the rate of change adjudged to have changed? (See Diagram 1).
+
+If we are working on an Hpitch reference frame the task is, of course, much simpler. If we do not confine ourselves to such frames, to be completely rigorous we could store the pitch value found at every window in the frequency domain representation, But this is needlessly wasteful. Better to decide on our own ability to discriminate rates of pitch motion and to give the pitch-detection instrument a portamento-rate-change threshold which, when exceeded, causes a new value to be recorded in our pitch data file.
+
+PITCH TRANSFER
+
+Once we have established a satisfactory pitch-trac for a sound, we can modify the pitch of the original sound and this is most easily considered in the frequency domain. We can provide a new (changing) pitch-trace, either directly, or from a second sound. By comparing the two traces, a pitch-following instrument will deduce the ratio between the new pitch and the original pitch at a particular window time (the instantaneous transposition ratio), then multiply the frequency values in each channel of the original window by that ratio, hence altering the perceived pitch in the resynthesized sound. (See Diagram 2).
+</page>

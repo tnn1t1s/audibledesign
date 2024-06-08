@@ -1,0 +1,21 @@
+<page id=36>
+We may vary this spectral stretching process by changing the overall stretch (i.e. the top of the spectrum moves further up or further down from its initial position) and we may vary the type of stretching involved. (Appendix p19). (Sound example 3.2).
+
+Different types of stretching will produce different relationships between the pitches heard within the sounds.
+
+Note that, small stretches produce an ambiguous area in which the original sound appears coloured" in some way rather than genuinely multi-pitched. (Sound example 3.3). Inharmonicity does not therefore necessarily mean multipitchedness. Non (as we have seen from the "ko->u" example), does it mean bell sounds. Very short inharmonic sounds will sound percussive, like drums, strangely coloured drums, or akin to wood-blocks (Sound example 3.4). These inharmonic sounds can be transposed and caused to move (subtle or complex pitch-gliding) just like pitched sounds (also see Chapter 5 on Continuation).
+
+Proceeding further, the spectrum can be made to vary, either slowly or quickly, between the harmonic and the inharmonic creating a dynamic interpolation between a harmonic and an inharmonic state (or between any state and something more inharmonic) so that a sound changes its spectral character as it unfolds. We can also imagine a kind of harmonic to inharmonic vibrato-like fluctuation within a sound.  (Sound example 3.5).
+
+Once we vary the spectrum too quickly, and especially if we do so irregularly, we no longer perceive individual moments or grains with specific spectral qualities. We reach the area of noise (see below).
+
+When transforming the harmonicity of the spectrum, we run into problems about the position of formants akin to those encountered when pitch-changing (see Chapter 2) and to preserve the formant characteristics of the source we need to preserve the spectral contour of the source and apply it to the resulting spectrum (see formant preserving spectral manipulation : Appendix p17).
+
+FORMANT STRUCTURE
+
+In any window, the contour of the spectrum will have peaks and troughs. The peaks, known as formants, are responsible for such features as the vowel-state of a sung note. For a vowel to persist, the spectral contour (and therefore the position of the peaks and troughs) must remain where it is even if the partials themselves move. (See Appendix p10).
+
+As we know from singing, and as we can deduce from this diagram, the frequencies of the partials in the spectrum (determining pitch(es), harmonicity-inharmonicity, noisiness) and the position of the spectral peaks, can be varied independently of each other. This is why we can produce coherent speech while singing or whispering. (Sound example 3.6).
+
+Because most conventional acoustic instruments have no articulate time-varying control over spectral contour (one of the few examples is hand manipulable brass mutes), the concept of formant control is less familiar as a musical concept to traditional composers. However, we all use articulate formant control when speaking.
+</page>

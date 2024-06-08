@@ -1,0 +1,39 @@
+
+However, a percept of interpolation is possible without such clear referential clues where there is a
+distinct change in the sense of physicality or causality of the source (see Chapter 1).
+Hence, by greatly spectrally time-stretching a voice, or a flexed metal sheet sound, and then imposing a
+rapid series of hard-edged loudness trajectories on the resulting continuum, we move from the sense of
+forced continuation of an elastic medium, to a sense of striking a hard inflexible medium. Both
+physicality and causality have been altered. (Sound example 12.1).
+Hence modifications to onset characteristics, the rate of spectral change (and elsewhere to the
+irregularity-regularity of sequencing etc) alter our intuitive type-classifications of the sounds we hear.
+When compositional processes move sounds across these boundaries, we create the percept of
+interpolation.
+MEDIATION : AMBIGUITY : CHANGE
+Before we go on to discuss compositional methods for achieving interpolation, it is worth considering
+why we might want to do it. There would seem to be at least three different motivations for musical
+interpolation and each motivation leads to a different emphasis in the way the technique is applied.
+The first approach is aimed at achieving some kind of mediation in sound between distinct sound types.
+This approach may be heard in Stockhausen's Gesang der Junglinge where the 'pure' pitched singing
+voice of a young boy and pure (pitched) sine tones are mediated through a set of intermediate pitched
+sounds (sounds between 'boy' and 'sine tone').
+This desire to mediate between the child's voice and a set of more 'abstract' (i.e. less
+source-recognisable) sounds, has a metaphysical underpinning (a religious conception of 'unity' in the
+cosmos), which pervades much of Stockhausen's musical thought. The mediation is not achieved
+through dynamic interpolation (technologically almost impossible at the time), nor through a clear
+progressive movement from one sound-type to the other, but in the sense that the piece is grounded in
+a
+field of sound types which span the range 'boy's voice' to 'sine tone'. These are sequentially
+articulated according to an entirely different logic (a serialist sequencing aesthetic), which also governs
+the rest of the musical organisation in the piece.
+A second approach to sound interpolation stresses the ambiguous implications of the sounds thus
+created. Roger Reynold's has used interpolations between a voice speaking a Samuel Beckett text in
+English, the same voice speaking the text in French and the sound of brass instruments. Interpolation
+takes place in two dimensions, between English and French on the one hand and between voice and
+instrument on the other. The composer focuses on the cusp of the interpolations, where we are most
+undecided about whether what we hear is English or French, voice or instrument. This approach also
+has its own metaphysical implications, if of a more secular variety. Technically the aim (and difficulty)
+here, is to achieve a percept which is capable of these dual interpretations without entirely losing
+'source credibility' (i.e. is it anything at all that we can recognise?). This can be particularly difficult,
+even with the most advanced technology.
+97

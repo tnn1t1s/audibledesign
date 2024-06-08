@@ -1,0 +1,26 @@
+
+MORPHOLOGY
+The way in which the properties of a sound vary with time.
+MOTIF
+Small element of musical structure, usually consisting of a sequence of a few pitches (in notated music),
+and out of which larger structural units (e.g. phrases) are built.
+MULTI-DIMENSIONAL SPACE
+A line defines a one-dimensional space, a sheet of paper or the surface (only) of a sphere a
+two-dimensional space, and the world we live in is a three-dimensional space. We may generalise the
+notion of a space to any group of independent parameters. e.g. pitch and duration may be thought of as
+defining a two-dimensional space, and this is the space that we draw in when we notate a traditional
+musical score. Spaces may be of any number of dimensions (i.e. not necessarily ones that we can
+visualise in our own spatial experience) from the four dimensions of Einstein's space-time, to the
+infinite number of dimensions in Hilbert space.
+MULTI-SOURCE BRASSAGE
+45
+NOISE
+Sound having no perceptible pitch(es) and in which energy is distributed densely and randomly over the
+spectrum and/or in a way which varies randomly with time. Typical examples might be the consonants
+'s' or 'sh'. Other sounds (especially those recorded directly from the natural environment) may contain
+elements of unwanted noise which we may wish to eliminate by noise reduction.
+NOISE REDUCTION
+Process of eliminating or reducing unwanted noise in a sound source.
+NOTCH FILTER
+7
+125

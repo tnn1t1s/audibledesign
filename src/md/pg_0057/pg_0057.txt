@@ -1,0 +1,19 @@
+<page id=41>
+its waveform. With a 5 or 6 fold repetition therefore, the source sound begins to reveal a lightning fast stream of pitched beads, all of a slightly different spectral quality. A 32 fold repetition produces a clear "random melody" apparently quite divorced from the source. A three or four fold repetition produces a "phasing"-like aura around the sound in which a glimmer of the bead stream is beginning to be apparent. (Sound example 3.23).
+
+Again, we have a compositional process which makes perceptible aspects of the signal which were not perceptible. But in this case, the aural result is entirely different. The new sounds are time-domain artefacts consistent with the original signal, rather than revelations of an intrinsic internal structure. For this reason I refer to these processes as constructive distortion.
+
+SPECTRAL MANIPULATION IN THE FREQUENCY DOMAIN
+
+There are many other processes of spectral manipulation we can apply to signals in the frequency domain. Most of these are only interesting if we apply them to moving spectra because they rely on the interaction of data in different (time) windows - and if these sets of data are very similar we will perceive no change.
+
+We may select a window (or sets of windows) and freeze either the frequency data or the loudness data which we find there over the ensuing signal (spectral freezing). If the frequency data is held constant, the channel amplitudes (loudnesses) continue to vary as in the original signal but the channel frequencies do not change. If the amplitude data is held constant then the channel frequencies continue to vary as in the original signal. As mentioned previously, in a complex signal, holding the amplitude data is often more effective in achieving a sense of "freezing" the signal. We can also freeze both amplitude and frequency data but, with a complex signal, this tends to sound like a sudden splice between a moving signal and a synthetic drone. (Sound example 3.24).
+
+We may average the spectral data in a each frequency-band channel over N time-windows (spectral blurring) thus reducing the amount of detail available for reconstructing the signal. This can be used to "wash out" the detail in a segmented signal and works especially effectively on spikey crackly signals (those with brief, bright peaks). We can do this and also reduce the number of partials (spectral trace & blur) and we may do either of these things in a time-variable manner so that the details of a sequence gradually become blurred or gradually emerge as distinct. (Sound example 3.25).
+
+Finally, we may shuffle the time-window data in any way we choose (spectral shuffling), shuffling windows in groups of 8, 17, 61 etc. With large numbers of windows in a shuffled group we produce an audible rearrangements of signal segments, but with only a few windows we create another process of sound blurring akin to brassage, and particularly apparent in rapid sequences. (Sound example 3.26).
+
+SPECTRAL MANIPULATION IN THE TIME-DOMAIN
+
+A whole series of spectral transformations can be effected in the time-domain by operating on wavesets defined as pairs of zero-crossings. Bearing in mind that these do not necessarily correspond to true wavecycles, even in relatively simple signals, we will anticipate producing various unexpected artefacts in complex sounds. In general, the effects produced will not be entirely predictable, but they
+</page>

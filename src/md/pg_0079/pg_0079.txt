@@ -1,0 +1,21 @@
+<page id=57>
+DISSOLVING GRAIN-STREAMS
+
+Just as continuous sounds can be made discontinuous, grain-streams can be dissolved into continuous, or even single-grain, forms. Speeding up a grain-stream by tape speed variation or spectral time-contraction (with no grain pitch alteration) may force the grain separation under the minimum time limit for grain-perception and the granulation frequency will eventually emerge as a pitch. (Sound example 6.9). Alternatively, by speeding up the sequence rate of grains without changing the grains (granular time-shrinking : see below) we will breach the grain-perception limit. The sound will gradually become a continuous fuzz. In this case a related pitch may or may not emerge. (Sound example 6.10). Reverberation will blur the distinction between grains. (Sound example 6.11).  Increasing the grain density (e.g. via the parameters of a granular synthesis instrument ) will also gradually fog over the granular property of a grain-stream. (Sound example 6.12).
+
+Grain-streams may also be dissociated in other ways....
+
+(1) slowing down the sequence of grains but not the grains themselves so that grains become detached events in their own right (granular time-stretching : Sound example 6.13).
+
+(2) slowing down the sequence and the grains, so the internal morphology of the individual events comes to the foreground of perception (spectral time-stretching : Sound example 6.14).
+
+(3) gradually shifting the pitches or spectral quality of different grains differently, so the grain-stream becomes a sequence (granular reordering : Sound example 6.15).
+
+Again, we are describing here ways in which networks of musical relationships can be established amongst diverse musical materials.
+
+CHANGING GRAIN-STREAM STRUCTURE
+
+In some ways, a grain-stream is akin to a note-sequence on an instrument, In the latter we have control over the timing and Hpitching and sequencing of the events. In a grain-stream not constructed from individually chosen grains, but e.g. by enveloping a continuous source, we do not initially have this control. However, we would like to be able to treat grains in a similar way to the way we deal with note events. By the appropriate use of gating, cutting and resplicing or remixing, which may be all combined in a single sound processing instrument, we can retime the grains in a sequence using various mathematical templates (slow by a fixed factor, ritardando arithmetically, geometrically or exponentially, randomise grain locations about their mean, shrink the time-frame in similar ways and so on : granular time-warping). The grain-stream can thus be elegantly time-distorted without distorting the grain-constituents. (Sound example 6.16).
+
+We can also reverse the grain order (granular reversing), without reversing the individual grains themselves (sound reversing), producing what a traditional composer would recognise as a retrograde (as opposed to an accumulation : see Chapter 5). Thus a grain-stream moving upwards in pitch would become a grain-stream moving downwards in pitch. (Sound example 6.17).
+</page>

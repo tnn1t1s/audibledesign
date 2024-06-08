@@ -1,0 +1,18 @@
+<page id=51>
+crowd) by applying an appropriate loudness trajectory (enveloping) with perhaps more subtle paralleling features (spectral enhancement by filtering, harmonicity shifting by spectral stretching or subtle delay). Moreover, these sonically created shapes can transcend the boundaries of the physically likely (!). Sound which are necessarily quiet in the real world (unvoiced whispering) can be unnervingly loud, while sounds we associate with great forcefulness, e.g. the crashing together of large, heavy objects, the forced grating of metal surfaces, can be given a pianissimo delicacy.
+
+Moreover, we can extract the properties of existing gestures and modify them in musically appropriate ways. This is most easily done with time-varying loudness information which we can capture (envelope following) and modify using a loudness trajectory manipulation instrument (envelope transformation), reapplying it to the original sound (envelope substitution), or transferring it to other sounds (enveloping or envelope substitution : see Appendix p59).
+
+Information can be extracted from instrumental performance (which we might specifically compose or improvise for the purpose), speech or vocal improvisation but also from fleeting unpredictable phenomena (the dripping of a tap) or working in stereo, the character of a whole field of naturally occuring events (e.g. traffic flow, the swarming of bats etc). The extracted gestural information can then be modified and reapplied to the same material (envelope transformation followed by envelope substitution), or applied to some entirely different musical phenomenon, (enveloping or envelope substitution : see Appendix p59) or stored for use at some later date. All such manipulations of the loudness trajectory are discussed more fully in Chapter 10.
+
+Sounds may also have a specific spatial continuation. A whole chapter of On Sonic Art is devoted to the exploration of spatial possibilities in sound composition. Here we will only note that spatial movement can be a type of forced continuation applied to a sound, that it will work more effectively with some sounds than with others and that it can be transferred from one sound to another provided these limitations are borne in mind. Noisy sounds, grain-streams and fast sequences move particularly well, low continuous sounds particularly poorly. Some sounds move so well that rapid spatial movement (e.g. a rapid left right sweep) may appear as an almost indecipherable quality of grain or of sound onset.  (Sound example 5.12).
+
+
+The movement from mono into stereo may also play a significant role in dynamic interpolation (See Chapter 12).
+
+CONSTRUCTED CONTINUATION TIME-STRETCHING & REVERBERATION
+
+In many cases we may be faced with a relatively short sound and wish to create a continuation for it.  There are a number of ways in which sounds can be extended artificially, some of which reveal continuation properties intrinsic to the sound (reverberation, time-stretching, some kinds of brassage) while others impose their own continuation properties (zigzagging, granular-extension and other types of brassage).
+
+The most obvious way to create continuation is through time-stretching. There are several ways to do this (brassage/harmoniser, spectral stretching, waveset time stretching, granular time stretching) and these are discussed more fully in Chapter 11. It is clear, however, that through time-stretching we can expand the indivisible qualitative properties of a grain into a perceptibly time-varying structure - a continuation. In this way an indivisible unity can be made to reveal a surprising morphology. This 
+</page>

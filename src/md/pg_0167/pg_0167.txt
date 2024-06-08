@@ -1,0 +1,30 @@
+
+OCTAVE
+A sound whose pitch is an octave higher than a second sound, usually has twice the frequency of that
+second sound. Two pitches separated by an octave, in european music, are regarded in some sense as
+the 'same' pitch, or as belonging to the same 'pitch-class'.
+OCTAVE-STACKING
+48
+ONSET SYNCHRONISATION
+48
+PARAMETER
+Any property of a sound or a sequence of sounds which can be musically organised, Parameter often
+also implies the measurability of that property.
+PARTIAL
+3
+The sinusoidal elements which define the spectrum of a sound.
+PARTIAL TRACKING
+21
+PERMUTATION
+Specific rearrangement of the elements, or the properties of the elements (e.g. loudness), of a sequence
+of musical events.
+PHASE
+9
+PHASE INVERSION
+(9)
+The sound waveform may be replaced by the same form but 'upside-down' (i.e. the new wave rises
+where the other falls and vice versa). The same-effect is achieved with a sinusoidal waveform by
+restarting the wave from the first point at which it recrosses the zero-line (known as a phase-shift by
+180 degrees, or by PI radians). Superimposing the original sound on its phase-inverted version causes
+the sounds to cancel one another.
+126

@@ -1,0 +1,43 @@
+
+and devotees of various pre-tempered approaches to tuning (e.g. just intonation), however would beg
+to differ from this analysis.
+For them the interval we know as the 5th derives from the second two partials in a harmonic spectrum.
+The ratio of their frequencies is exactly 3:2 or 1.5 However, in the tempered scale, where larger
+intervals must always be expressible as exact multiples of the semitone (whose frequency ratio is 2
+raised to the power of 1/12), the interval of a 5th is 2 raised to the power of 7/12, or approximately
+1.498307077. In fact, in terms of frequency, the tempered scale 5th cannot be expressed as an exact
+ratio of any two whole numbers; it is not a rational number (in the mathematical sense). (It is certainly
+out of tune with the 'pure' fifth).
+The tritone in the tempered scale, roughly corresponding to the mediaeval "devil in music", is even more
+instructive in this regard. For the tempered scale tritone corresponds to a precise frequency ratio of
+the-square-root-of-2:1 And the square root of 2 is perhaps the most famous non-rational number of
+all.
+Pythagoras' discovery of the link between musical pitch relationships and the length ratios of vibrating
+strings spawned the pythagorean cult which linked mathematics, mystical numerology and music.
+However, it was the Greek discovery of the non-rationality of the square root of 2 which destroyed
+Greek arithmetic and led to an almost complete reliance on geometrical methods. For the square root of
+2, the length of the diagonal of a square of unit side, is perfectly comprehensible geometrically.
+However as a number it cannot be expressed as the ratio of two other numbers. This was proved by
+the Greeks and seemed hopelessly baffling. The square root of 2 is simply not a rational number (a
+number expressible as a fraction).
+It was only 2,000 years later, in the Seventeenth Century, with Descartes' development of coordinate
+geometry (linking geometrical and numerical thinking) and Newton's use of fluxions, (the origin of the
+calculus) to study accelerated motion, that mathematicians began to deal in a sophisticated way with
+the numerical continuum. And it was not until the Nineteenth Century that a rigorous definition of these
+new numbers, the very stuff of the continuum, was developed.
+The numbers which form the continuum (and which include the rational numbers) are known as the Real
+Numbers. So, in the mathematical world, the rational appears as only a small part (in fact an infinitely
+small part) of the Real!
+In a sense, Western musical practice has remained overawed by the Pythagorean fixation with the
+mathematically rational. The obsession with geometrical proportions in written scores may be seen as
+an aspect of the persistence of this tradition.
+But the computer as a recording and transformational tool has altered our relationship to the musical
+continuum. Sampling is a means whereby the continuum of our sonic experience can be captured and
+subjected to rational calculation. The key to this is the existence of perceptual time-frames. Below a
+certain duration limit (as discussed in Chapter 1) we can no longer distinguish individual sound events,
+hence our perception of the continuity of experience can be recreated by piecing together extremely
+short, but stable, sound elements. Just as the 24 or 25 static frames of film or video create for us the
+illusion of seamless motion, the reconstruction of a sound from a windowed analysis, or the playing of
+samples through a digital to analogue converter, recreates for us a continuous sonic domain from what
+are fixed and countable values. The computer thus provides a link between the world of rational
+107

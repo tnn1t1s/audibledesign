@@ -1,0 +1,31 @@
+
+***** E
+ECHO
+64
+EDITING
+The processes of cutting sounds into shorter segments or/and splicing together sounds or segments of
+sounds.
+ENVELOPE
+The loudness trajectory of a sound (the way the loudness varies through time) is often referred to as
+the envelope of the sound. Computer instruments which manipulate this loudness trajectory are usually
+called 'Envelope something'. Envelope is also used in the literature to refer to the time-changing
+variation of any property (we use the term trajectory) and even to the instantaneous shape of the
+spectrum (we use the term contour).
+ENVELOPE CONTRACTION
+60
+ENVELOPE FOLLOWING
+58
+ENVELOPE INVERSION
+60
+ENVELOPE SMOOTHING
+60
+ENVELOPE SUBSTITUTION
+59,61
+ENVELOPE TRANSFORMATION
+60
+Musical transformations of the loudness trajectory of a sound.
+ENVELOPING
+59
+EXPANDING
+60
+117

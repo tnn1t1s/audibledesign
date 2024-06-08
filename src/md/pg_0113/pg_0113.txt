@@ -1,0 +1,9 @@
+<page id=80>
+We may, in the same spirit, use texture generation procedures, also with systematic variation of parameters, to generate materials for subsequent perceptual assessment.
+
+Conversely, through experience, we may already know what kind of materials we want. If, for example, we know that the result must be characterised by slowly density-fluctuating arhythmicity, it would be more direct and simpler, when composing sound directly with a computer, to use a texture control process, refining its parameters until we get the result we desire. Defining a deterministic process to attain the same perceptual result will usually be much more difficult both to specify and to systematically vary in some way coherent with perceptual variations.
+
+We may also combine the two approaches by employing stochastic processes in which the probabilities of proceeding from one set of states to the next are defined precisely, ensuring a high degree of control at one time-frame over a process that evolves unpredictably at smaller time-frames. As the transition probabilities can have any value up to unity (completely deterministic) we have here a way to pass seamlessly between pure density perception and total rhythmic determinism (or between the equivalent extremes for any other sonic parameter). Again we must be clear that whether the result is rhythmic or arhythmic, density-perceived or field-perceived, is to be ascertained by listening to the results, not by appealing to the method of generation.
+
+Compositional virtue does not lie in the determinism (or even the describability) of the compositional method, but in the control of the perceived results and their perceptual connectedness. This is unfortunately not always the view handed down at academies of music composition.
+<break>

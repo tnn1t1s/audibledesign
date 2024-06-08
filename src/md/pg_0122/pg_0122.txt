@@ -1,0 +1,42 @@
+
+Brassage may be extended in a variety of ways, using larger and variable length segments, varying the
+time-range in the source from which the goal segment may be selected, varying the pitch, loudness
+and/or spatial position of successive segments and, ultimately, varying the output event density. We
+thus move gradually out of the field of time-stretching into that of generalised brassage and granular
+reconstruction. (These possibilities are discussed in more detail in Chapter 5 in the section
+"Constructed Continuation" and in Appendix pp44-45 and Appendix p73). We need add only that
+using Granular Reconstruction with time-varying parameters (average segment length, length spread,
+search range, pitch, loudness, spatial divergence and output density) it is possible to create, in a single
+event, a version of a source sound which begins as mere time-stretch and ends as a texture stream
+development of that source.
+A more time-stretching satisfactory application of the Brassage process to sequences such as speech
+streams can be achieved by source-segment-synchronous brassage. In this case we need to apply a
+sophisticated combination of envelope following, and pitch-synchronous spectral analysis to isolate the
+individual segments of the source stream. These can then be individually brassage-time-stretched
+and respliced together in one operation. Because none of the goal segments crossover between source
+segments, we avoid artefacts created at source segment boundaries in simple brassage (see Diagram
+1).
+WAVESET TIME-STRETCHING
+Time-stretching can be achieved by searching for zero-crossing pairs and repeating the wavesets thus
+found (see Appendix p55). This technique will produce only integral time-multiples of the source
+duration. As discussed elsewhere, two zero-crossings do not necessarily correspond to a wavecycle (a
+true wavelength of the signal) so a waveset is not necessarily a wavecycle. As a result this technique
+will have some unpredictable, though often interesting, sonic consequences. Sometimes parts of the
+signal will pitch-shift (e.g. at x2 time-stretch, by an octave downwards, as in tape-speed variation).
+For a x2 (or even x3) time-stretch, artefacts can often be reduced by repeating pairs (or larger groups)
+of wavesets (a special case of pitch- synchronous brassage). These kinds of artefacts can of course be
+avoided, in truly pitched material, by using a pitch-following instrument to help us to distinguish the
+true wavecycles. (Sound example 11.6).
+As the number of repetitions increases, other artefacts begin to appear. At x3 there is often a
+"phasing"-lik coloration of the sound. With time evolving and noisy signals, at x16 time stretch a
+rapid stream of pitched beads is produced as each waveset group achieves (near-) grain dimensions
+and is heard out in pitch and spectral terms. (No such change occurs, however, in a steady tone or
+stable spectrum.) This spectral fission is heard "subliminally" within the source even at x4
+time-stretch. (Appendix p55). (Sound example 11.7).
+It is possible also to interpolate between waveset durations and between waveset shapes through the
+sequence of repetitions. In x64 time-stretching with such interpolation the new signal clearly glides
+around in pitch as each "bead" pitch glides into the next. At x16 time-stretch, we are aware more of
+the "fluidity" of a bead-stream rather than of a continually portamentoing line. Even at x4
+time-stretch, this fluidity quality contributes to the percept in an intangible way. (Sound example
+11.8).
+88

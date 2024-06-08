@@ -1,0 +1,26 @@
+
+This suggests the third approach to time-stretching. In this case we may generate events at the
+original density, but for a longer time, then impose time-dilated field-variation parameters on the
+stream. Here the loudness trajectory, the pitch-range variation, the formant changes, the transitions to
+noisiness etc would move more slowly, but the event-onset density would remain as before. This is the
+textural equivalent of granular time-stretching by grain duplication. (Sound example 11.38).
+We here begin to touch upon interesting music-philosophical ground. For in this last case, the
+texture-stream percept is clearly not a "unique" sound-event, in the sense which we spoke of this in
+Chapter 1. The texture-stream is an example of a class of sounds with certain definable time-varying
+properties, just as a note, in traditional music, is a representative of a class of sounds with certain
+definable stable properties. It is the musical context which focuses our attention upon particular
+properties, or groups of properties of a sound, or on its holistic characteristics. Composition focuses
+perception on what is being perceptually organised through time. Or rather it does this so long as it is
+aware of what can be perceived and what will be perceived in the resulting musical stream.
+We have hence given three quite different definitions of time-stretching a texture-stream. If we
+include the possibility of spectrally time-stretching the texture-components prior to generating the
+texture-stream, we may imagine another option in which the texture constituents are spectrally
+time-stretched (this time-stretching itself changing from constituent to constituent, as we proceed
+timewise through the texture) while (as far as is possible) the temporal evolution of density and field
+characteristics remain unchanged. This might better be regarded as a time-varying
+spectral-type/duration-type transformation of the source texture.
+In fact we can time-stretch event-onset-separation-density variation, event-duration variation.
+overall loudness trajectory, pitch-range variation, evolution of the spectral contour (formant evolution)
+etc. etc. all independently of one another. Time has thus become a multi-dimensional phenomena
+within the sound percept and we may choose amongst the many compositional options available to US.
+95

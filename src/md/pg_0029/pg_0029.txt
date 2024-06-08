@@ -1,0 +1,18 @@
+with coarse pellets) where the sound is clearly made up of many individual randomised attacks. Here, variation in grain or segment speed or density and grain or segment qualities will also contribute to our aural experience of continuation.
+
+As our time-frame lengthens, we reach the sphere of the Phrase. Just as in traditional musical practice, the boundary between a long articulation and a short phrase is not easy to draw. This is because we are no longer dealing with clear cut perceptual boundaries, but questions of the interpretation of our experience. A trill, without variation, lasting over four bars may be regarded as a note-articulation (an example of continuation) and may exceed in length a melodic phrase. But a trill with a marked series of loudness and speed changes might well function as a musical phrase (depending on context). (Sound example 1.3).
+
+A similar ambiguity applies in the sound domain with an added difficulty. Whereas it will usually be quite clear what is a note event and what is a phrase (ornaments and trills blurring this distinction), a sound event can be arbitrarily complex. We might, for example, start with a spoken sentence, a phrase-time-frame object, then time-shrink it to become a sound of segmented morphology (See Chapter 11). As in traditional musical practice, the recognition of a phrase as such, will depend on musical context and the fluidity of our new medium will allow us to shrink, or expand, from one time-frame to another.
+
+A similar ambiguity applies as we pass further up the time-frame ladder towards larger scale musical entities. We can however construct a series of nested time-frames up to the level of the duration of an entire work. These nested time-frames are the basis of our perception of both rhythm and larger scale form and this is more fully discussed in Chapter 9.
+
+THE SOUND AS A WHOLE - PHYSICALITY AND CAUSALITY
+
+Most sounds longer than a grain can be described in terms of an onset and a continuation. A detailed discussion of the typology of sounds can be found in On Sonic Art and in the writings of the Groupe de Recherches Musicales. Here, I would like to draw attention to two aspects of our aural experience.
+
+The way in which a sound is attacked and continues provides evidence of the physicality of its origin. In the case of transformed or synthesized sounds, this evidence will be misleading in actuality, but we still gain an impression of an imagined origin of the sound.
+
+It is important to bear this distinction in mind. As Pierre Schaeffer was at pains to stress, once we begin working with sounds as our medium the actual origin of those sounds is no longer of any concern.  This is particularly true in the era of computer sound transformation. However, the apparent origin (or physicality) of the sound remains an important factor in our perception of the sound in whatever way it is derived.
+
+We may look at this in another way. With the power of the computer, we can transform sounds in such radical ways that we can no longer assert that the goal sound is related to the source sound merely because we have derived one from the other. We have to establish a connection in the experience of the listener either through clear spectral, morphological, or etc similarities between the sounds, or a clear path through a series of connecting sounds which gradually change their characteristics from those of the source, to those of the goal. This is particularly true when the apparent origin (physicality) of the goal sound is quite different to that of the source sound.
+<page>19</page>

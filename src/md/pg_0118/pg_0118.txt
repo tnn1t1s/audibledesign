@@ -1,0 +1,11 @@
+<page id=85>
+Using a combination of loudness reduction and low pass filtering (to eliminate higher frequencies) we may make loud and closely recorded sounds appear distant, especially when contrasted with the original source. But we may also produce self-contradictory images e.g. closely miked whispering, which we associate with close-to-the-ear intimacy and hence "quietness", may be projected very loudly, while bellowed commands may be given the acoustic of a small wooden box - and these may both be projected in the same space.
+
+Proximity may also be used dynamically, like a continuous zoom in cinematography. A microphone may be physically moved towards or away from a sound source during the course of a recording. The effect is particularly noticeable with complex spectra with lots of high frequency components (bells and other ringing metal sounds) where the approach of the microphone to the vibrating object picks out more and more high frequency detail. This aural zoom is hence a combination of loudness and spectral variation. It is important to understand that this effect takes place over a very small physical range (a few centimetres) in contrast to the typical range of the visual zoom. (Sound example 10.11).
+
+PHYSICALITY AND CAUSALITY
+
+As we have already suggested, loudness trajectory plays an important part in our attribution of both the physicality of a source (rigid, soft, loose aggregate etc.) and the causality of the excitation (struck, stroked etc). The loudness trajectory of the sound onset is particularly significant in this respect, and often simple onset-trajectory manipulation is sufficient to radically alter the perceived physicality/causality of the source. Thus almost any sound can be given a struck-like attack by providing a sudden onset and perhaps an exponential decay. Conversely, a strongly percussive sound may be softened by very carefully 'shaving off' the attack to give a slightly more slowly rising trajectory. (Sound example 10.12).
+
+This area is discussed in more detail in Chapter 4.
+</page>

@@ -1,0 +1,19 @@
+<page id=78>
+LARGE-DURATION REFERENCE FRAMES - THE NOT SO GOLDEN SECTION
+
+At the other extreme, music can be constructed as a set of nested time-frames in which at one level (e.g. a semiquaver time-frame) order-sequences are put in motion (rhythm) while at the same time establishing a time-frame (e.g. semibreve bars) in which longer duration order sequences can be set up.
+
+Within the time-frames fast-demisemiquaver to 1-or-2-minutes, hierarchical systems of interlocked levels functioning as order sequences in one direction and duration frames in the other can be articulated. (Diagram 16).
+
+There will, however, be a limit to our ability to perceive a large time-frame as precisely measurable and hence comparable with another event of comparable time-frame proportions, i.e. a timescale limit to measured perception. Though many composers writing musical scores would stake their reputations on the idea that we can hear and respond to precise proportions in larger time-frames (especially those derived from the Fibonacci series and associated Golden Section) there is little evidence to support this. Such proportions certainly look nice in scores and provide convenient ways to subdivide larger time-scales.
+
+The exact proportions offered by the Fibonacci series have the particular advantage of being nestable at longer and longer time-frames. (Diagram 17).
+
+This makes them attractive for work based on integral time units, e.g. quavers at the fundamental tempo of a piece. The question is, however, can we perceive these proportions in a measured sense, or do we perceive them in a comparative sense (1 to 1/2ish-2/3ish) while the exact measure makes the task of laying out the score possible. If we consider the golden section itself (the limit of the Fibonacci series) this will nest perfectly with itself. (Diagram 18).
+
+However, being an irrational quantity (in the mathematical sense - it cannot be expressed as the ratio of any pair of whole numbers) its parts are not integrally divisible by any number of fixed pulses, no matter how small. Hence it is intrinsically problematic to attempt to score in exact Golden Sections.  There is, of course, no such intrinsic problem to cutting tape-segments to such irrational proportions and hence, hypothetically, a perfect Golden Section nesting might be achieved in a studio composition.  Whether we are measurably perceiving this handiwork is quite a different question.
+
+On the relatively small time-frame of "swing" (see earlier discussion), subtle but comparative perception of proportions may be very significant (just as there are very subtle parameters in the spectral character of grain which we cannot "hear out" but which are fundamental to our qualitative perception). However, on much larger time-frames, we run into the problem of both longer term time memory and the influence of smaller scale event patterns on our sense of the passage of time (waiting ten minutes for this train seemed an interminable time reading the newspaper, an hour has gone by without my noticing).
+
+Due to the structure of the Fibonacci series, almost any proportion between 1 to 1/2 & 1 to 2/3 can be found within it and the nearer these proportions are to the Golden Section, the more likely they are to occur in the series. The question is, do we believe that we can measurably perceive these proportions (e.g. 34:21) or merely that we can comparatively perceive them all as lying within the range 1 to 1/2ish-2/3ish. More dramatically, because the Golden Section is an irrational quantity, then, by
+</page>

@@ -1,0 +1,37 @@
+
+PHASE VOCODER
+11
+Instrument producing a moment-by-moment analysis of a sound waveform to reveal its time-evolving
+spectrum. A windowed Fast Fourier Transform.
+PHASING
+9
+PHONEME
+A fundamental sound unit of a language, Crudely speaking we may think of vowels and consonants (as
+heard, rather than as written) but the true definition is more subtle.
+PHRASE
+Element of musical structure consisting of a sequence of sound events and, in traditional practice,
+usually lasting for a few bars.
+PHYSICALITY
+The physical nature of the apparent source of the sound. NOT the physical nature of the real source. Is
+the apparent source hard or soft, rigid or flexible, granular of of-a-piece etc.
+PITCH
+4
+A property of instrumental and vocal sounds organised in most traditional musical practices. Pitch
+arises from a regular arrangement of partials in the spectrum. All partials are multiples of some
+fundamental frequency which is audible (and which may or may not be present in the spectrum), and in
+this case they are known as the harmonics of the sound. In the simplest case (the sine wave) there is
+only the fundamental present. Humans hear pitch between approximately 16 cycles per second and 4000
+cycles per second. Below 16 cps, the sound breaks up into a grain-stream. Above 4000 cycles we may
+still be aware of tessitura (relative pitch-range) but assigning specific pitch becomes more problematic.
+PITCH-GLIDE
+See PORTAMENTO.
+PITCH-TRACKING
+70,71
+Finding and recording the (time-varying) pitch of a sound.
+PITCH-TRACKING BY AUTO-CORRELATION
+70
+PITCH-TRACKING BY PARTIAL ANALYSIS
+71
+PITCH-TRANSFER
+Imposing (time-varying) pitch of a sound on a different sound.
+127

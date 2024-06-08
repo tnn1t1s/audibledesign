@@ -1,0 +1,33 @@
+
+CADENCE
+A recognised device in a musical language which signals the end of a musical phrase, section or piece.
+CAUSALITY
+The way in which the sound was apparently initiated. NOT the actual cause of the sound. Was the
+source apparently struck, rubbed, shaken, spun etc. ??
+CHANGE RINGING
+A form of bell-ringing in which the order in which the bells are sounded is permuted in specific ways.
+CHANNEL
+Channel is most often used in this book to refer to an analysis channel. We derive the spectrum
+(frequency domain representation) of a sound from its waveform (time-domain representation) by a
+process of analysis. In doing the analysis we must decide how accurate we would like to be. We may
+search for a partial in each block of 100 cycles per second (i.e. between 50 and 150, 150 and 250, 250
+and 350 etc) or, more discriminatingly, in each block of 10 cycles per second (i.e. between 5 and 15, 15
+and 25, 25 and 30 etc.). These search blocks are the channels of the analysis. Channels should not be
+confused with WINDOWS.
+Channel is also used to refer to the right hand and left hand parts of a stereo sound (which can be
+viewed as two separate streams of digital information).
+CHORD
+A set of pitches initiated and sounding at the same time. Usually a set of pitches within a known
+reference set (e.g. the European tempered scale).
+CHORUSING
+45
+A process of making a single musical source (e.g. a voice) sound like a group of similar sources all
+making the same sound (e.g. a chorus of singers singing the same pitch).
+CHROMATIC SCALE
+The european scale consisting of all the semitone divisions of the octave.
+COMB-FILTER TRANSPOSITION
+65
+A quick method of achieving octave-upward transposition of a sound, where its pitch is known.
+COMB-FILTERING
+64
+114

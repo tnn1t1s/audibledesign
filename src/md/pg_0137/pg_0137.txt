@@ -1,0 +1,13 @@
+
+DIAGRAM 1
+For each window
+amp
+amp
+sound 2
+sound 1
+frq
+frq
+extract spectral contour
+from formant-varying sound.
+apply this spectral contour
+to spectrum of other sound.

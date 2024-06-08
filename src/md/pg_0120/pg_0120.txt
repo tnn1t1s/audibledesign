@@ -1,0 +1,22 @@
+<page id=86>
+CHAPTER 11
+
+
+TIME STRETCHING
+
+TIME-STRETCHING & TIME-FRAMES
+
+Time-stretching and time-shrinking warrant a separate chapter in this book because they are procedures which may breech the boundaries between perceptual time-frames. The importance of time-frames in our perception of sounds is discussed in detail in the section "Time-frames: samples, wavecycles, grains & continuation" in Chapter 1.
+
+Furthermore, the degree of time-stretching of a sound may itself vary through time, and with the precision of the computer such time-varying time-stretching (time-warping) may be applied with great accuracy.
+
+There are several different approaches to time-stretching and the approach we choose will depend both on the nature of the sound source and the perceptual result we desire. Below we will look at tape-speed variation, brassage techniques, waveset repetition (waveset time-stretching), frequency domain time-stretching (spectral time-stretching), and grain separation or grain duplication (granular time-stretching). We will then discuss various general aesthetic and perceptual issues relating to time- stretching before dealing with the most complex situation, the time-stretching of texture streams.
+
+"TAPE-SPEED" VARIATION
+
+In the classical tape-music studio, the only generally available way to time-stretch a sound was to change the speed at which the tape passed over the heads. The digital equivalent of this is to change the sampling frequency (in fact, interpolating new sample values amongst the existing ones, but storing the result at the standard sampling rate : see Appendix p37). This approach is used in sampling keyboards (1993) and table-reading instruments e.g. in CSound.
+
+In both cases the procedure (tape-speed variation) not only changes the sound duration but also the pitch because it alters the wavelengths (and therefore the frequency : see Appendix p4) in the time-domain signal. Similarly, it changes the frequency of the partials and hence also shifts the spectral contour, and hence the formants. And it time-stretches the onset characteristics, probably radically changing the sound percept in another way. (Appendix p36). (Sound example 11.1).
+
+Although time-warping, pitch-warping and formant-warping are thus not independent, this approach has its musical applications. In particular (multi-) octave (etc) upward transpositions can be used as short time-frame reinforcements of a sound's onset characteristics (see Chapter 4). Moreover, downward transposition by one or two octaves not only reveals the details of a sound's evolving morphology in a slower time-frame, making important details graspable. The transposition process itself often brings complex, very high frequency spectral information into a more perceptually accessible mid-frequency range (our hearing is most sensitive in this range). The internal qualities of a complex sound may thus be magnified in two complementary domains. Digital recording and transposition is
+</page>

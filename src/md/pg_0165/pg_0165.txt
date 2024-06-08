@@ -1,0 +1,35 @@
+
+*****M *****
+MAJOR
+Most european music uses one of two scale patterns, known as the major scale and the minor scale
+(the latter having a number of variants).
+META-INSTRUMENT
+An instrument which provides control instructions for another instrument. E.g. the mixing of sounds is
+controlled by a mixing score (which may be a graphic representation of sounds and their entry times, or
+a written list in a computer file). A meta-instrument might write or modify the mixing instructions
+according to criteria supplied by the composer, or in response to other data.
+MF
+mezzo forte = moderately loud.
+MIDI
+Acronym for Musical Instrument Digital Interface. This is a communication protocol for messages sent
+between different digital musical instruments and computers. MIDI stores information on which key is
+pressed or released, how forcefully (or quickly) it is pressed, and on certain kinds of control information
+provided by controllers on digital instruments (e.g. pitch-glide, tremolo etc), together with more
+instrument specific data (which synthesis patch is being used). MIDI does NOT record the sound itself.
+MINOR
+Most european music uses one of two scale patterns, known as the major scale and the minor scale.
+The minor scale has two important variants, the melodic and the harmonic minor.
+MIX-SHUFFLING
+47
+MIXING
+46
+MIXING SCORE
+A set of instructions detailing what will happen when a number of sounds are MIXED together. This
+might be a text file or a graphic display on a computer, but could equally well be a set of instructions for
+moving faders on a mixing desk in a studio. A typical mixing score would contain information about
+which sounds were to be used, at what time each would start, how loud each would be, and at what
+spatial position each should be placed.
+MONO
+Sound emanating from a single source (e.g. a single loudspeaker) or a single channel of digital
+information. As opposed to stereo.
+124

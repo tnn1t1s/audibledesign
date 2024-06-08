@@ -1,0 +1,17 @@
+<page id=33>
+TESSITURA CHANGE OF UNPITCHED SOUNDS
+
+The techniques of pitch change we have described can be applied to sounds without any definite pitch.  Inharmonic sound will, in general, be transposed in a similar way to pitched sounds. Waveset transposition will usually change the centre-of-energy (the "pitch-band" or tessitura) of noisy sounds so they appear to move higher (or lower). (Sound example 2.21). The harmoniser will usually have the same effect. Splitting the spectrum of a broad-band, noise-based sound using spectral shifting may not have any noticeable perceptual effect on the sound, even when the split is quite radical and chorusing will often be unnoticeable as the spectrum is already full of energy. However, the problem of formant shifting when transposing will apply equally well to, e.g. unvoiced speech sounds. (Sound example 2.22).
+
+We can also use this technique to give a sense of pitch motion in unpitched sounds - noise portamenti.  (Sound example 2.23).
+
+PITCH CREATION
+
+It is possible to give pitch qualities to initially unpitched sounds. There are two approaches to this which, at a deeper level, are very similar. A filter is an instrument which reinforces or suppresses particular parts of the spectrum. A filter may work over a large band of frequencies (when it is said to have a small Q) or over a narrow band of frequencies (when it has a large Q). We can use a filter not only to remove or attenuate parts of the spectrum but, by inversion, to accentuate what remains (bandpass filter : Appendix p7). In particular, narrow filters with very high "Q" (so that the bands allowed to pass are very abruptly defined), can single out narrow ranges of partials from a spectrum. A very narrow fixed filter can thus impose a marked spectral peak on the noisiest of sounds, giving it a pitched quality.
+
+In fact this process works best on noisier sounds because here the energy will be distributed over the entire spectrum and wherever we place our filter band(s), we will be sure to find some signal components to work on. Very tight Q on the filter will produce oscillator-type pitches, whilst less tight Q and broader bands will produce a vaguer focusing of the spectral energy. There are many degrees of "pitchiness" between pure noise and a ringing oscillator. (Sound example 2.24). We can also force our sound through a stack of filters, called a filter bank, producing "chords", and, increasing Q with time, move from noise towards such chords. (Sound example 2.25).
+
+In a sound with a simpler spectrum, a narrow, tight filter may simply miss any significant spectral elements - we may end up with silence!
+
+A very sophisticated approach to this process is spectral focusing (Appendix p20). In this process, we first make an analysis of a sound with (possibly time-varying) pitch using Linear Predictive Coding (Appendix pp12-13). However, we vary the size of the analysis window through time. With a normal size analysis window we will extract the spectral contour (the formants) (see above). With a very fine analysis window, however, we will pick out the individual partials.
+</page>

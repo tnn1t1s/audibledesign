@@ -1,0 +1,28 @@
+
+TRITONE
+The musical interval of 6 semitones. In the European tempered scale, a frequency ratio of the square
+root of 2, to 1.
+UNDULATION
+cyclical change in the value of a musical property, like the rising and falling of pitch in vibrato, or of
+loudness in tremolo.
+VIBRAPHONE
+A musical instrument consisting of pitched metal bars suspended over resonating tubes. When the bars
+are struck they produce a specific pitch. and the associated tube resonates at that pitch. A motor drives
+a small rotary blade inside the tube, adding slight vibrato-tremolo to the resonated sound.
+VIBRATO
+66
+Cyclical undulations of pitch between c. 4 and 20 cycles per second.
+VOCODING
+34
+*****W *****
+WAVELENGTH
+3,4
+WAVESET
+50
+WAVESET DISTORTION
+52
+Generally refers to any process which irreversibly alters the wavesets in a sound e.g. waveset
+inversion, omission, reversal, shaking, shuffling, substitution, averaging and harmonic distortion.
+Specifically used to refer to power-distortion i.e. raising each sample value of the sound to a power
+(e.g. squaring, cubing, taking the square root).
+136

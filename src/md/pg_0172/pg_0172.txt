@@ -1,0 +1,43 @@
+
+SOUND REVERSING
+43
+SOUND SHREDDING
+41
+SOUND-PLUCKING
+72
+A musical transformation which imposes a plucked-string-like attack on a sound.
+SOURCE-FOCUSSED TRANSFORMATION
+A musical transformation whose outcome depends strongly on the nature of the source sound. Defined
+in contrast to PROCESS-FOCUSSED TRANSFORMATION.
+SPECTRAL ARPEGGIATION
+24
+SPECTRAL BLURRING
+26
+SPECTRAL BRIGHTNESS
+A
+measure of where energy is focused in the spectrum. If some of upper partials are very loud, the
+sound will appear bright.
+SPECTRAL FOCUSING
+20
+SPECTRAL FORMANT TRANSFER
+see VOCODING.
+SPECTRAL FREEZING
+22
+SPECTRAL INTERLEAVING
+35
+SPECTRAL INTERPOLATION
+32-33
+SPECTRAL MANIPULATION
+18-35
+Musical processes that work directly on the (time-varying) spectrum of the sound.
+SPECTRAL MASKING
+34
+SPECTRAL SHAKING
+23
+SPECTRAL SHIFTING
+18
+SPECTRAL SPLITTING
+29
+SPECTRAL STRETCHING
+19
+131

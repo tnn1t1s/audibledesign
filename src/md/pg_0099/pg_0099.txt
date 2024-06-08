@@ -1,0 +1,23 @@
+<page id=72>
+CHAPTER 9
+
+TIME
+
+ABOUT TIME
+
+In this chapter we will discuss various aspects of the organisation of time in sound composition.  Clearly, rhythm is a major aspect of such a discussion but we will not dwell on rhythmic organisation at length because this subject is already dealt with in great detail in the existing musical literature. We will be more concerned with the nature of rhythmic perception and its boundaries.
+
+Our discussion will enable us to extend the notion of perceptual time-frames to durations beyond that of the grain and upwards towards the time-scale of a whole piece.
+
+WHERE DOES DENSITY PERCEPTION BEGIN ?
+
+In the previous chapter we discussed texture-streams which were temporally dense but which might retain field properties in other dimensions (like Hpitch or formant-type). We must now admit that the concept of density and density variation can be applied to any sound parameter. For example, if we have pitch confined over a given range, a pitch density value would tell us how densely the pitch-events covered the continuum of pitch values between the upper and lower limits of the range (not time-wise but pitch-wise).
+
+In this case we can begin to see that the concepts of Density and Field applied over the same parameter come into conflict. Once the pitch-density (in this new sense) becomes very high, we loose any sense of a specific Hpitch field or HArmonic reference frame, though we may continue to be aware of the range limits of the field. (Sound example 9.1).
+
+We must therefore ask, what is the dividing line between field, or reference-frame, perception and density perception in any one dimension. In this chapter we will confine ourselves to the dimension of temporal organisation. Our conclusions may however be generalised to the field/density perceptual break in any other dimension (e.g. Hpitch organisation).
+
+Compositionally, we can create sequences of events that gradually lose a (measured) sense of rhythm.  Thus we may begin with a computer-quantised rhythmic sequence which has an "unnatural" or "mechanical" precision. Adding a very small amount of random scatter to the time-position of the events, gives the rhythm a more "natural" or "human performed" feel. This is because very accurately performed rhythmic music is not "accurate" in a precisely measured sense but contains subtle fluctuations from "exactness" which we regard as important and often essential to a proper rhythmic "feel".
+
+Increasing the random scatter a little further we move into the area of loosely performed rhythm, or even badly performed rhythm and eventually the rhythm percept is lost. The time-sequence is arhythmic.  Once this point is reached we perceive the event succession as having a certain density of event onsets - our perception has changed from grasping rhythmic ordering as such to grasping only density and density fluctuations. (Sound example 9.2).
+</page>

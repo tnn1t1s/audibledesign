@@ -1,0 +1,32 @@
+
+B *****
+BAND PASS FILTER
+7
+BAND REJECT FILTER
+7
+BAR
+A grouping of musical duration-units. The bar-length is measured in some basic musical unit (e.g.
+crotchets, quavers) for which a speed (tempo) is given (e.g. 120 crotchets per minutes). In most
+musics, bar length is regular for long stretches of time, and bar length is one determinant of perceived
+rhythm.
+BRASSAGE
+44-45
+A procedure which chops a sound into a number of segments and then resplices these together tail to
+head. In the simplest case sounds are selected in order, from the source, and respliced back together in
+order. However there are many possible variations on the procedure. Brassage may be used for
+changing the duration of a sound, for evolving montage based on a sound-source, and for many other
+musical applications. See also GRANULAR RECONSTRUCTION
+BREAKPOINT TABLE
+A table which associates the value of some time-varying quantity (e.g. pitch, loudness, spectral stretch
+etc.) and the time at which that value is reached. e.g.
+(time) (value)
+0.0
+2.7
+1.3
+2.2
+1.7
+2.1
+This table allows us to describe the time-varying - trajectory of the quantity, and a musical program may
+read the data in the table, interpolating between the given values where necessary, to determine what
+to do at a particular time in the source-sound.
+113

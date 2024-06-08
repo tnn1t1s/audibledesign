@@ -1,0 +1,25 @@
+<page id=31>
+In the frequency domain, pitch-shifting is straightforward. We need only multiply the frequencies of the components in each channel (in each window) by an appropriate figure, the transposition ratio. As this does not change the window duration, the pitch is shifted without changing the sounds duration. This is spectral shifting. (Sound example 2.13).
+
+PRESERVING THE SPECTRAL CONTOUR
+
+All these approaches, however, shift the formant-characteristics of the spectrum. The problem here is that certain spectral characteristics of a sound are determined by the overall shape of the spectrum at each moment in time (the spectral contour) and particularly by peaks in the spectral contour known as formants (see Chapter 3). Thus the vowel sound "a" will be found to be related to various peaks in the spectral contour. If we change the pitch at which "a" is sung, the partials in the sound will all move up (or down) the frequency ladder. However, the spectral peaks will remain where they were in the frequency space. Thus, if there was a peak at around 3000 Hz, we will continue to find a peak at around 3000 Hz. (See Appendix p10).
+
+Simply multiplying the channel frequencies by a transposition ratio causes the whole spectrum, and hence the spectral peaks (formants), to move up (or down) the frequency space. Hence the formants are moved and the "a"-ness of the sound destroyed. (Appendix p16).
+
+A more sophisticated approach therefore involves determining the spectral contour in each window, retaining it and then superimposing the unshifted contour on the newly shifted partials. The four stages might be as follows...
+
+(a) Extract the spectral contour using linear predictive coding (LPC) (Appendix pp12-13).
+
+(b) Extract the partials with the phase vocoder. (Appendix p11) or with a fine-grained LPC (see spectral-focusing below).
+
+(c) Flatten the spectrum using the inverse of the spectral contour.
+
+(d) Change the spectrum.
+
+(e) Reimpose the original spectral contour.(See Appendix p17).
+
+Ideally this approach of separating the formant data and the partial data should be applied even when merely imposing vibrato on a sound (see Chapter 10) but it is computationally intensive and, except in the case of the human voice, probably excessively fastidious in most situations.
+
+Formant drift is an obvious problem when dealing with speech sounds, but needs to be borne in mind more generally. An instrument is characterised often by a single soundbox (piano, violin) which provides a relatively fixed background spectral contour for the entire gamut of notes played on it. We are, however, more obviously aware of formant drift in situations (like speech) where the articulation of formants is significant.
+</page>

@@ -1,0 +1,40 @@
+
+THE STRUCTURAL FUNCTION OF INTERPOLATION
+It is instructive to examine the form of some sound composition phrases to illustrate this
+multi-dimensional approach. The sound examples here are taken from Tongues of Fire (1992-94). In
+Sound Example 13.1 we begin with a vocal sound whose tail is spectrally time-stretched with a gentle
+tremolo at its end. The prior context is that of voice sounds, Voice sounds themselves are only
+recognisable as such through a complex interaction of properties (pitch-tessitura, pitch-glide speed
+and range, formant and formant-glide set, noise types, general rate and semi-regularity of sequencing
+etc.).
+After the first downward portamento we arrive at a section based on variants of this time-stretched
+voice-tail. Here the sliding inharmonic sound falls or rises or is vibrato or tremolo articulated in
+numerous ways. Each event in this segment begins vocally, but the spectrally time-stretched tail
+extensions are linked through their (time-evolving) spectral type; pitch and loudness are the principle
+articulating parameters.
+This leads us to a varied recapitulation of the falling portamento with tremolando idea, but now the
+loudness trajectory of the tremolando cuts so deep that the originally continuous sound breaks into a
+succession of wood-like onsets. This is a sonic modulation from voice to 'wood' and is akin to a key
+change in the tonal system. However, this is only a passing modulation. We switch back again into a
+section of variants on the time-stretched tail of the vocal sound.
+This section ends with a true sonic modulation, the ritardandoing wood events firmly establishing a new
+sonic area, no longer vocal, but 'wood-like'. It is interrupted by a surprising shift back towards the
+voice-tail, but, in fact this octave stacked, onset-enveloped version of the tail occurs without the vocal
+initiator, thus underlining the sonic "key change" which has taken place. As this event clears, the
+wood-like events rise in pitch and density, establishing a high granular texture. The voice has now
+been left behind. We are in a new sonic "key".
+This sense of elsewhere is reinforced by a further pair of passing sonic modulations, as an accelerating
+wood-event (twice) transforms into a drum-like attack, itself colored by a very high frequency version
+of the granular texture, adding a cymbal-like presence to these onsets.
+The section ends with yet another surprising sound-modulation as the vocal onset returns but (out of a
+set of other transforms) goes over into a sound like random vocal grit.
+In my description of this event 1 have tried to emphasise the structural importance of sonority by
+comparing it to tonal structure. 1 am also stressing the structural function of interpolation as a
+continuum-domain analogue of tonal modulation. There are clearly important differences. The set of
+keys in the tonal system form a finite, discrete and cyclic set of possibilities (see On Sonic Art) and the
+tonal system is rooted in this underlying structure. The Sonic Continuum is neither discrete nor cyclic -
+but, by contrast, it is wonderfully multi-dimensional, and we still retain some sense of the 'distance' of
+one sound from another even if we cannot measure this in the way we can measure the distance around
+the cycle of fifths (see also the discussion of measured, comparative and textural perception in Chapter
+9).
+105

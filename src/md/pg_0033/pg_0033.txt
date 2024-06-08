@@ -1,0 +1,21 @@
+<page id=22>
+We can see the same mixed classification in the Indian raga system where a raga is often defined in terms of both a scale (of static pitch values) and various motivic figures often involving sliding intonations (motion-types). In general, in the case of pitch reference-frames, values lying off the reference frame may only be used as ornamental or articulatory features of the musical stream. They have a different status to that of pitches on the reference frame (cf. "blue notes" in Jazz, certain kinds of baroque ornamentation etc).
+
+A reference frame gives a structure to a sonic space enabling us to say "I am here" and not somewhere else. But pitch reference frames have special properties. Because we normally accept the idea of octave equivalence (doubling the frequency of a pitched sound produces the "same" pitch, one octave higher), pitch reference frames are cyclic, repeating themselves at each octave over the audible range.  In contrast, in the vowel space, we have only one "octave" of possibilities but we are still able to recognise, without reference to other vowel sounds, where we are in the vowel space. We have a sense of absolute position.
+
+People with perfect pitch can deal with pitch space in this absolute sense, but for most of us, we have only some general conception of high and low. We can, however, determine our position relative to a given pitch, using the notion of interval. If the octave is divided by a mode or scale into an asymmetrical set of intervals, we can tell where we are from a small set of notes without hearing the key note because the interval relationships between the notes orient us within the set-of- intervals making up the scale, We cannot do this trick, however, with a completely symmetrical scale ( whole-tone scale, chromatic scale) without some additional clues (See Diagram 8).
+
+Cyclic repetition over the domain of reference and the notion of interval are specific to pitch and time reference-frames. However, time reference frames which enter into our perception of rhythm are particularly contentious in musical circles and I will postpone further discussion of these until Chapter 9.
+
+Traditional Western music practice is strongly wedded to pitch reference frames. In fact on many instruments (keyboards, fretted strings) they are difficult to escape. However, in sonic composition we can work...
+
+(a) with static properties on a reference frame.
+
+(b) with static properties without a reference frame.
+
+(c) with properties of motion.
+
+Furthermore, we can transform the reference frame itself, through time, or move on to, and away from, such a frame. Computer control permits the very precise exploration of this area of new possibilities.
+
+It is particularly important to understand that we can have pitch, and even stable pitch, without having a stable reference frame and hence without having a HArmonic sense of pitch in the traditional sense.  (See Diagram 9). We can even imagine establishing a reference frame for pitch-motion types without having a HArmonic frame - this we already find in tone languages in China and Africa.
+</page>
