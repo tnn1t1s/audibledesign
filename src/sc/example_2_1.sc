@@ -7,7 +7,8 @@ system can integrate and perceive these separated sounds as a cohesive auditory 
 SynthDef(\harmonicVoice, {
         |out = 0, freq = 311.3, gate = 1|
         var sound, evenHarmonics, oddHarmonics, evenPan, oddPan;
-	    var numHarmonics = 20; // Total number of harmonics
+	var numHarmonics = 20; // Total number of harmonics
+        var halfHarmonics = 10; // Half the total 
         var amp = 1.0; // Base amplitude for harmonics
         var env, envGen; // Envelope and envelope generator variables
         
@@ -16,7 +17,7 @@ SynthDef(\harmonicVoice, {
         envGen = EnvGen.kr(env, gate, doneAction: 2); // doneAction: 2 will free the synth when done
         
         // Generate harmonics and pan based on being odd or even
-	    oddHarmonics = Mix.fill(10, { |i| 
+	 oddHarmonics = Mix.fill(10, { |i| 
 		    SinOsc.ar(freq * (2 * i + 1), 0, amp * (1 / (2 * i + 1))) });
 
         evenHarmonics = Mix.fill(10, { |i|
