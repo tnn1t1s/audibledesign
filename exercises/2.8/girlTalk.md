@@ -6,7 +6,7 @@ Exercise 2.8 in Audible Design is the first really challenging one. The original
 For my interpretation, I will start with this audio:
      - https://www.youtube.com/watch?v=Dixj6B_eoog
 
-The split the audio using pyDub
+Then split the audio using pyDub
 python ./utils/split_audio.py ./sounds/girlTalk.mp3 ./sounds/girlTalkPieces --noise_floor -50 --time_ms 300
 
 This works very well.
