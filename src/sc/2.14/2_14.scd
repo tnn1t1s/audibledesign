@@ -1,39 +1,41 @@
-
-// "/Users/dps/Desktop/audible_design/scratch/audibledesign/src/sc/sounds/Rev909Crowd.mp3")
-
 (
-// SynthDef for stereo spectral stretching
-SynthDef(\spectralStretchStereo, {
-    arg bufnum=0, out=0, stretch=1, fftSize=2048;
-    var input, chainL, chainR;
-    input = PlayBuf.ar(2, bufnum, BufRateScale.kr(bufnum), loop: 1);
+// SynthDef for dual pitch effect
+SynthDef(\dualPitch, {
+    arg bufnum=0, out=0, pitchShift=1.5, mix=0.5, fftSize=2048;
+    var input, original, shifted, chainL, chainR;
     
-    // Process left and right channels separately
+    input = PlayBuf.ar(2, bufnum, BufRateScale.kr(bufnum), loop: 1);
+    original = input;
+    
+    // Process left and right channels separately for pitch shifting
     chainL = FFT(LocalBuf(fftSize), input[0]);
     chainR = FFT(LocalBuf(fftSize), input[1]);
     
-    chainL = PV_BinShift(chainL, stretch);
-    chainR = PV_BinShift(chainR, stretch);
+    chainL = PV_BinShift(chainL, pitchShift);
+    chainR = PV_BinShift(chainR, pitchShift);
     
-    Out.ar(out, [IFFT(chainL), IFFT(chainR)]);
+    shifted = [IFFT(chainL), IFFT(chainR)];
+    
+    // Mix original and shifted signals
+    Out.ar(out, (original * (1 - mix)) + (shifted * mix));
 }).add;
 
-// Now, let's create a buffer with our source sound
-b = Buffer.read(s, "/Users/dp/Desktop/audible_design/scratch/audibledesign/src/sc/sounds/Rev909Crowd.mp3");
+// Create a buffer with our source sound
+b = Buffer.read(s, "/Users/davidpalaitis/Desktop/audible_design/scratch/audibledesign/src/sc/sounds/Rev909Crowd.mp3");
 
-// Function to play our stretched sound
-~playStretchedBuffer = { |buffer, stretchFactor|
-    Synth(\spectralStretchStereo, [
+// Function to play our dual pitch effect
+~playDualPitch = { |buffer, pitchShift=1.5, mix=0.5|
+    Synth(\dualPitch, [
         \bufnum, buffer,
-        \stretch, stretchFactor,
+        \pitchShift, pitchShift,
+        \mix, mix,
         \fftSize, 2048
     ]);
 };
 
-
-~playStretchedBuffer.(b, 0.5);
+// Play with dual pitch effect
+"Playing with dual pitch effect".postln;
+~playDualPitch.(b, 1.5, 0.5);
 
 "Finished".postln;
 )
-
-
