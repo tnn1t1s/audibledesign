@@ -1,0 +1,1 @@
+The phrase "stop the music and go home" from Daft Punk's "Revolution 909" is sampled from the Hollywood Edge Sound Effects Library. The track uses various sound effects from this library, including the spoken word sample used in the song. This technique of integrating sound effects into their music adds a unique texture to Daft Punk's production style​ (Wikipedia)​.
