@@ -3,6 +3,12 @@
 Exercise 2.8 in Audible Design is the first really challenging one. The original is example is here:
     - https://icrdistribution.bandcamp.com/track/chapter-28
 
+
+
+https://github.com/user-attachments/assets/3d5c00bc-7216-4572-afb3-0f64e39b7855
+
+
+
 For my interpretation, I will start with this audio:
      - https://www.youtube.com/watch?v=Dixj6B_eoog
 
