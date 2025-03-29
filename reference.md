@@ -12,3 +12,7 @@ akin to the way Gaussian processes predict values in regions of input space not 
 auditory inquiry into the stochastic processes that mirror the inherent uncertainties and richness of human language within a defined yet expansive communicative framework.
 
 2. Roger Reynolds' "Voicespace IV (The Palace)."
+
+
+3. Tapenotes Podcast Fred Again
+	- Drones
