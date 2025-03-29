@@ -1,52 +1,48 @@
 (
-SynthDef(\shepardTone, {
-    arg out=0, fundamental=16.35, numOctaves=10, rate=0.1, direction=1;
-    var freqs, amps, phases, snd;
+SynthDef(\shepardToneMoving, {
+    // Declare variables
+    var numOctaves, baseFreq, frequencies, tone, lfo;
 
-    // Generate frequencies for each octave
-    freqs = Array.fill(numOctaves, { |i|
-        fundamental * (2 ** i)
+    // Set constants
+    numOctaves = 6;
+    baseFreq = 20;  // 20 Hz
+
+    // Create an array of frequencies, one octave apart
+    frequencies = Array.fill(numOctaves, { |i|
+        baseFreq * (2 ** i)
     });
 
-    // LFO for frequency modulation
-    freqs = freqs * LFSaw.kr(rate, 1, 0.5, 1.5);
+    // Create an LFO (Low Frequency Oscillator)
+    // LFSaw generates a sawtooth wave that moves from -1 to 1
+    // We adjust it to move from 0 to 1 over about 10 seconds
+    lfo = LFSaw.kr(0.1, 1).range(0, 1);
 
-    // Generate amplitudes for each octave
-    amps = Array.fill(numOctaves, { |i|
-        var normFreq = (fundamental * (2 ** i)) / 16000;
-        (1 - cos(2pi * normFreq)) / 2
-    });
+    // Create the Shepard tone
+    tone = Mix.new(
+        numOctaves.collect({ |i|
+            // Calculate the amplitude for each oscillator
+            // This creates a moving "bell curve" shape
+            var amp = sin(pi * (i + lfo) / numOctaves);
+            
+            // Create the oscillator with moving frequency and amplitude
+            SinOsc.ar(
+                frequencies[i] * (2 ** lfo),  // Frequency rises with LFO
+                0,  // Phase
+                amp  // Amplitude
+            )
+        })
+    );
 
-    // Apply direction to amplitudes
-    amps = if(direction > 0, amps, amps.reverse);
-
-    // Generate phases
-    phases = Array.fill(numOctaves, { Rand(0, 2pi) });
-
-    // Generate the sound
-    snd = SinOsc.ar(freqs, phases, amps).sum;
-
-    Out.ar(out, snd ! 2);
+    // Output the tone
+    Out.ar(0, tone * 0.1 ! 2);  // Reduce volume and send to both channels
 }).add;
-
-// Function to play Shepard Tone
-~playShepardTone = { |fundamental=16.35, numOctaves=10, rate=0.1, direction=1|
-    Synth(\shepardTone, [
-        \fundamental, fundamental,
-        \numOctaves, numOctaves,
-        \rate, rate,
-        \direction, direction
-    ]);
-};
-
-// Play ascending Shepard Tone
-~playShepardTone.(16.35, 10, 0.1, 1);
-
-// Wait for 10 seconds
-s.waitForBoot {
-    10.wait;
-
-    // Play descending Shepard Tone
-    ~playShepardTone.(16.35, 10, 0.1, 0);
-};
 )
+
+// Play the moving Shepard tone
+x = Synth(\shepardToneMoving);
+
+// To stop the sound, evaluate this line:
+x.free;
+
+// To stop the sound, evaluate this line:
+x.free;
